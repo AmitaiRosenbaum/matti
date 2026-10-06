@@ -128,8 +128,7 @@ def build_command(item, output, ffmpeg=None, runtime=None, simulate=False):
                "--embed-metadata", "--embed-thumbnail", "--no-post-overwrites", "--convert-thumbnails", "jpg",
                "--parse-metadata", "playlist_index:%(meta_track)s",
                "--windows-filenames", "--newline", "--no-color", "--output", template]
-    if not item.get('kind'):
-        command += ["--match-filter", "title !~= (?i)unreleased"]
+    command += ["--match-filter", "title !~= (?i)unreleased"]
     if ffmpeg:
         command += ["--ffmpeg-location", ffmpeg]
     if runtime:

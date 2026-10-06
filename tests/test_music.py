@@ -42,7 +42,7 @@ class DownloaderTests(unittest.TestCase):
             command = music.build_command(item, Path('new-output'))
             options = yt_dlp.parse_options(command[3:]).ydl_opts
             self.assertEqual(options['noplaylist'], item['kind'] == 'video')
-            self.assertNotIn('--match-filter', command)
+            self.assertIn('--match-filter', command)
             with yt_dlp.YoutubeDL(options) as downloader:
                 filename = downloader.prepare_filename(dict(id='abcdefghijk', title='A Song', ext='mp3',
                     playlist_title='An Album', playlist_index=2))
@@ -174,6 +174,15 @@ class DownloaderTests(unittest.TestCase):
             match = parsed.ydl_opts['match_filter']
             self.assertIsNotNone(match(dict(title='UNRELEASED recording')))
             self.assertIsNone(match(dict(title='Allegro')))
+
+    def test_unreleased_filter_for_link_downloads(self):
+        import yt_dlp
+        for kind in ('playlist', 'video'):
+            item = dict(self.item, kind=kind, input_index=1)
+            parsed = yt_dlp.parse_options(music.build_command(item, Path('output'))[3:])
+            match = parsed.ydl_opts['match_filter']
+            self.assertIsNotNone(match(dict(title='UnReLeAsEd spam')))
+            self.assertIsNone(match(dict(title='Real song')))
 
     def test_no_ffmpeg_startup_execution(self):
         with patch('music.importlib.util.find_spec', return_value=object()), \

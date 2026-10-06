@@ -50,8 +50,8 @@ text-file names or explicit output folders for separate projects.
 
 The same MP3 quality, embedded artwork/metadata, conservative request delays,
 yt-dlp retries and Ctrl+C handling apply. There are no outer playlist retries.
-Unlike the old classical catalogue, plain link batches do not automatically
-exclude titles containing “Unreleased”. A video already archived in this project
+All download modes exclude titles containing “Unreleased”, regardless of case.
+A video already archived in this project
 is skipped even if it appears in another supplied playlist. The classical-specific
 metadata cleanup scripts are not applied to new projects.
 
@@ -136,6 +136,23 @@ does not guarantee that a playlist has no private or filtered items.
 Implementation reference: [yt-dlp documentation](https://github.com/yt-dlp/yt-dlp#readme).
 
 ## Metadata cleanup
+
+### Plain-text lyrics for Musicolet
+
+```powershell
+python embed_txt_lyrics.py
+python embed_txt_lyrics.py --apply
+```
+
+Defaults to `downloads/amitai-songs`. Use `--library "D:\Music\My Project"`
+for another library. Imports same-name UTF-8 `.txt` files into MP3 USLT lyrics
+tags, including songs that also have an `.lrc` file. Existing embedded lyrics
+are preserved; `--replace` replaces plain lyrics but preserves synced tags.
+Empty or invalid UTF-8 text is not imported. Source `.txt` and `.lrc` files
+are retained. Each edited MP3 is backed up under `metadata-backups/lyrics-*`;
+audio, artwork and saved lyrics are verified, with restoration on failure.
+Reruns skip existing lyrics. Copy updated MP3s and `.lrc` files to the phone
+and reload metadata in Musicolet.
 
 After downloads finish, preview or apply the library tag cleanup:
 
