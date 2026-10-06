@@ -1,0 +1,6 @@
+library = "../downloads/amitai-songs"
+links = "../amitai-songs.txt"
+aliases = "amitai-aliases.json"
+lyrics = true
+workers = 4
+web = true

@@ -1,5 +1,2 @@
-yt-dlp[default]>=2026.8.19
-yt-dlp-ejs
-mutagen>=1.48.1
-requests>=2.32.3
-beautifulsoup4>=4.12.3
+# Compatibility installation path; pyproject.toml owns dependencies.
+-e .

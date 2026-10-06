@@ -5,3 +5,9 @@ classical_music/
 metadata-backups/
 downloads/
 .lyrics-deps/
+
+*.egg-info/
+build/
+dist/
+.matti/
+library/

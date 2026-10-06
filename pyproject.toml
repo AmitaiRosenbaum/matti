@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "matti"
+version = "0.1.0"
+description = "Resumable music downloads and automatic lyrics for local libraries"
+requires-python = ">=3.11"
+dependencies = [
+  "yt-dlp[default]>=2026.8.19", "yt-dlp-ejs", "mutagen>=1.48.1",
+  "requests>=2.32.3", "beautifulsoup4>=4.12.3",
+]
+
+[project.scripts]
+matti = "matti.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["matti*"]
