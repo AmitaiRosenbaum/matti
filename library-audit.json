@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Mozart - Piano Sonatas",
+    "url": "https://www.youtube.com/playlist?list=PLEhQ5Ooc2lLqc6wq7sgzTHOour-kPcUju",
+    "local_mp3_count": 57,
+    "missing": [],
+    "excluded": [],
+    "leftovers": [],
+    "playlist_count": 57,
+    "listed_count": 57,
+    "matched_count": 57
+  },
+  {
+    "name": "Mozart - Piano Concertos",
+    "url": "https://www.youtube.com/playlist?list=PLFD021B50EBAB3677",
+    "local_mp3_count": 22,
+    "missing": [],
+    "excluded": [],
+    "leftovers": [],
+    "playlist_count": 22,
+    "listed_count": 22,
+    "matched_count": 22
+  },
+  {
+    "name": "Mozart - Great Mass in C Minor K427",
+    "url": "https://www.youtube.com/watch?v=gdHKhcbZEWI",
+    "local_mp3_count": 1,
+    "missing": [],
+    "excluded": [],
+    "leftovers": [],
+    "listed_count": 1,
+    "matched_count": 1
+  },
+  {
+    "name": "Mozart - Requiem",
+    "url": "https://www.youtube.com/watch?v=XmttZ-BnwaI",
+    "local_mp3_count": 1,
+    "missing": [],
+    "excluded": [],
+    "leftovers": [],
+    "listed_count": 1,
+    "matched_count": 1
+  },
+  {
+    "name": "Beethoven - Missa Solemnis",
+    "url": "https://www.youtube.com/watch?v=S8Yy0gSt-JE",
+    "local_mp3_count": 1,
+    "missing": [],
+    "excluded": [],
+    "leftovers": [],
+    "listed_count": 1,
+    "matched_count": 1
+  },
+  {
+    "name": "Beethoven - Piano Concertos",
+    "url": "https://www.youtube.com/playlist?list=PLZgDvxgjzgXbiasdGmj8q44x5BO_w3-IR",
+    "local_mp3_count": 15,
+    "missing": [],
+    "excluded": [],
+    "leftovers": [],
+    "playlist_count": 15,
+    "listed_count": 15,
+    "matched_count": 15
+  },
+  {
+    "name": "Shostakovich - String Quartets",
+    "url": "https://www.youtube.com/playlist?list=PLZgDvxgjzgXZZ_i3sNJo4nnOg6wqGXpjI",
+    "local_mp3_count": 75,
+    "missing": [],
+    "excluded": [],
+    "leftovers": [],
+    "playlist_count": 75,
+    "listed_count": 75,
+    "matched_count": 75
+  },
+  {
+    "name": "Shostakovich - Cello Concerto",
+    "url": "https://www.youtube.com/watch?v=h23WjKXDe4w",
+    "local_mp3_count": 1,
+    "missing": [],
+    "excluded": [],
+    "leftovers": [],
+    "listed_count": 1,
+    "matched_count": 1
+  },
+  {
+    "name": "Ravel - Chamber Music",
+    "url": "https://www.youtube.com/playlist?list=PLN97FCWt05fTWqe7U1n4HRARi2uC5Gg02",
+    "local_mp3_count": 12,
+    "missing": [],
+    "excluded": [
+      {
+        "position": 3,
+        "id": "J0vUqvfHQeQ",
+        "title": "Unreleased",
+        "availability": null,
+        "archived": false
+      }
+    ],
+    "leftovers": [],
+    "playlist_count": 13,
+    "listed_count": 13,
+    "matched_count": 12
+  },
+  {
+    "name": "Brahms - Cello",
+    "url": "https://www.youtube.com/playlist?list=PL2QzwXCOuSOvwDP9kkW286HwDvmINGR-L",
+    "local_mp3_count": 7,
+    "missing": [],
+    "excluded": [
+      {
+        "position": 3,
+        "id": "J0vUqvfHQeQ",
+        "title": "Unreleased",
+        "availability": null,
+        "archived": false
+      }
+    ],
+    "leftovers": [],
+    "playlist_count": 8,
+    "listed_count": 8,
+    "matched_count": 7
+  },
+  {
+    "name": "Ysaye - Solo Violin Sonatas",
+    "url": "https://www.youtube.com/playlist?list=PL5KxEyxTsMyddnmn_Ch1OYr1q56eJUFh6",
+    "local_mp3_count": 15,
+    "missing": [],
+    "excluded": [],
+    "leftovers": [],
+    "playlist_count": 15,
+    "listed_count": 15,
+    "matched_count": 15
+  },
+  {
+    "name": "Kodaly - Sonata for Solo Cello",
+    "url": "https://www.youtube.com/watch?v=qpCXNI9k9PQ",
+    "local_mp3_count": 1,
+    "missing": [],
+    "excluded": [],
+    "leftovers": [],
+    "listed_count": 1,
+    "matched_count": 1
+  },
+  {
+    "name": "Verdi - La Traviata",
+    "url": "https://www.youtube.com/playlist?list=PLExdRU27xbS1UvbKGW2hjrMWXq3qFsY_j",
+    "local_mp3_count": 24,
+    "missing": [],
+    "excluded": [],
+    "leftovers": [],
+    "playlist_count": 24,
+    "listed_count": 24,
+    "matched_count": 24
+  },
+  {
+    "name": "Bach - Cello Suites",
+    "url": "https://www.youtube.com/playlist?list=PLQK3FPAaa7OXwy-JjTXjz-sHGQ4Wq8rsy",
+    "local_mp3_count": 36,
+    "missing": [],
+    "excluded": [],
+    "leftovers": [],
+    "playlist_count": 36,
+    "listed_count": 36,
+    "matched_count": 36
+  },
+  {
+    "name": "Mahler - Symphony No 2",
+    "url": "https://www.youtube.com/playlist?list=PLWQJNlUe-joKYV99S5StE0-Q6sgp7B5pO",
+    "local_mp3_count": 11,
+    "missing": [],
+    "excluded": [],
+    "leftovers": [],
+    "playlist_count": 11,
+    "listed_count": 11,
+    "matched_count": 11
+  },
+  {
+    "name": "Mahler - Symphony No 3",
+    "url": "https://www.youtube.com/watch?v=oSBfEPAnDsY",
+    "local_mp3_count": 1,
+    "missing": [],
+    "excluded": [],
+    "leftovers": [],
+    "listed_count": 1,
+    "matched_count": 1
+  },
+  {
+    "name": "Mahler - Symphony No 5",
+    "url": "https://www.youtube.com/watch?v=5J5xekhNubE",
+    "local_mp3_count": 1,
+    "missing": [],
+    "excluded": [],
+    "leftovers": [],
+    "listed_count": 1,
+    "matched_count": 1
+  }
+]

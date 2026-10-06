@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+classical_music/
+*.part
+metadata-backups/
+downloads/

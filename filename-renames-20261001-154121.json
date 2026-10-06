@@ -1,0 +1,2666 @@
+[
+  {
+    "old": "Bach - Cello Suites\\001 - Suite no.1 in G major BWV 1007： Prelude [PhKeerpGbSw].mp3",
+    "new": "Bach - Cello Suites\\001 - Suite no.1 in G major BWV 1007： Prelude.mp3",
+    "status": "renamed",
+    "sha256": "24eec5647547fa893830ca82d2018c798e847904af5319206d6ea90cbee6a70a"
+  },
+  {
+    "old": "Bach - Cello Suites\\002 - Suite no.1 in G major BWV 1007： Allemande [wGK7kvnJrUc].mp3",
+    "new": "Bach - Cello Suites\\002 - Suite no.1 in G major BWV 1007： Allemande.mp3",
+    "status": "renamed",
+    "sha256": "84bdf1e06e004e88dca83850645e46cd25a89145dba0302c5c31a642f56ecb70"
+  },
+  {
+    "old": "Bach - Cello Suites\\003 - Suite no.1 in G major BWV 1007： Courante [oukt2k7po30].mp3",
+    "new": "Bach - Cello Suites\\003 - Suite no.1 in G major BWV 1007： Courante.mp3",
+    "status": "renamed",
+    "sha256": "51187f1f9950b9895c2dc5bdf47773acfd6f6bd83f1421034d9abcd1be164cb6"
+  },
+  {
+    "old": "Bach - Cello Suites\\004 - Suite no.1 in G major BWV 1007： Sarabande [ai7xzz1YK3Q].mp3",
+    "new": "Bach - Cello Suites\\004 - Suite no.1 in G major BWV 1007： Sarabande.mp3",
+    "status": "renamed",
+    "sha256": "739e2ec8a64790993823baa51a8935c898d49b0e4886054e15d9476648eeee49"
+  },
+  {
+    "old": "Bach - Cello Suites\\005 - Suite no.1 in G major BWV 1007： Menuet I and II [JuZbLy1rCRg].mp3",
+    "new": "Bach - Cello Suites\\005 - Suite no.1 in G major BWV 1007： Menuet I and II.mp3",
+    "status": "renamed",
+    "sha256": "5d54f17881b44bf758b626461f05d302fc9250b0ab609352fbf3a24752436074"
+  },
+  {
+    "old": "Bach - Cello Suites\\006 - Suite no.1 in G major BWV 1007： Gigue [2cYFRpgQ0sw].mp3",
+    "new": "Bach - Cello Suites\\006 - Suite no.1 in G major BWV 1007： Gigue.mp3",
+    "status": "renamed",
+    "sha256": "cd0ff52de01711bd0871d9a823f72db7a6f76f20bf2ee4491adb07d91dc2d4bf"
+  },
+  {
+    "old": "Bach - Cello Suites\\007 - Suite no.2 in D minor BWV 1008： Prelude [1tJiTsBcDYI].mp3",
+    "new": "Bach - Cello Suites\\007 - Suite no.2 in D minor BWV 1008： Prelude.mp3",
+    "status": "renamed",
+    "sha256": "dcdf6ce59da88e74eaa52c6457735e5ec2beb73ef4bca45764978e61fe2ca992"
+  },
+  {
+    "old": "Bach - Cello Suites\\008 - Suite no.2 in D minor BWV 1008： Allemande [BRX3PSFOCTc].mp3",
+    "new": "Bach - Cello Suites\\008 - Suite no.2 in D minor BWV 1008： Allemande.mp3",
+    "status": "renamed",
+    "sha256": "9724d0bbd8e4a9c2c4d4481d345fe772a5194f8cf98cc3e4341b31cdf18d2aa8"
+  },
+  {
+    "old": "Bach - Cello Suites\\009 - Suite no.2 in D minor BWV 1008： Courante [wVMeW3IR6Vo].mp3",
+    "new": "Bach - Cello Suites\\009 - Suite no.2 in D minor BWV 1008： Courante.mp3",
+    "status": "renamed",
+    "sha256": "469b6a1371c5e3b4e1eae5207faa3ca052da2d32215a7b07b9a3915f06ea6e86"
+  },
+  {
+    "old": "Bach - Cello Suites\\010 - Suite no.2 in D minor BWV 1008： Sarabande [yoS1kXmsw04].mp3",
+    "new": "Bach - Cello Suites\\010 - Suite no.2 in D minor BWV 1008： Sarabande.mp3",
+    "status": "renamed",
+    "sha256": "e8b90399abeda6feff691f327f4de4a7c7ab2d73425229c3c7d5e9a04fefffeb"
+  },
+  {
+    "old": "Bach - Cello Suites\\011 - Suite no.2 in D minor BWV 1008： Menuet I and II [12eeiPpyV6Q].mp3",
+    "new": "Bach - Cello Suites\\011 - Suite no.2 in D minor BWV 1008： Menuet I and II.mp3",
+    "status": "renamed",
+    "sha256": "d9b61a46ce1391b4b69b705ae8cb9d523b563ee45e658efa74ae5353cf666098"
+  },
+  {
+    "old": "Bach - Cello Suites\\012 - Suite no.2 in D minor BWV 1008： Gigue [3S8CstZu1eY].mp3",
+    "new": "Bach - Cello Suites\\012 - Suite no.2 in D minor BWV 1008： Gigue.mp3",
+    "status": "renamed",
+    "sha256": "577cbc26f5885aec328ab7d4c76eeae1d6666cdf017a9f10cff0fec9f77fbe1c"
+  },
+  {
+    "old": "Bach - Cello Suites\\013 - Suite no.3 in C major BWV 1009： Prelude [o_zKs-9LBOE].mp3",
+    "new": "Bach - Cello Suites\\013 - Suite no.3 in C major BWV 1009： Prelude.mp3",
+    "status": "renamed",
+    "sha256": "396c8859a47d5a79e600955b9e48b6c6a3d3333d16b0f6802bf97e0cca75fe87"
+  },
+  {
+    "old": "Bach - Cello Suites\\014 - Suite no.3 in C major BWV 1009： Allemande [77-1ZnzOMsM].mp3",
+    "new": "Bach - Cello Suites\\014 - Suite no.3 in C major BWV 1009： Allemande.mp3",
+    "status": "renamed",
+    "sha256": "10707e454cee3f6025d24b199ebe1186cb6590f505a77200d7f835fb3b98723a"
+  },
+  {
+    "old": "Bach - Cello Suites\\015 - Suite no.3 in C major BWV 1009： Courante [weU0AnL3RC0].mp3",
+    "new": "Bach - Cello Suites\\015 - Suite no.3 in C major BWV 1009： Courante.mp3",
+    "status": "renamed",
+    "sha256": "2ae676adc9c8aa0e7b655d4aecc51424044a529ca85738cb085d06889ab143df"
+  },
+  {
+    "old": "Bach - Cello Suites\\016 - Suite no.3 in C major BWV 1009： Sarabande [CdfwPnTGue4].mp3",
+    "new": "Bach - Cello Suites\\016 - Suite no.3 in C major BWV 1009： Sarabande.mp3",
+    "status": "renamed",
+    "sha256": "6a54c744641bbf07f619acf2cd68e1c69cb184ca316808e96ac7e4ad0fc6471b"
+  },
+  {
+    "old": "Bach - Cello Suites\\017 - Suite no.3 in C major BWV 1009： Bourrée I and II [9nr4oYOddU0].mp3",
+    "new": "Bach - Cello Suites\\017 - Suite no.3 in C major BWV 1009： Bourrée I and II.mp3",
+    "status": "renamed",
+    "sha256": "85794c5e01d138427de152b6cbe7013f41a517f9762ddeda78751b8c7b6daeae"
+  },
+  {
+    "old": "Bach - Cello Suites\\018 - Suite no.3 in C major BWV 1009： Gigue [wiAswyjqfCw].mp3",
+    "new": "Bach - Cello Suites\\018 - Suite no.3 in C major BWV 1009： Gigue.mp3",
+    "status": "renamed",
+    "sha256": "9b67a36e49e78b67a8a4732fbbf805ed770474e5e3d4b45fd2cabc42ef8b62dd"
+  },
+  {
+    "old": "Bach - Cello Suites\\019 - Suite no.4 in E flat major BWV 1010： Prelude [LkArpATR_6c].mp3",
+    "new": "Bach - Cello Suites\\019 - Suite no.4 in E flat major BWV 1010： Prelude.mp3",
+    "status": "renamed",
+    "sha256": "d279dbc1e583df04a4ffdadde32abbff53ed92dae31ce78f4e4ed2cedcdaa1a8"
+  },
+  {
+    "old": "Bach - Cello Suites\\020 - Suite no.4 in E flat major BWV 1010： Allemande [npkqbfcUTbU].mp3",
+    "new": "Bach - Cello Suites\\020 - Suite no.4 in E flat major BWV 1010： Allemande.mp3",
+    "status": "renamed",
+    "sha256": "21878a3fe871665bbaf840dfa83ec9bfa4bd3de95b267fac9bde24ca3b02faeb"
+  },
+  {
+    "old": "Bach - Cello Suites\\021 - Suite no.4 in E flat major BWV 1010： Courante [8SsbpetPfDs].mp3",
+    "new": "Bach - Cello Suites\\021 - Suite no.4 in E flat major BWV 1010： Courante.mp3",
+    "status": "renamed",
+    "sha256": "1fb732617312981b2ae541342e8d8a76b7159eee36fc6244c12b3ad10290b3f2"
+  },
+  {
+    "old": "Bach - Cello Suites\\022 - Suite no.4 in E flat major BWV 1010： Sarabande [rqCmWb4K94I].mp3",
+    "new": "Bach - Cello Suites\\022 - Suite no.4 in E flat major BWV 1010： Sarabande.mp3",
+    "status": "renamed",
+    "sha256": "61395b499bd60ef5fc375b8508ac8e3c7c072a90747e3250594a4a57c8e751e1"
+  },
+  {
+    "old": "Bach - Cello Suites\\023 - Suite no.4 in E flat major BWV 1010： Bourrée I and II [j24oxdfPEhQ].mp3",
+    "new": "Bach - Cello Suites\\023 - Suite no.4 in E flat major BWV 1010： Bourrée I and II.mp3",
+    "status": "renamed",
+    "sha256": "123e4ce56aa4d89add847ff73da346f51850f7589cce64559a69b84df05e569c"
+  },
+  {
+    "old": "Bach - Cello Suites\\024 - Suite no.4 in E flat major BWV 1010： Gigue [-dkDYBDmLwA].mp3",
+    "new": "Bach - Cello Suites\\024 - Suite no.4 in E flat major BWV 1010： Gigue.mp3",
+    "status": "renamed",
+    "sha256": "a235cc7b0d5bfb00399b51aceb0c7acaf53f375c9fc50978246eef51db553ccc"
+  },
+  {
+    "old": "Bach - Cello Suites\\025 - Suite no.5 in C minor BWV 1011： Prelude [EUzcbciSyQk].mp3",
+    "new": "Bach - Cello Suites\\025 - Suite no.5 in C minor BWV 1011： Prelude.mp3",
+    "status": "renamed",
+    "sha256": "1fbdcd82f73dc195433f0b5f824525f091512cd5aec389cb8600c24a51279b0b"
+  },
+  {
+    "old": "Bach - Cello Suites\\026 - Suite no.5 in C minor BWV 1011： Allemande [GYGw8tPxq8Q].mp3",
+    "new": "Bach - Cello Suites\\026 - Suite no.5 in C minor BWV 1011： Allemande.mp3",
+    "status": "renamed",
+    "sha256": "b95af7a685f271f92c82e54a4bd19491a232401aaf13d90ff672ad791679d219"
+  },
+  {
+    "old": "Bach - Cello Suites\\027 - Suite no.5 in C minor BWV 1011： Courante [yl77UWqp-n0].mp3",
+    "new": "Bach - Cello Suites\\027 - Suite no.5 in C minor BWV 1011： Courante.mp3",
+    "status": "renamed",
+    "sha256": "f0b82a2910a2883507a2c3ec3061499bb21a83ecd4c7827c7e044e8900d4569a"
+  },
+  {
+    "old": "Bach - Cello Suites\\028 - Suite no.5 in C minor BWV 1011： Sarabande [lyPqB5A9iwE].mp3",
+    "new": "Bach - Cello Suites\\028 - Suite no.5 in C minor BWV 1011： Sarabande.mp3",
+    "status": "renamed",
+    "sha256": "46840218890e2275d76ab97a677f6c68700e5cc3f10be85a5697af3af006e306"
+  },
+  {
+    "old": "Bach - Cello Suites\\029 - Suite no.5 in C minor BWV 1011： Gavotte I and II [-xyX2PZXOmc].mp3",
+    "new": "Bach - Cello Suites\\029 - Suite no.5 in C minor BWV 1011： Gavotte I and II.mp3",
+    "status": "renamed",
+    "sha256": "4d3cb11d04ccc99617d1008ff72565118f20512b073999107a42be68682fb59a"
+  },
+  {
+    "old": "Bach - Cello Suites\\030 - Suite no.5 in C minor BWV 1011： Gigue [kbMFC9zUYn0].mp3",
+    "new": "Bach - Cello Suites\\030 - Suite no.5 in C minor BWV 1011： Gigue.mp3",
+    "status": "renamed",
+    "sha256": "efdd9b67628a475623f988a8931697564fa6a33e50f291929a1f343195eb6b27"
+  },
+  {
+    "old": "Bach - Cello Suites\\031 - Suite no.6 in D major (a cinq cordes) BWV 1012： Prelude [N8iSBmf8Fss].mp3",
+    "new": "Bach - Cello Suites\\031 - Suite no.6 in D major (a cinq cordes) BWV 1012： Prelude.mp3",
+    "status": "renamed",
+    "sha256": "3cf5bccf839057d2a8db9ff552c753fed703624c290bfa18452ff2c4dfe8d30d"
+  },
+  {
+    "old": "Bach - Cello Suites\\032 - Suite no.6 in D major (a cinq cordes) BWV 1012： Allemande [nnAPMNszlcE].mp3",
+    "new": "Bach - Cello Suites\\032 - Suite no.6 in D major (a cinq cordes) BWV 1012： Allemande.mp3",
+    "status": "renamed",
+    "sha256": "a997dd93e2602c1a93e9adfba04293d392dbe3cbdc88c1275b5efe833106cd50"
+  },
+  {
+    "old": "Bach - Cello Suites\\033 - Suite no.6 in D major (a cinq cordes) BWV 1012： Courante [GcDzTy_AYVk].mp3",
+    "new": "Bach - Cello Suites\\033 - Suite no.6 in D major (a cinq cordes) BWV 1012： Courante.mp3",
+    "status": "renamed",
+    "sha256": "76c2e7a927df5b248f57d46d48cb0ab1e609a26e63ef44b8968b65c1a02a615c"
+  },
+  {
+    "old": "Bach - Cello Suites\\034 - Suite no.6 in D major (a cinq cordes) BWV 1012： Sarabande [kXX0qHYtiVQ].mp3",
+    "new": "Bach - Cello Suites\\034 - Suite no.6 in D major (a cinq cordes) BWV 1012： Sarabande.mp3",
+    "status": "renamed",
+    "sha256": "e00971dccce28ff39273c90fec423159eb25453fe00be8a15716f7bff9a46802"
+  },
+  {
+    "old": "Bach - Cello Suites\\035 - Suite no.6 in D major (a cinq cordes) BWV 1012： Gavotte I and II [CuWC_CD-ioE].mp3",
+    "new": "Bach - Cello Suites\\035 - Suite no.6 in D major (a cinq cordes) BWV 1012： Gavotte I and II.mp3",
+    "status": "renamed",
+    "sha256": "9349480217122aa86e17f3ccc7f8bf78b5970fe5cd10358e308645e40771d46b"
+  },
+  {
+    "old": "Bach - Cello Suites\\036 - Suite no.6 in D major (a cinq cordes) BWV 1012： Gigue [eW6OA9QZZRA].mp3",
+    "new": "Bach - Cello Suites\\036 - Suite no.6 in D major (a cinq cordes) BWV 1012： Gigue.mp3",
+    "status": "renamed",
+    "sha256": "0c3c3f93a09e80d979ee297bd8e0f5fa82a4b3ab61c09ade24936ba7761e8943"
+  },
+  {
+    "old": "Beethoven - Missa Solemnis\\Beethoven： Missa solemnis ｜ Fabio Luisi, Staatskapelle Dresden, Chorus of the Sächsische Staatsoper [S8Yy0gSt-JE].mp3",
+    "new": "Beethoven - Missa Solemnis\\Beethoven： Missa solemnis ｜ Fabio Luisi, Staatskapelle Dresden, Chorus of the Sächsische Staatsoper.mp3",
+    "status": "renamed",
+    "sha256": "c5e79078299fb47a13ae28a2a011f9f207b99922d2a3297f76874322d0f7aa06"
+  },
+  {
+    "old": "Beethoven - Piano Concertos\\001 - Beethoven： Piano Concerto No. 1 in C Major, Op. 15： I. Allegro con brio [BuS2vNFRvHs].mp3",
+    "new": "Beethoven - Piano Concertos\\001 - Beethoven： Piano Concerto No. 1 in C Major, Op. 15： I. Allegro con brio.mp3",
+    "status": "renamed",
+    "sha256": "2b637e742e8ad619b013c442436e50c55eb326b42007ef50d3bbb07d20a53a1c"
+  },
+  {
+    "old": "Beethoven - Piano Concertos\\002 - Beethoven： Piano Concerto No. 1 in C Major, Op. 15： II. Largo [jA1_-A1nUt4].mp3",
+    "new": "Beethoven - Piano Concertos\\002 - Beethoven： Piano Concerto No. 1 in C Major, Op. 15： II. Largo.mp3",
+    "status": "renamed",
+    "sha256": "c030e25200e807fc5ef59c4287f6d1fca752c30bf998502c3f8aae2f8ed4c914"
+  },
+  {
+    "old": "Beethoven - Piano Concertos\\003 - Beethoven： Piano Concerto No. 1 in C Major, Op. 15： III. Rondo. Allegro [w4aenDKoil0].mp3",
+    "new": "Beethoven - Piano Concertos\\003 - Beethoven： Piano Concerto No. 1 in C Major, Op. 15： III. Rondo. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "44f98645641ed206b2eac83bae5e73e4863a7ccf9c943bf790f23942cda1f20c"
+  },
+  {
+    "old": "Beethoven - Piano Concertos\\004 - Beethoven： Piano Concerto No. 2 in B Flat Major, Op. 19： I. Allegro con brio [qD5j6qMvBs0].mp3",
+    "new": "Beethoven - Piano Concertos\\004 - Beethoven： Piano Concerto No. 2 in B Flat Major, Op. 19： I. Allegro con brio.mp3",
+    "status": "renamed",
+    "sha256": "c9d26d45e8877ce0df7091743d4f46fd926b57d49a12c918a6ddd1ff3c0c5ae5"
+  },
+  {
+    "old": "Beethoven - Piano Concertos\\005 - Beethoven： Piano Concerto No. 2 in B Flat Major, Op. 19： II. Adagio [4a3MA0MjzJE].mp3",
+    "new": "Beethoven - Piano Concertos\\005 - Beethoven： Piano Concerto No. 2 in B Flat Major, Op. 19： II. Adagio.mp3",
+    "status": "renamed",
+    "sha256": "708b33d908b3368e1a6c67cf8913e54d2d6d054685056b32a2cd4c7a55c41814"
+  },
+  {
+    "old": "Beethoven - Piano Concertos\\006 - Beethoven： Piano Concerto No. 2 in B Flat Major, Op. 19： III. Rondo. Molto allegro [pT4VpDxFkEk].mp3",
+    "new": "Beethoven - Piano Concertos\\006 - Beethoven： Piano Concerto No. 2 in B Flat Major, Op. 19： III. Rondo. Molto allegro.mp3",
+    "status": "renamed",
+    "sha256": "2dd8f20a582751ebf5684863bec9debfc3d7e174faa7a071191ce6c595bf7a11"
+  },
+  {
+    "old": "Beethoven - Piano Concertos\\007 - Beethoven： Piano Concerto No. 3 in C Minor, Op. 37： I. Allegro con brio [XQm3JhaFfKE].mp3",
+    "new": "Beethoven - Piano Concertos\\007 - Beethoven： Piano Concerto No. 3 in C Minor, Op. 37： I. Allegro con brio.mp3",
+    "status": "renamed",
+    "sha256": "651483af889e65dd33bb94b9d36fb466f3e65a807bfa367e6e9308eb389a5a4b"
+  },
+  {
+    "old": "Beethoven - Piano Concertos\\008 - Beethoven： Piano Concerto No. 3 in C Minor, Op. 37： II. Largo [zfKtSzq1OLk].mp3",
+    "new": "Beethoven - Piano Concertos\\008 - Beethoven： Piano Concerto No. 3 in C Minor, Op. 37： II. Largo.mp3",
+    "status": "renamed",
+    "sha256": "5585250d3756536bfcb5599c5da7b5935a61ffe134a3d28555c9ca26beb72545"
+  },
+  {
+    "old": "Beethoven - Piano Concertos\\009 - Beethoven： Piano Concerto No. 3 in C Minor, Op. 37： III. Rondo. Allegro [kw_doHvSlWs].mp3",
+    "new": "Beethoven - Piano Concertos\\009 - Beethoven： Piano Concerto No. 3 in C Minor, Op. 37： III. Rondo. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "fb0178bcc0cfd46cf722029efd6e18b6a60c986f54314a5b9fd84d41a3eca20b"
+  },
+  {
+    "old": "Beethoven - Piano Concertos\\010 - Beethoven： Piano Concerto No. 4 in G Major, Op. 58： I. Allegro moderato [I59CqV3BsrI].mp3",
+    "new": "Beethoven - Piano Concertos\\010 - Beethoven： Piano Concerto No. 4 in G Major, Op. 58： I. Allegro moderato.mp3",
+    "status": "renamed",
+    "sha256": "4dd4b7a382f7e3c4da60c5b20aa6900e24120b7598d104d3a0d3907a0fa0cc1d"
+  },
+  {
+    "old": "Beethoven - Piano Concertos\\011 - Beethoven： Piano Concerto No. 4 in G Major, Op. 58： II. Andante con moto [TeyZMS1OrWM].mp3",
+    "new": "Beethoven - Piano Concertos\\011 - Beethoven： Piano Concerto No. 4 in G Major, Op. 58： II. Andante con moto.mp3",
+    "status": "renamed",
+    "sha256": "1591406ba3664f70299d467e2bac88c5ae68168e141dbe52d021d558d86a1cf0"
+  },
+  {
+    "old": "Beethoven - Piano Concertos\\012 - Beethoven： Piano Concerto No. 4 in G Major, Op. 58： III. Rondo. Vivace [EKp50_mb_kg].mp3",
+    "new": "Beethoven - Piano Concertos\\012 - Beethoven： Piano Concerto No. 4 in G Major, Op. 58： III. Rondo. Vivace.mp3",
+    "status": "renamed",
+    "sha256": "5961ada29c85b2e0e438705c73f53243990a459053d9c9b5b6e2870d6da39ac6"
+  },
+  {
+    "old": "Beethoven - Piano Concertos\\013 - Beethoven： Piano Concerto No. 5 in E Flat Major, Op. 73 ＂Emperor＂： I. Allegro [MlrNjdYnheM].mp3",
+    "new": "Beethoven - Piano Concertos\\013 - Beethoven： Piano Concerto No. 5 in E Flat Major, Op. 73 “Emperor”： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "d365f0c62bdb11d6e4f792c5e1c4c83d3ccab14e5742686e22388b89bf3ae3c6"
+  },
+  {
+    "old": "Beethoven - Piano Concertos\\014 - Beethoven： Piano Concerto No. 5 in E Flat Major, Op. 73 ＂Emperor＂： II. Adagio un poco mosso [QsrnBnnoQ00].mp3",
+    "new": "Beethoven - Piano Concertos\\014 - Beethoven： Piano Concerto No. 5 in E Flat Major, Op. 73 “Emperor”： II. Adagio un poco mosso.mp3",
+    "status": "renamed",
+    "sha256": "f326ad65e8b05be4b1195aa89619c1ba6473a1fca7f3332235b706439d5e9819"
+  },
+  {
+    "old": "Beethoven - Piano Concertos\\015 - Beethoven： Piano Concerto No. 5 in E Flat Major, Op. 73 ＂Emperor＂： III. Rondo. Allegro [DRPhtnden5g].mp3",
+    "new": "Beethoven - Piano Concertos\\015 - Beethoven： Piano Concerto No. 5 in E Flat Major, Op. 73 “Emperor”： III. Rondo. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "aa5cb9367dc3cb1701c5ca4e020bf6ecf8df8eee781f1d566af28ceb592a75a5"
+  },
+  {
+    "old": "Brahms - Cello\\001 - Cello Sonata No. 1 in E Minor, Op. 38： I. Allegro non troppo [BrmdYUQe6sc].mp3",
+    "new": "Brahms - Cello\\001 - Cello Sonata No. 1 in E Minor, Op. 38： I. Allegro non troppo.mp3",
+    "status": "renamed",
+    "sha256": "d1c13735df23aea16e4f030871fe47a881a038867b2b57b7310473da15733ce4"
+  },
+  {
+    "old": "Brahms - Cello\\002 - Cello Sonata No. 1 in E Minor, Op. 38： II. Allegretto quasi menuetto - Trio [gw3iz_vWp28].mp3",
+    "new": "Brahms - Cello\\002 - Cello Sonata No. 1 in E Minor, Op. 38： II. Allegretto quasi menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "80d0dbe5535c7639336cdabaf963923e6b1837e244b589b079ec128bd64aca11"
+  },
+  {
+    "old": "Brahms - Cello\\004 - Cello Sonata No. 1 in E Minor, Op. 38： III. Allegro [ocdgDIjWpuc].mp3",
+    "new": "Brahms - Cello\\004 - Cello Sonata No. 1 in E Minor, Op. 38： III. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "6050f3aee5a61d2c5f3dc114f102c1ef3a5c1d49c4780318ef81d19ffb9698c7"
+  },
+  {
+    "old": "Brahms - Cello\\005 - Cello Sonata No. 2 in F Major, Op. 99： I. Allegro vivace [eqiV-cdg0GY].mp3",
+    "new": "Brahms - Cello\\005 - Cello Sonata No. 2 in F Major, Op. 99： I. Allegro vivace.mp3",
+    "status": "renamed",
+    "sha256": "31b508d32d7e8404559f2cc697c80659778ce5d4f2cf4f0b81a4380f9d6b824a"
+  },
+  {
+    "old": "Brahms - Cello\\006 - Cello Sonata No. 2 in F Major, Op. 99： II. Adagio affettuoso [0ianr4ejQIc].mp3",
+    "new": "Brahms - Cello\\006 - Cello Sonata No. 2 in F Major, Op. 99： II. Adagio affettuoso.mp3",
+    "status": "renamed",
+    "sha256": "dabcc9896c30732cd3282955df53d88be8fd3394a9502bb714e5eb2936732e25"
+  },
+  {
+    "old": "Brahms - Cello\\007 - Cello Sonata No. 2 in F Major, Op. 99： III. Allegro passionato [3dBNocFTnds].mp3",
+    "new": "Brahms - Cello\\007 - Cello Sonata No. 2 in F Major, Op. 99： III. Allegro passionato.mp3",
+    "status": "renamed",
+    "sha256": "892f63aeba91d802ae9a432059ec3cc5ba4e675a7482e4b1633ddbb4ccc0717b"
+  },
+  {
+    "old": "Brahms - Cello\\008 - Cello Sonata No. 2 in F Major, Op. 99： IV. Allegro molto [iVhymDRPFOA].mp3",
+    "new": "Brahms - Cello\\008 - Cello Sonata No. 2 in F Major, Op. 99： IV. Allegro molto.mp3",
+    "status": "renamed",
+    "sha256": "5d595bff1ce8ea932c39fc56c4cf8cbca16ce10534e724c4301f5722cfc3b9f3"
+  },
+  {
+    "old": "Kodaly - Sonata for Solo Cello\\Kodály - Cello sonata - Starker 1957 [qpCXNI9k9PQ].mp3",
+    "new": "Kodaly - Sonata for Solo Cello\\Kodály - Cello sonata - Starker 1957.mp3",
+    "status": "renamed",
+    "sha256": "8fecb153c0c52dc2e3d63533937fdbfd3a3f24b149b7ba557b87ada2789c0fdb"
+  },
+  {
+    "old": "Mahler - Symphony No 2\\001 - Symphony No. 2 in C Minor ＂Resurrection＂： I. Allegro maestoso. Mit durchaus ernstem und... [8zUT18Zi6iw].mp3",
+    "new": "Mahler - Symphony No 2\\001 - Symphony No. 2 in C Minor “Resurrection”： I. Allegro maestoso. Mit durchaus ernstem und....mp3",
+    "status": "renamed",
+    "sha256": "c98b18d2347c98d86163c05344e778b1e7d56db847de1db09b03b81d01361800"
+  },
+  {
+    "old": "Mahler - Symphony No 2\\002 - Symphony No. 2 in C Minor ＂Resurrection＂： II. Andante moderato. Sehr gemächlich. Nie eilen [tI_f2Z6CFPc].mp3",
+    "new": "Mahler - Symphony No 2\\002 - Symphony No. 2 in C Minor “Resurrection”： II. Andante moderato. Sehr gemächlich. Nie eilen.mp3",
+    "status": "renamed",
+    "sha256": "9d47170537559eb6bb1009315461c0d64a72092448b7ee612988ca5949c2c946"
+  },
+  {
+    "old": "Mahler - Symphony No 2\\003 - Symphony No. 2 in C Minor ＂Resurrection＂： III. In ruhig fließender Bewegung [VyljHoZCI50].mp3",
+    "new": "Mahler - Symphony No 2\\003 - Symphony No. 2 in C Minor “Resurrection”： III. In ruhig fließender Bewegung.mp3",
+    "status": "renamed",
+    "sha256": "17d4a672b18fb670716179a70a4403e8453484851d7bafb762381c6ea03b6ff0"
+  },
+  {
+    "old": "Mahler - Symphony No 2\\004 - Symphony No. 2 in C Minor ＂Resurrection＂： IV. Urlicht. Sehr feierlich, aber schlicht [5FKAW3MbjmY].mp3",
+    "new": "Mahler - Symphony No 2\\004 - Symphony No. 2 in C Minor “Resurrection”： IV. Urlicht. Sehr feierlich, aber schlicht.mp3",
+    "status": "renamed",
+    "sha256": "3d523eff398507c5846f03ffe0220b469356e5ad227c0302c5584504820575ee"
+  },
+  {
+    "old": "Mahler - Symphony No 2\\005 - Symphony No. 2 in C Minor ＂Resurrection＂： V. (a) Im Tempo des Scherzos. Wild herausfahrend [yKYIDJCMarE].mp3",
+    "new": "Mahler - Symphony No 2\\005 - Symphony No. 2 in C Minor “Resurrection”： V. (a) Im Tempo des Scherzos. Wild herausfahrend.mp3",
+    "status": "renamed",
+    "sha256": "6bf171cafc1a7ce91aaa7f6bab0da30fa1adf6180989a8b4f5c030c93ebde011"
+  },
+  {
+    "old": "Mahler - Symphony No 2\\006 - Symphony No. 2 in C Minor ＂Resurrection＂： V. (b) Wieder sehr breit [TFGRwBavDOQ].mp3",
+    "new": "Mahler - Symphony No 2\\006 - Symphony No. 2 in C Minor “Resurrection”： V. (b) Wieder sehr breit.mp3",
+    "status": "renamed",
+    "sha256": "612f42a70a0c43612591d93a646dec98fcc58346eae261d3a29a3254cc4a5b97"
+  },
+  {
+    "old": "Mahler - Symphony No 2\\007 - Symphony No. 2 in C Minor ＂Resurrection＂： V. (c) Molto ritenuto - Maestoso [3zwHwwcSpWs].mp3",
+    "new": "Mahler - Symphony No 2\\007 - Symphony No. 2 in C Minor “Resurrection”： V. (c) Molto ritenuto - Maestoso.mp3",
+    "status": "renamed",
+    "sha256": "3f329e3bae93a32108e3a8b5e03d5087135d1b9bc0169969a9d97f81fe8221c0"
+  },
+  {
+    "old": "Mahler - Symphony No 2\\008 - Symphony No. 2 in C Minor ＂Resurrection＂： V. (d) Wieder zurückhaltend [G09aQSsu-Ls].mp3",
+    "new": "Mahler - Symphony No 2\\008 - Symphony No. 2 in C Minor “Resurrection”： V. (d) Wieder zurückhaltend.mp3",
+    "status": "renamed",
+    "sha256": "8d42c0a08d2c96ec0c8110cd5b42a3d37f32839bbfdb4daf72b0afc62b42ebfd"
+  },
+  {
+    "old": "Mahler - Symphony No 2\\009 - Symphony No. 2 in C Minor ＂Resurrection＂： V. (e) Langsam. Misterioso. ＂Aufersteh'n, ja... [Nvw40zkJJo4].mp3",
+    "new": "Mahler - Symphony No 2\\009 - Symphony No. 2 in C Minor “Resurrection”： V. (e) Langsam. Misterioso. ＂Aufersteh'n, ja....mp3",
+    "status": "renamed",
+    "sha256": "407b9abd363a1962741f44a9c31ff4609a74c75e2610563367c7892f9750bf61"
+  },
+  {
+    "old": "Mahler - Symphony No 2\\010 - Symphony No. 2 in C Minor ＂Resurrection＂： V. (f) Etwas bewegter. ＂O glaube, mein Herz !＂ [2fdy1Hfk82c].mp3",
+    "new": "Mahler - Symphony No 2\\010 - Symphony No. 2 in C Minor “Resurrection”： V. (f) Etwas bewegter. “O glaube, mein Herz !”.mp3",
+    "status": "renamed",
+    "sha256": "c24c5f181a16783d45dcf3f6f0b5d638e1a0557990c66914aaa57b02b515f5c3"
+  },
+  {
+    "old": "Mahler - Symphony No 2\\011 - Symphony No. 2 in C Minor ＂Resurrection＂： V. (g) Mit Aufschwung aber nicht eilen. ＂O Schmerz!＂ [sG6ajdqcOtQ].mp3",
+    "new": "Mahler - Symphony No 2\\011 - Symphony No. 2 in C Minor “Resurrection”： V. (g) Mit Aufschwung aber nicht eilen. “O Schmerz!”.mp3",
+    "status": "renamed",
+    "sha256": "abaec043cc6edf8313d34a772fd9da4e2849232aeee6a9d5b433a0c512bff802"
+  },
+  {
+    "old": "Mahler - Symphony No 3\\Mahler： 3. Sinfonie ∙ hr-Sinfonieorchester ∙ Andrés Orozco-Estrada [oSBfEPAnDsY].mp3",
+    "new": "Mahler - Symphony No 3\\Mahler： 3. Sinfonie ∙ hr-Sinfonieorchester ∙ Andrés Orozco-Estrada.mp3",
+    "status": "renamed",
+    "sha256": "620c0261ce1b2e6b174bb3ecece766519d38e4fe813cf26d2dda79690dce91ff"
+  },
+  {
+    "old": "Mahler - Symphony No 5\\Mahler's 5th Symphony - Full Performance by the Berlin Philharmonic Orchestra [5J5xekhNubE].mp3",
+    "new": "Mahler - Symphony No 5\\Mahler's 5th Symphony - Full Performance by the Berlin Philharmonic Orchestra.mp3",
+    "status": "renamed",
+    "sha256": "469eccd9ac865dd8b7d9a8755964f702a57bc73f87c6fc1c0754d5668fd9cc1d"
+  },
+  {
+    "old": "Mozart - Great Mass in C Minor K427\\Mozart “Great Mass in C minor, K  427” Herbert von Karajan • Berliner Philharmoniker, 1981 [gdHKhcbZEWI].mp3",
+    "new": "Mozart - Great Mass in C Minor K427\\Mozart “Great Mass in C minor, K 427” Herbert von Karajan • Berliner Philharmoniker, 1981.mp3",
+    "status": "renamed",
+    "sha256": "e58a8fae3726a25d9d1784eb5bd63af7690738446e73b53e091a84a17e9bdca7"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\001 - Mozart - Piano Concerto No. 1 in F major, K. 37 (Murray Perahia) [as-Dl7t3rfk].mp3",
+    "new": "Mozart - Piano Concertos\\001 - Mozart - Piano Concerto No. 1 in F major, K. 37 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "263c1557748f4e1c43520075c107b9841b107f2b2892f23952cda9b9b7e54a3f"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\002 - Mozart - Piano Concerto No. 2 in B-flat major, K. 39 (Murray Perahia) [ZgvjzBcu5JU].mp3",
+    "new": "Mozart - Piano Concertos\\002 - Mozart - Piano Concerto No. 2 in B-flat major, K. 39 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "21d02dc494fbb40f60e83003a066c821d99efb924bc0d4096b9eaa2b3020006f"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\003 - Mozart - Piano Concerto No. 3 in D major, K. 40 (Murray Perahia) [87j4_lYRKAI].mp3",
+    "new": "Mozart - Piano Concertos\\003 - Mozart - Piano Concerto No. 3 in D major, K. 40 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "20e9a71b5f319d263f54c86ee615076d0b6a1a25795ea51d89d89ad8fe33dc35"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\004 - Mozart - Piano Concerto No. 4 in G major, K. 41 (Murray Perahia) [RPcLU0gG1s8].mp3",
+    "new": "Mozart - Piano Concertos\\004 - Mozart - Piano Concerto No. 4 in G major, K. 41 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "bf2c456d58353ce008196bf31fdb1dac27f989c55de3c58f5be2692e14a0cc6c"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\005 - Mozart - Piano Concerto No. 6 in B-flat major, K. 238 (Murray Perahia) [RaoCsmunZws].mp3",
+    "new": "Mozart - Piano Concertos\\005 - Mozart - Piano Concerto No. 6 in B-flat major, K. 238 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "27e47ddc1bc331476bdca5d32c0bd98e42ace2b106afef5cc1358b4fd95250ef"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\006 - Mozart - Piano Concerto No. 8 in C major, K. 246 (Murray Perahia) [t9M4eKDgn5k].mp3",
+    "new": "Mozart - Piano Concertos\\006 - Mozart - Piano Concerto No. 8 in C major, K. 246 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "db2dad38b57ed215bf50def03f6469c1969f16f8d5cd8d1d6456f5c8a2e8f92e"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\007 - Mozart - Piano Concerto No. 9 in E-flat major, K. 271, 'Jeunehomme' (Murray Perahia) [VB-bw7WodLY].mp3",
+    "new": "Mozart - Piano Concertos\\007 - Mozart - Piano Concerto No. 9 in E-flat major, K. 271, 'Jeunehomme' (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "9e65b84e250a5c0a69b48ac2bc9fcaebbc659dbef26c9b4fc8b38b177d25a49f"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\008 - Mozart - Piano Concerto No. 11 in F major, K. 413 (Murray Perahia) [1x1KEphfpDE].mp3",
+    "new": "Mozart - Piano Concertos\\008 - Mozart - Piano Concerto No. 11 in F major, K. 413 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "5cba4e6233b5ac6efbf4fceeba9ad75aa214ef35e89922140ad5502f2354d4d0"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\009 - Mozart - Piano Concerto No. 12 in A major, K. 414 (Murray Perahia) [PiHra1MBhtE].mp3",
+    "new": "Mozart - Piano Concertos\\009 - Mozart - Piano Concerto No. 12 in A major, K. 414 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "b7daec3827c5de7699ba0203eb2b9d7820aa12006b1ca28c4e18d14a7067a8f5"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\010 - Mozart - Piano Concerto No. 13 in C major, K. 415 (Murray Perahia) [H1kTEv5MnJM].mp3",
+    "new": "Mozart - Piano Concertos\\010 - Mozart - Piano Concerto No. 13 in C major, K. 415 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "e2cdca634e5b2e34019dd4006ad8516f857c27752e9830a7b8e1c87baa134c73"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\011 - Mozart - Piano Concerto No. 14 in E-flat major, K. 449 (Murray Perahia) [4EHtVWvGIBU].mp3",
+    "new": "Mozart - Piano Concertos\\011 - Mozart - Piano Concerto No. 14 in E-flat major, K. 449 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "66c47176e3af6ae08abecf5c84df9784331874a34b695f6ef1fdabbddbdcaf60"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\012 - Mozart - Piano Concerto No. 15 in B-flat Major, K. 450 (Murray Perahia) [_1dIkP3tLVg].mp3",
+    "new": "Mozart - Piano Concertos\\012 - Mozart - Piano Concerto No. 15 in B-flat Major, K. 450 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "82778fe7a39a749d9579712cc88bb64089a9033afd3744788c4cf538fe788b0b"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\013 - Mozart - Piano Concerto No. 16 in D Major, K. 451 (Murray Perahia) [_nwF5uOqZJA].mp3",
+    "new": "Mozart - Piano Concertos\\013 - Mozart - Piano Concerto No. 16 in D Major, K. 451 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "931caa05fd903f631ee3614f8ac4f86166f61b408453223f726bc1d215c8163a"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\014 - Mozart - Piano Concerto No. 17 in G major, K. 453 (Murray Perahia) [B_tt2SLGQwM].mp3",
+    "new": "Mozart - Piano Concertos\\014 - Mozart - Piano Concerto No. 17 in G major, K. 453 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "5c292c7ad1137c6e75165a8170ecc9b5ac4d958d27bbaa6ff3245ccda490fd4c"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\015 - Mozart - Piano Concerto No. 18 in B-flat major, K. 456 (Murray Perahia) [LsAu0DMaShc].mp3",
+    "new": "Mozart - Piano Concertos\\015 - Mozart - Piano Concerto No. 18 in B-flat major, K. 456 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "8bd1ccbcf83e45978350f8b95ee8e23d4a9c616a288f3ff2ced84da4fc437fdd"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\016 - Mozart - Piano Concerto No. 20 in D minor, K. 466 (Murray Perahia) [YaZxgGs8cwg].mp3",
+    "new": "Mozart - Piano Concertos\\016 - Mozart - Piano Concerto No. 20 in D minor, K. 466 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "f76893420620e541af152d96209bcd522e7ede5275a026e4ed4007de52bc92f3"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\017 - Mozart - Piano Concerto No. 21 in C major, K. 467 (Murray Perahia) [sZJjL1sTBp0].mp3",
+    "new": "Mozart - Piano Concertos\\017 - Mozart - Piano Concerto No. 21 in C major, K. 467 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "f6b5a6e38659b9050c2e3965978748b1210f1b166d328163d193cb535243eade"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\018 - Mozart - Piano Concerto No. 23 in A major, K. 488 (Murray Perahia) [11TWlVER7ng].mp3",
+    "new": "Mozart - Piano Concertos\\018 - Mozart - Piano Concerto No. 23 in A major, K. 488 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "95aa00b969d873ceae020eb7a9021c19851cf7ba6fc0f240d9789ab2857e0889"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\019 - Mozart - Piano Concerto No. 24 in C minor, K. 491 (Murray Perahia) [ETrXJ7wJ6eA].mp3",
+    "new": "Mozart - Piano Concertos\\019 - Mozart - Piano Concerto No. 24 in C minor, K. 491 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "90a2099503b1da80e68211e7dfaf8cdbd60b6564d7f17222f95752133a50de68"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\020 - Mozart - Piano Concerto No. 25 in C major, K. 503 (Murray Perahia) [OsUeKnqWf50].mp3",
+    "new": "Mozart - Piano Concertos\\020 - Mozart - Piano Concerto No. 25 in C major, K. 503 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "a839b20d342c122377d69b82c602ff74898776fe2662bc4f9c3d5ba8d790bd42"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\021 - Mozart - Piano Concerto No. 26 in D major, K. 537, 'Coronation' (Murray Perahia) [jkKmlip4gA4].mp3",
+    "new": "Mozart - Piano Concertos\\021 - Mozart - Piano Concerto No. 26 in D major, K. 537, 'Coronation' (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "e350e9545184b4a94658ffe829a03a3a5e72afd56953a1c32a1a30473d70f619"
+  },
+  {
+    "old": "Mozart - Piano Concertos\\022 - Mozart - Piano Concerto No. 27 in B-flat major, K. 595 (Murray Perahia) [WbsSJ0R3lJQ].mp3",
+    "new": "Mozart - Piano Concertos\\022 - Mozart - Piano Concerto No. 27 in B-flat major, K. 595 (Murray Perahia).mp3",
+    "status": "renamed",
+    "sha256": "c1c11c15f6f5ea8648570bc9fa50b625da37b7b5ca589c82f8a1cafb36af1e4b"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\001 - Mozart： Piano Sonata No. 13 in B-Flat Major, K. 333： I. Allegro [_35HVwoG58g].mp3",
+    "new": "Mozart - Piano Sonatas\\001 - Mozart： Piano Sonata No. 13 in B-Flat Major, K. 333： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "18e80d765e2cf3df26c0fabff70105c6b442f97f2fda389f0776259dd7e7670e"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\002 - Mozart： Piano Sonata No. 13 in B-Flat Major, K. 333： II. Andante cantabile [O0x3eLuglek].mp3",
+    "new": "Mozart - Piano Sonatas\\002 - Mozart： Piano Sonata No. 13 in B-Flat Major, K. 333： II. Andante cantabile.mp3",
+    "status": "renamed",
+    "sha256": "911a3de242f45705d3242cf5107377978f643a6d317aab23453b106c65c87167"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\003 - Mozart： Piano Sonata No. 13 in B-Flat Major, K. 333： III. Allegretto grazioso [18ylXSmZs0w].mp3",
+    "new": "Mozart - Piano Sonatas\\003 - Mozart： Piano Sonata No. 13 in B-Flat Major, K. 333： III. Allegretto grazioso.mp3",
+    "status": "renamed",
+    "sha256": "278657781e6e3b9bf4dc0aaed5d7e430bd8b3bf4acf053e3e2091fcc887018ba"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\004 - Mozart： Piano Sonata No. 16 in C Major, K. 545 ＂Sonata facile＂： I. Allegro [Tfe8jlNskTs].mp3",
+    "new": "Mozart - Piano Sonatas\\004 - Mozart： Piano Sonata No. 16 in C Major, K. 545 “Sonata facile”： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "8258f05fd0b696c3f328013c351f1daa30e9ef0e08df66590f4bf59581a60f91"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\005 - Mozart： Piano Sonata No. 16 in C Major, K. 545 ＂Sonata facile＂： II. Andante [TocF9ZhBPaM].mp3",
+    "new": "Mozart - Piano Sonatas\\005 - Mozart： Piano Sonata No. 16 in C Major, K. 545 “Sonata facile”： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "1716b1fc7aa164e95c8f8ffe0f169d0a8385aaafa33b0367b3d8c96837a20867"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\006 - Mozart： Piano Sonata No. 16 in C Major, K. 545 ＂Sonata facile＂： III. Rondo. Allegretto [NgkPanG06Ds].mp3",
+    "new": "Mozart - Piano Sonatas\\006 - Mozart： Piano Sonata No. 16 in C Major, K. 545 “Sonata facile”： III. Rondo. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "c54d850fbd0773cd1041d421236a02fa3bc0bfc9043befdd2fc31c91345dcae2"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\007 - Mozart： Fantasia in C Minor, K. 475： I. Adagio [yCZBu7EDHwI].mp3",
+    "new": "Mozart - Piano Sonatas\\007 - Mozart： Fantasia in C Minor, K. 475： I. Adagio.mp3",
+    "status": "renamed",
+    "sha256": "02a4c3d84e182552a66e4086199c74e75d6d05470204c73998f2b6dbc3239be1"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\008 - Mozart： Fantasia in C Minor, K. 475： II. Allegro [Ts24icKxexQ].mp3",
+    "new": "Mozart - Piano Sonatas\\008 - Mozart： Fantasia in C Minor, K. 475： II. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "b7ad728a755360eab4ace99894bb0adf24492f630913b6dfd128a694907af1ca"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\009 - Mozart： Fantasia in C Minor, K. 475： III. Andantino [S8EmWOV85Jk].mp3",
+    "new": "Mozart - Piano Sonatas\\009 - Mozart： Fantasia in C Minor, K. 475： III. Andantino.mp3",
+    "status": "renamed",
+    "sha256": "24af315e2d370d86db1355c376baf9b1b759bb3d8f9ecc7cd749a233fd32777a"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\010 - Mozart： Piano Sonata No. 14 in C Minor, K. 457： I. Molto allegro [RVazaTmtWyw].mp3",
+    "new": "Mozart - Piano Sonatas\\010 - Mozart： Piano Sonata No. 14 in C Minor, K. 457： I. Molto allegro.mp3",
+    "status": "renamed",
+    "sha256": "5da7ba114f0f6d5d78c3058e65e332846eb8a510d471c431ed9115dd11b74ef7"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\011 - Mozart： Piano Sonata No. 14 in C Minor, K. 457： II. Adagio [7eEmHxz1qYo].mp3",
+    "new": "Mozart - Piano Sonatas\\011 - Mozart： Piano Sonata No. 14 in C Minor, K. 457： II. Adagio.mp3",
+    "status": "renamed",
+    "sha256": "66d7da9b57f63145da2876cfec2b1cd5e39b2fd758bee0e88f4f811713ecb95b"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\012 - Mozart： Piano Sonata No. 14 in C Minor, K. 457： III. Allegro assai [JowaoP37IZU].mp3",
+    "new": "Mozart - Piano Sonatas\\012 - Mozart： Piano Sonata No. 14 in C Minor, K. 457： III. Allegro assai.mp3",
+    "status": "renamed",
+    "sha256": "91d27d6059fb2a3f44f1b8d50d08981d156b4eea0f6994dcf5963059724395db"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\013 - Mozart： Piano Sonata No. 11 in A Major, K. 331： I. Tema (Andante grazioso) con variazioni [wNMypdCkonk].mp3",
+    "new": "Mozart - Piano Sonatas\\013 - Mozart： Piano Sonata No. 11 in A Major, K. 331： I. Tema (Andante grazioso) con variazioni.mp3",
+    "status": "renamed",
+    "sha256": "5fdb8d8a546ae422218c84097a3218709fc0ee8fa3f6347f7f9d74e03e08bee5"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\014 - Mozart： Piano Sonata No. 11 in A Major, K. 331： II. Menuetto [sHGvdZJhD9s].mp3",
+    "new": "Mozart - Piano Sonatas\\014 - Mozart： Piano Sonata No. 11 in A Major, K. 331： II. Menuetto.mp3",
+    "status": "renamed",
+    "sha256": "c2649eb373be58ae658fd3cfec3f3ffc02d1e81ef810ca40c06292292cf1b1f5"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\015 - Mozart： Piano Sonata No. 11 in A Major, K. 331： III. Rondo alla Turca. Allegretto [lfAw693rYRQ].mp3",
+    "new": "Mozart - Piano Sonatas\\015 - Mozart： Piano Sonata No. 11 in A Major, K. 331： III. Rondo alla Turca. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "e77ff9a935f224c9b5a3af7850c2d9cbe689b48023e7464afb414fc8bb846598"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\016 - Mozart： Piano Sonata No. 8 in A Minor, K. 310： I. Allegro maestoso [Df_LYVOAiio].mp3",
+    "new": "Mozart - Piano Sonatas\\016 - Mozart： Piano Sonata No. 8 in A Minor, K. 310： I. Allegro maestoso.mp3",
+    "status": "renamed",
+    "sha256": "5b993629375366eda0a855aeb8d612f439dca2fbde5376afb49be62d5e1e3d49"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\017 - Mozart： Piano Sonata No. 8 in A Minor, K. 310： II. Andante cantabile con espressione [utOMTcnY6cM].mp3",
+    "new": "Mozart - Piano Sonatas\\017 - Mozart： Piano Sonata No. 8 in A Minor, K. 310： II. Andante cantabile con espressione.mp3",
+    "status": "renamed",
+    "sha256": "f98968e0c1769379f7a60fe4803c090ee1c6893dd48064c4b5b44dbfc5687d43"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\018 - Mozart： Piano Sonata No. 8 in A Minor, K. 310： III. Presto [Rg7wSh4229k].mp3",
+    "new": "Mozart - Piano Sonatas\\018 - Mozart： Piano Sonata No. 8 in A Minor, K. 310： III. Presto.mp3",
+    "status": "renamed",
+    "sha256": "3fd96d08ede51ab6f073b9f87fcd2658bd9186e25e324ad700cb31a731bb2aea"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\019 - Mozart： Piano Sonata No. 18 in D Major, K. 576： I. Allegro [Tm_7Rjwnz90].mp3",
+    "new": "Mozart - Piano Sonatas\\019 - Mozart： Piano Sonata No. 18 in D Major, K. 576： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "82eeaa092dd054268b017db7bb92340808c890b1c61c3f6284e2caa8c210c394"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\020 - Mozart： Piano Sonata No. 18 in D Major, K. 576： II. Adagio [WkSi8hj0V2k].mp3",
+    "new": "Mozart - Piano Sonatas\\020 - Mozart： Piano Sonata No. 18 in D Major, K. 576： II. Adagio.mp3",
+    "status": "renamed",
+    "sha256": "6feb266b6e1dbb8ca97577518af9cedd2e0b231cbabcc80cd960a7b7804745f0"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\021 - Mozart： Piano Sonata No. 18 in D Major, K. 576： III. Allegretto [KF2i2KQGtAE].mp3",
+    "new": "Mozart - Piano Sonatas\\021 - Mozart： Piano Sonata No. 18 in D Major, K. 576： III. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "8947d29463a11d66fccfd6e2b140fc3d33c39fcbb7422eb3cbcdd9a5b39bf9a5"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\022 - Mozart： Piano Sonata No. 15 in F Major, K. 533⧸494： I. Allegro (K. 533) [eMyfqfKkcFw].mp3",
+    "new": "Mozart - Piano Sonatas\\022 - Mozart： Piano Sonata No. 15 in F Major, K. 533⧸494： I. Allegro (K. 533).mp3",
+    "status": "renamed",
+    "sha256": "423fd5c3852d42b4af3a83deacf743509cd9f6834321f32914f36addd0a2b3c0"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\023 - Mozart： Piano Sonata No. 15 in F Major, K. 533⧸494： II. Andante (K. 533) [Cd1l1e2_t8I].mp3",
+    "new": "Mozart - Piano Sonatas\\023 - Mozart： Piano Sonata No. 15 in F Major, K. 533⧸494： II. Andante (K. 533).mp3",
+    "status": "renamed",
+    "sha256": "f37cd3f6f37fde0644c3703113e2d07a1423ed0e37fe1ca466ef57e4bc39a374"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\024 - Mozart： Piano Sonata No. 15 in F Major, K. 533⧸494： III. Rondo. Allegretto (K. 494) [9gyyRcDZs2E].mp3",
+    "new": "Mozart - Piano Sonatas\\024 - Mozart： Piano Sonata No. 15 in F Major, K. 533⧸494： III. Rondo. Allegretto (K. 494).mp3",
+    "status": "renamed",
+    "sha256": "d8a2d7e425e2b0520a838b4f7f4e2f2d0fa428866e7ccad639788a15d103814a"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\025 - Mozart： Piano Sonata No. 3 in B flat, K.281： 1. Allegro [vGtM2stweTk].mp3",
+    "new": "Mozart - Piano Sonatas\\025 - Mozart： Piano Sonata No. 3 in B flat, K.281： 1. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "80a0c25dac0250ba2b9a6c92ddacd5d9b30cbaf4225efb76e3ef6c64a7a83ed2"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\026 - Mozart： Piano Sonata No. 3 in B flat, K.281： 2. Andante amoroso [Fq1ooMB0Ly8].mp3",
+    "new": "Mozart - Piano Sonatas\\026 - Mozart： Piano Sonata No. 3 in B flat, K.281： 2. Andante amoroso.mp3",
+    "status": "renamed",
+    "sha256": "88545b635a0d04be3f7641c28840fc6384b1fdfeee4c9f79e255910bc19e8b78"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\027 - Mozart： Piano Sonata No. 3 in B flat, K.281： 3. Rondeau (Allegro) [mekqM1nQBgU].mp3",
+    "new": "Mozart - Piano Sonatas\\027 - Mozart： Piano Sonata No. 3 in B flat, K.281： 3. Rondeau (Allegro).mp3",
+    "status": "renamed",
+    "sha256": "021ea70cb797673008ec3bcfafbdaa91a381a873d53c5c0796db3f8501c994ce"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\028 - Mozart： Piano Sonata No. 9 in D Major, K. 311： I. Allegro con spirito [kcqhb7m7d_0].mp3",
+    "new": "Mozart - Piano Sonatas\\028 - Mozart： Piano Sonata No. 9 in D Major, K. 311： I. Allegro con spirito.mp3",
+    "status": "renamed",
+    "sha256": "bcbc091d1e549f20310a1666caa778194e6eda8c2ff345957ed519874a0e3bf9"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\029 - Mozart： Piano Sonata No. 9 in D Major, K. 311： II. Andantino con espressione [TSgpBWn_Bhs].mp3",
+    "new": "Mozart - Piano Sonatas\\029 - Mozart： Piano Sonata No. 9 in D Major, K. 311： II. Andantino con espressione.mp3",
+    "status": "renamed",
+    "sha256": "6ff7208117f9cae434588b3a801f90f1763c85a81eb18e0aa05d4172e3d5b346"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\030 - Mozart： Piano Sonata No. 9 in D Major, K. 311： III. Rondeau. Allegro [T5tZe0Qud-o].mp3",
+    "new": "Mozart - Piano Sonatas\\030 - Mozart： Piano Sonata No. 9 in D Major, K. 311： III. Rondeau. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "10b7afb95de580e5c538bade8849141b5e5f7611f129ed4120df29f480ab0158"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\031 - Mozart： Piano Sonata No. 7 in C, K.309： 1. Allegro con spirito [zFKeUGteoAw].mp3",
+    "new": "Mozart - Piano Sonatas\\031 - Mozart： Piano Sonata No. 7 in C, K.309： 1. Allegro con spirito.mp3",
+    "status": "renamed",
+    "sha256": "42bd24051da03c31b6ee6615bf7d2a750259cb6e09ba9c6491039b763151939c"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\032 - Mozart： Piano Sonata No. 7 in C, K.309： 2. Andante, un poco adagio [EmDw1uKW6TI].mp3",
+    "new": "Mozart - Piano Sonatas\\032 - Mozart： Piano Sonata No. 7 in C, K.309： 2. Andante, un poco adagio.mp3",
+    "status": "renamed",
+    "sha256": "5322f34f92f50765c007b9e231cf0d89f19db5ece68d6199bece91b177dffa92"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\033 - Mozart： Piano Sonata No. 7 in C, K.309： 3. Rondeau (Allegretto grazioso) [AP1cZxK5VzE].mp3",
+    "new": "Mozart - Piano Sonatas\\033 - Mozart： Piano Sonata No. 7 in C, K.309： 3. Rondeau (Allegretto grazioso).mp3",
+    "status": "renamed",
+    "sha256": "27eb74cb48b9695e833d49adad0ced5b20578050cbb75c42d6b7f2351ff8f62b"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\034 - Mozart： Piano Sonata No. 6 in D, K.284 ＂Dürnitz＂： 1. Allegro [sXxSC_tHhXc].mp3",
+    "new": "Mozart - Piano Sonatas\\034 - Mozart： Piano Sonata No. 6 in D, K.284 “Dürnitz”： 1. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "fc5ae14e0c2256f1ab30f9a9d1c81580b531e40fad3f871f9acc95ecf916609e"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\035 - Mozart： Piano Sonata No. 6 in D, K.284 ＂Dürnitz＂： 2. Rondeau en Polonaise (Andante) [Y9s5ffhVOl8].mp3",
+    "new": "Mozart - Piano Sonatas\\035 - Mozart： Piano Sonata No. 6 in D, K.284 “Dürnitz”： 2. Rondeau en Polonaise (Andante).mp3",
+    "status": "renamed",
+    "sha256": "5b47eb69bef01dc65e9724ef962baf4283bc2dcc7784290c48012dcf4eef43cb"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\036 - Mozart： Piano Sonata No. 6 in D, K.284 ＂Dürnitz＂： 3. Tema con variazione [k7nz1wLoCC0].mp3",
+    "new": "Mozart - Piano Sonatas\\036 - Mozart： Piano Sonata No. 6 in D, K.284 “Dürnitz”： 3. Tema con variazione.mp3",
+    "status": "renamed",
+    "sha256": "2aa57e8384564429fca04b897ffc367bf7ff885e02f68689e7017387887d0188"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\037 - Mozart： Piano Sonata No. 5 in G, K.283： 1. Allegro [mYchsjuc2lM].mp3",
+    "new": "Mozart - Piano Sonatas\\037 - Mozart： Piano Sonata No. 5 in G, K.283： 1. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "af63d39f3bc23f0c6a44376c8f140046bcc891754675bd6e10dc488aa2277b4c"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\038 - Mozart： Piano Sonata No. 5 in G, K.283： 2. Andante [-JZThBdDSJ0].mp3",
+    "new": "Mozart - Piano Sonatas\\038 - Mozart： Piano Sonata No. 5 in G, K.283： 2. Andante.mp3",
+    "status": "renamed",
+    "sha256": "8e3145ef4fe4b337ff459da12ee6f5b628cf0fd1e44b8fe6949272a6a908bf14"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\039 - Mozart： Piano Sonata No. 5 in G, K.283： 3. Presto [2_BJvukLQAg].mp3",
+    "new": "Mozart - Piano Sonatas\\039 - Mozart： Piano Sonata No. 5 in G, K.283： 3. Presto.mp3",
+    "status": "renamed",
+    "sha256": "32a3d97d97f5bdaa59dd944af87346d8d36f066667c1632d72c9143513bc41d4"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\040 - Mozart： Piano Sonata No. 10 in C Major, K. 330： I. Allegro moderato [Szsm2QuBN00].mp3",
+    "new": "Mozart - Piano Sonatas\\040 - Mozart： Piano Sonata No. 10 in C Major, K. 330： I. Allegro moderato.mp3",
+    "status": "renamed",
+    "sha256": "e4775ea09448e10799cc0d2985836fa8acd343119e4b57c22730772190ac3451"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\041 - Mozart： Piano Sonata No. 10 in C Major, K. 330： II. Andante cantabile [UG-cxewq7LQ].mp3",
+    "new": "Mozart - Piano Sonatas\\041 - Mozart： Piano Sonata No. 10 in C Major, K. 330： II. Andante cantabile.mp3",
+    "status": "renamed",
+    "sha256": "937152dd97ae8dd1cb8a5842a43e4879d08bb61cd8c97dd1b3d7319c8fd4f4fe"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\042 - Mozart： Piano Sonata No. 10 in C Major, K. 330： III. Allegretto [nYpKbsJEKb0].mp3",
+    "new": "Mozart - Piano Sonatas\\042 - Mozart： Piano Sonata No. 10 in C Major, K. 330： III. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "82230acca48de60efc5dbfe112246023ef784ad27f22ac9b7ec721d540adef6a"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\043 - Mozart： Piano Sonata No. 2 in F, K.280： 1. Allegro assai [AuiBTUfehA0].mp3",
+    "new": "Mozart - Piano Sonatas\\043 - Mozart： Piano Sonata No. 2 in F, K.280： 1. Allegro assai.mp3",
+    "status": "renamed",
+    "sha256": "9cc89f8e68b396e7d8dd2e42ea90611e3b6e143187d3ec318f2e9a71bddb8e8f"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\044 - Mozart： Piano Sonata No. 2 in F, K.280： 2. Adagio [V_uGtDofGoE].mp3",
+    "new": "Mozart - Piano Sonatas\\044 - Mozart： Piano Sonata No. 2 in F, K.280： 2. Adagio.mp3",
+    "status": "renamed",
+    "sha256": "4a67f96c710763c54ee84d968485b53c282fe796b7e1e5f810aa80c78df928c3"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\045 - Mozart： Piano Sonata No. 2 in F, K.280： 3. Presto [y4VPkurjDe0].mp3",
+    "new": "Mozart - Piano Sonatas\\045 - Mozart： Piano Sonata No. 2 in F, K.280： 3. Presto.mp3",
+    "status": "renamed",
+    "sha256": "9bd0e61f3ad932c7aff1324e5b3cb9618c84ec7f81e02e195811262d0abad3da"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\046 - Mozart： Piano Sonata No. 1 in C, K.279： 1. Allegro [jUVmpWrRif4].mp3",
+    "new": "Mozart - Piano Sonatas\\046 - Mozart： Piano Sonata No. 1 in C, K.279： 1. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "3671b066d3206c37c652da9af29f6075d91f60e4e674533c7c6cb849e5eee630"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\047 - Mozart： Piano Sonata No. 1 in C, K.279： 2. Andante [BwcbJvGsuuc].mp3",
+    "new": "Mozart - Piano Sonatas\\047 - Mozart： Piano Sonata No. 1 in C, K.279： 2. Andante.mp3",
+    "status": "renamed",
+    "sha256": "6bddc8110d757687ba30f04460c16fc43280216fbb2efb02467fc79483f26646"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\048 - Mozart： Piano Sonata No. 1 in C, K.279： 3. Allegro [kItgPiR-_Q8].mp3",
+    "new": "Mozart - Piano Sonatas\\048 - Mozart： Piano Sonata No. 1 in C, K.279： 3. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "f7e777c0cf937e1f0ba94626245f698e4b3e4f5af1dbb0044cc007e82701457a"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\049 - Mozart： Piano Sonata No. 4 in E flat, K.282： 1. Adagio [zrJwdyoNl1E].mp3",
+    "new": "Mozart - Piano Sonatas\\049 - Mozart： Piano Sonata No. 4 in E flat, K.282： 1. Adagio.mp3",
+    "status": "renamed",
+    "sha256": "4c566444b48acaf760fefb614e8c702c7aa089a2cf214600d537a3ff80e3f8d9"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\050 - Mozart： Piano Sonata No. 4 in E flat, K.282： 2. Menuetto I-II [tx3wIn8YBU0].mp3",
+    "new": "Mozart - Piano Sonatas\\050 - Mozart： Piano Sonata No. 4 in E flat, K.282： 2. Menuetto I-II.mp3",
+    "status": "renamed",
+    "sha256": "56f5824e8de7fdca5a24a1248d87c0a6b8b15c78cd31a3ed29170c0057c6fc15"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\051 - Mozart： Piano Sonata No. 4 in E flat, K.282： 3. Allegro [2uQrVaTVGUA].mp3",
+    "new": "Mozart - Piano Sonatas\\051 - Mozart： Piano Sonata No. 4 in E flat, K.282： 3. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "f9be12d4a69d9fb91e775971b9f3e58e1d728679c244ca537316638b971e1a59"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\052 - Mozart： Piano Sonata No. 12 in F Major, K. 332： I. Allegro [QIWKqmkhD0M].mp3",
+    "new": "Mozart - Piano Sonatas\\052 - Mozart： Piano Sonata No. 12 in F Major, K. 332： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "1a9213bd9a71bf881fa7962b50aec93c8800a8ef2345c7960d6e5626f7627e1a"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\053 - Mozart： Piano Sonata No. 12 in F Major, K. 332： II. Adagio [cvIjzPqVbm4].mp3",
+    "new": "Mozart - Piano Sonatas\\053 - Mozart： Piano Sonata No. 12 in F Major, K. 332： II. Adagio.mp3",
+    "status": "renamed",
+    "sha256": "65283dc61a1522f6ab126f1596186a67278dee3abf27076edc0577c25d26b403"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\054 - Mozart： Piano Sonata No. 12 in F Major, K. 332： III. Allegro assai [i_JXXthr_fU].mp3",
+    "new": "Mozart - Piano Sonatas\\054 - Mozart： Piano Sonata No. 12 in F Major, K. 332： III. Allegro assai.mp3",
+    "status": "renamed",
+    "sha256": "e603c9f5fb20e250dac0a5006e81b88e7b032d8290423f2272101d15a9ec9da1"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\055 - Mozart： Piano Sonata No. 17 in B-Flat Major, K. 570： I. Allegro [q-20GU-e1yY].mp3",
+    "new": "Mozart - Piano Sonatas\\055 - Mozart： Piano Sonata No. 17 in B-Flat Major, K. 570： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "1ed64a5c7020a7def291fe2fba368fa17f1d3f922a00bf8c3cc2c30d53facad8"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\056 - Mozart： Piano Sonata No. 17 in B-Flat Major, K. 570： II. Adagio [aWpIppCAf8U].mp3",
+    "new": "Mozart - Piano Sonatas\\056 - Mozart： Piano Sonata No. 17 in B-Flat Major, K. 570： II. Adagio.mp3",
+    "status": "renamed",
+    "sha256": "4f5114b3a9b1d0c5e38f8851838cecb995ee552adabe2de8b2832f5e45f4ec54"
+  },
+  {
+    "old": "Mozart - Piano Sonatas\\057 - Mozart： Piano Sonata No. 17 in B-Flat Major, K. 570： III. Allegretto [93QYpzSFi0g].mp3",
+    "new": "Mozart - Piano Sonatas\\057 - Mozart： Piano Sonata No. 17 in B-Flat Major, K. 570： III. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "856368dc585a00daaaf7c3a6d01804358889d7cef755cc1a3a4ae903d1cbeef3"
+  },
+  {
+    "old": "Mozart - Requiem\\Mozart - Requiem in D minor (Complete⧸Full) [HD] [XmttZ-BnwaI].mp3",
+    "new": "Mozart - Requiem\\Mozart - Requiem in D minor (Complete⧸Full) [HD].mp3",
+    "status": "renamed",
+    "sha256": "b1301ad2420e623f618ee5c3f8c6df5cada5d17681d9f36fd44b5d54adc0d01d"
+  },
+  {
+    "old": "Mozart - Symphonies\\001 - Mozart： Symphony No. 1 in E-Flat Major, K. 16： I. Allegro molto [tlDlSNDw0F4].mp3",
+    "new": "Mozart - Symphonies\\001 - Mozart： Symphony No. 1 in E-Flat Major, K. 16： I. Allegro molto.mp3",
+    "status": "renamed",
+    "sha256": "85196b863aef82a31feec4b393b5c51688366535c44f9ebb4b809ad9fe4a0042"
+  },
+  {
+    "old": "Mozart - Symphonies\\002 - Mozart： Symphony No. 1 in E-Flat Major, K. 16： II. Andante [jGtT2Lrbij0].mp3",
+    "new": "Mozart - Symphonies\\002 - Mozart： Symphony No. 1 in E-Flat Major, K. 16： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "0d22ea5a13b08479ba07d7ac0f0ae565dff21fdc64796c0c1ae74368e40b3f9d"
+  },
+  {
+    "old": "Mozart - Symphonies\\003 - Mozart： Symphony No. 1 in E-Flat Major, K. 16： III. Presto [M6r2gtc0meU].mp3",
+    "new": "Mozart - Symphonies\\003 - Mozart： Symphony No. 1 in E-Flat Major, K. 16： III. Presto.mp3",
+    "status": "renamed",
+    "sha256": "b0b987dbbb0b9d0ad5d53b9e0b5fd5f60b4498a0fa7dab32c1eab864bee20fca"
+  },
+  {
+    "old": "Mozart - Symphonies\\004 - Mozart： Symphony No. 4 in D Major, K. 19： I. Allegro [XtlTMbr1Nfc].mp3",
+    "new": "Mozart - Symphonies\\004 - Mozart： Symphony No. 4 in D Major, K. 19： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "062800de5f92d8e705fb752174fe6ef4ff0efed03d257feb54837fc0616759c9"
+  },
+  {
+    "old": "Mozart - Symphonies\\005 - Mozart： Symphony No. 4 in D Major, K. 19： II. Andante [am5AukwYJeM].mp3",
+    "new": "Mozart - Symphonies\\005 - Mozart： Symphony No. 4 in D Major, K. 19： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "52a987cfdce3a5aca02452dad482e3f6778a37bd7a83bfc16856b93970259681"
+  },
+  {
+    "old": "Mozart - Symphonies\\006 - Mozart： Symphony No. 4 in D Major, K. 19： III. Presto [KhWDifZ57Hs].mp3",
+    "new": "Mozart - Symphonies\\006 - Mozart： Symphony No. 4 in D Major, K. 19： III. Presto.mp3",
+    "status": "renamed",
+    "sha256": "ec2aa840b616c8f65cad1fd8a26d69ca566b784f167edc1b073fdff911e6b331"
+  },
+  {
+    "old": "Mozart - Symphonies\\007 - Mozart： Symphony in F Major, K. 19a： I. Allegro assai [jsOiPsyevGk].mp3",
+    "new": "Mozart - Symphonies\\007 - Mozart： Symphony in F Major, K. 19a： I. Allegro assai.mp3",
+    "status": "renamed",
+    "sha256": "f6f8e19a0f8d7b1e18a98feef8be45941867d4399d436d409136931f7d1a4477"
+  },
+  {
+    "old": "Mozart - Symphonies\\008 - Mozart： Symphony in F Major, K. 19a： II. Andante [_SEln-U0Jak].mp3",
+    "new": "Mozart - Symphonies\\008 - Mozart： Symphony in F Major, K. 19a： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "b9061ffa8e369cbe1b34a4d8f42875b70a2b095a265406618e043072c07492b1"
+  },
+  {
+    "old": "Mozart - Symphonies\\009 - Mozart： Symphony in F Major, K. 19a： III. Presto [60lslxo6suc].mp3",
+    "new": "Mozart - Symphonies\\009 - Mozart： Symphony in F Major, K. 19a： III. Presto.mp3",
+    "status": "renamed",
+    "sha256": "7ed89b769b16f840b40fb541a4abc5d833d090785414b39bbb7bae49ff1cff2b"
+  },
+  {
+    "old": "Mozart - Symphonies\\010 - Mozart： Symphony No. 5 in B-Flat Major, K. 22： I. Allegro [9JxrKwEzf0Q].mp3",
+    "new": "Mozart - Symphonies\\010 - Mozart： Symphony No. 5 in B-Flat Major, K. 22： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "05543622a3281b2eb6bf931ae5c19acf4c0a5b50e29517abc3caf18ba6387e1b"
+  },
+  {
+    "old": "Mozart - Symphonies\\011 - Mozart： Symphony No. 5 in B-Flat Major, K. 22： II. Andante [1yh7WH0ivqU].mp3",
+    "new": "Mozart - Symphonies\\011 - Mozart： Symphony No. 5 in B-Flat Major, K. 22： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "c8403bc04797ce91de15dabd4764e12cbce0abe3fbf37740b7ca4fa834d933cd"
+  },
+  {
+    "old": "Mozart - Symphonies\\012 - Mozart： Symphony No. 5 in B-Flat Major, K. 22： III. Allegro molto [yrnqix8J0Rw].mp3",
+    "new": "Mozart - Symphonies\\012 - Mozart： Symphony No. 5 in B-Flat Major, K. 22： III. Allegro molto.mp3",
+    "status": "renamed",
+    "sha256": "e1caf73c7567d9dfe0eaec56b1add337f65b38e8614a6afa3f1d28cbd9cff61f"
+  },
+  {
+    "old": "Mozart - Symphonies\\013 - Mozart： Symphony No. 6 in F Major, K. 43： I. Allegro [t6Gu-m3N4Vo].mp3",
+    "new": "Mozart - Symphonies\\013 - Mozart： Symphony No. 6 in F Major, K. 43： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "7614ffeb49eda6c532a7664357f706f7d9232193c66ad9824e975d2d00cb6b4f"
+  },
+  {
+    "old": "Mozart - Symphonies\\014 - Mozart： Symphony No. 6 in F Major, K. 43： II. Andante [py1Hr1tYjOQ].mp3",
+    "new": "Mozart - Symphonies\\014 - Mozart： Symphony No. 6 in F Major, K. 43： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "026fac6b52f4f90a9436e19c58ad06cf2e47b76ead3f7204d41e35f70971ea7f"
+  },
+  {
+    "old": "Mozart - Symphonies\\015 - Mozart： Symphony No. 6 in F Major, K. 43： III. Menuetto - Trio [OlXT-sOsoE4].mp3",
+    "new": "Mozart - Symphonies\\015 - Mozart： Symphony No. 6 in F Major, K. 43： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "b557a105bb1db754bfff15e38fb2885349fd05b9ba48754e535f533d127ba054"
+  },
+  {
+    "old": "Mozart - Symphonies\\016 - Mozart： Symphony No. 6 in F Major, K. 43： IV. Allegro [a3k2BxNHmHM].mp3",
+    "new": "Mozart - Symphonies\\016 - Mozart： Symphony No. 6 in F Major, K. 43： IV. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "b6587e3ae35f7465bee1c4e13116722695ec0fda7287b380e1798a7c1b4fd26e"
+  },
+  {
+    "old": "Mozart - Symphonies\\017 - Mozart： Symphony No. 7 in D Major, K. 45： I. Allegro [puhzJG2N-BA].mp3",
+    "new": "Mozart - Symphonies\\017 - Mozart： Symphony No. 7 in D Major, K. 45： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "e2d1a30ce20b3c614594ce7f694bedb69de8ae4da2da949fb7a12919bc250e70"
+  },
+  {
+    "old": "Mozart - Symphonies\\018 - Mozart： Symphony No. 7 in D Major, K. 45： II. Andante [2N7fPOF-LRU].mp3",
+    "new": "Mozart - Symphonies\\018 - Mozart： Symphony No. 7 in D Major, K. 45： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "52c5ba76d18a07482a5d2287b9372e05f154d5735f42fc52229470f3374bb73a"
+  },
+  {
+    "old": "Mozart - Symphonies\\019 - Mozart： Symphony No. 7 in D Major, K. 45： III. Menuetto - Trio [jFg-hGA3L9g].mp3",
+    "new": "Mozart - Symphonies\\019 - Mozart： Symphony No. 7 in D Major, K. 45： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "8a5fffc2a50aabbcad4270daae4a7a4aa9636b00f9b8763eddee2e1628b68a02"
+  },
+  {
+    "old": "Mozart - Symphonies\\020 - Mozart： Symphony No. 7 in D Major, K. 45： IV. Finale [XMoWT_3u5ks].mp3",
+    "new": "Mozart - Symphonies\\020 - Mozart： Symphony No. 7 in D Major, K. 45： IV. Finale.mp3",
+    "status": "renamed",
+    "sha256": "6fac3e77e6db71e81588f10f8a30f6dce66b257bd87c1f540d6d8d5a82dc3581"
+  },
+  {
+    "old": "Mozart - Symphonies\\021 - Mozart： Symphony No. 8 in D Major, K. 48： I. Allegro [41n1Nh07nRA].mp3",
+    "new": "Mozart - Symphonies\\021 - Mozart： Symphony No. 8 in D Major, K. 48： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "53a012cedf0dbf6fe676172d0abde35b0d8e6696726aa0db40ca2ed662efc825"
+  },
+  {
+    "old": "Mozart - Symphonies\\022 - Mozart： Symphony No. 8 in D Major, K. 48： II. Andante [e8vyRQWrugM].mp3",
+    "new": "Mozart - Symphonies\\022 - Mozart： Symphony No. 8 in D Major, K. 48： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "53db0373b04cb554cc6f9290d0a32dae4ab04829c0dd9559fe31797bca215959"
+  },
+  {
+    "old": "Mozart - Symphonies\\023 - Mozart： Symphony No. 8 in D Major, K. 48： III. Menuetto - Trio [qBdqtreMleI].mp3",
+    "new": "Mozart - Symphonies\\023 - Mozart： Symphony No. 8 in D Major, K. 48： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "22b073d5e15c53063bc5ece958c0d700d87d9bd789ad4095b6206e8c87f2b0ba"
+  },
+  {
+    "old": "Mozart - Symphonies\\024 - Mozart： Symphony No. 8 in D Major, K. 48： IV. Allegro [UF6XyDCfGis].mp3",
+    "new": "Mozart - Symphonies\\024 - Mozart： Symphony No. 8 in D Major, K. 48： IV. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "f99469ae4748a01172b66e2c118eec13b252c5af1bb8466de4c9670f26e74af6"
+  },
+  {
+    "old": "Mozart - Symphonies\\025 - Mozart： Symphony No. 9 in C Major, K. 73： I. Allegro [ma8RnGlvAL8].mp3",
+    "new": "Mozart - Symphonies\\025 - Mozart： Symphony No. 9 in C Major, K. 73： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "2573158d72f885f6a3ec38a028578b842ef7e5d3b9b71de712a1a17e0365896f"
+  },
+  {
+    "old": "Mozart - Symphonies\\026 - Mozart： Symphony No. 9 in C Major, K. 73： II. Andante [Eondvf40Uac].mp3",
+    "new": "Mozart - Symphonies\\026 - Mozart： Symphony No. 9 in C Major, K. 73： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "fa1e3916e5da8d6d0c82dd9d87ac839f5aa48be02f91f08502d0e1fcab4f6c2e"
+  },
+  {
+    "old": "Mozart - Symphonies\\027 - Mozart： Symphony No. 9 in C Major, K. 73： III. Menuetto - Trio [1fon3SssiZI].mp3",
+    "new": "Mozart - Symphonies\\027 - Mozart： Symphony No. 9 in C Major, K. 73： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "181965c47ec0725e869cf7665a69e78355388edef40f358e96d9841c9fb3471e"
+  },
+  {
+    "old": "Mozart - Symphonies\\028 - Mozart： Symphony No. 9 in C Major, K. 73： IV. Allegro molto [joR36mJNCzA].mp3",
+    "new": "Mozart - Symphonies\\028 - Mozart： Symphony No. 9 in C Major, K. 73： IV. Allegro molto.mp3",
+    "status": "renamed",
+    "sha256": "cc552fec2e3335bde196d0433beca51bbce1ff12addb3396970d8f04ce5e3887"
+  },
+  {
+    "old": "Mozart - Symphonies\\029 - Mozart： Symphony No. 10 in G Major, K. 74： I. Introduction - Andante [qxZchAc7NXw].mp3",
+    "new": "Mozart - Symphonies\\029 - Mozart： Symphony No. 10 in G Major, K. 74： I. Introduction - Andante.mp3",
+    "status": "renamed",
+    "sha256": "12acc95a6c91fc7a8ba976e9d7017a315369b157d33b17800465d6a3e1901e0b"
+  },
+  {
+    "old": "Mozart - Symphonies\\030 - Mozart： Symphony No. 10 in G Major, K. 74： II. Allegro [yUDOfvsMRr0].mp3",
+    "new": "Mozart - Symphonies\\030 - Mozart： Symphony No. 10 in G Major, K. 74： II. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "08e9957185ec770f85d78e291b3619bbe31f38a59dee5f5fbdad73f211c32277"
+  },
+  {
+    "old": "Mozart - Symphonies\\031 - Mozart： Symphony No. 11 in D Major, K. 84： I. Allegro [o8ywSPYZOB8].mp3",
+    "new": "Mozart - Symphonies\\031 - Mozart： Symphony No. 11 in D Major, K. 84： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "69d2603da298a46b1523927e8f8a94ffa14ee8231cb6cb495048a1e09c5f5e73"
+  },
+  {
+    "old": "Mozart - Symphonies\\032 - Mozart： Symphony No. 11 in D Major, K. 84： II. Andante [HjABIRvOLSQ].mp3",
+    "new": "Mozart - Symphonies\\032 - Mozart： Symphony No. 11 in D Major, K. 84： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "77d15bcfa53faa03df418d906042925717377ce19956966e8ae83fc1ed642b38"
+  },
+  {
+    "old": "Mozart - Symphonies\\033 - Mozart： Symphony No. 11 in D Major, K. 84： III. Allegro [-8_WoF2Nxk4].mp3",
+    "new": "Mozart - Symphonies\\033 - Mozart： Symphony No. 11 in D Major, K. 84： III. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "8d19d250f61d0c7a241073919946750262bc6264244a315a2b8b79068566aa8c"
+  },
+  {
+    "old": "Mozart - Symphonies\\034 - Mozart： Symphony No. 12 in G Major, K. 110： I. Allegro [-u3vxGGGZxY].mp3",
+    "new": "Mozart - Symphonies\\034 - Mozart： Symphony No. 12 in G Major, K. 110： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "a3fafaceb1b369f211cce39fd40561da8efd3f5bd232ed690d0a66cb83fab605"
+  },
+  {
+    "old": "Mozart - Symphonies\\035 - Mozart： Symphony No. 12 in G Major, K. 110： II. Andante [Ns7QikXNXbU].mp3",
+    "new": "Mozart - Symphonies\\035 - Mozart： Symphony No. 12 in G Major, K. 110： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "bca294675cf9b24187135498dec714e556c95c1f5876f8b1d17d2f669bbeefba"
+  },
+  {
+    "old": "Mozart - Symphonies\\036 - Mozart： Symphony No. 12 in G Major, K. 110： III. Menuetto - Trio [e7c3QJHdx7o].mp3",
+    "new": "Mozart - Symphonies\\036 - Mozart： Symphony No. 12 in G Major, K. 110： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "b0f54ce65f0a7051d0cf4fe785c6b89d258444eb542e842eeb994189789daf15"
+  },
+  {
+    "old": "Mozart - Symphonies\\037 - Mozart： Symphony No. 12 in G Major, K. 110： IV. Allegro [-8MRKW-csn4].mp3",
+    "new": "Mozart - Symphonies\\037 - Mozart： Symphony No. 12 in G Major, K. 110： IV. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "e29ed2128f4a5b911ddd242e0a2148966352f020720f7ea7630be198d75237a3"
+  },
+  {
+    "old": "Mozart - Symphonies\\038 - Mozart： Symphony No. 13 in F Major, K. 112： I. Allegro [7hVs8DYr9bg].mp3",
+    "new": "Mozart - Symphonies\\038 - Mozart： Symphony No. 13 in F Major, K. 112： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "c3f41796dbf03ba1be4892f4ffeaaaf56ec28cf24d65286deac0242c45cad036"
+  },
+  {
+    "old": "Mozart - Symphonies\\039 - Mozart： Symphony No. 13 in F Major, K. 112： II. Andante [GFU25MuL4zM].mp3",
+    "new": "Mozart - Symphonies\\039 - Mozart： Symphony No. 13 in F Major, K. 112： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "dd1c0b53e7d4d34ca4cee5f07d29b4d0d7186e1e27825a1bb69c502011f466fb"
+  },
+  {
+    "old": "Mozart - Symphonies\\040 - Mozart： Symphony No. 13 in F Major, K. 112： III. Menuetto - Trio [hYPzcIAnfXk].mp3",
+    "new": "Mozart - Symphonies\\040 - Mozart： Symphony No. 13 in F Major, K. 112： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "eba8f4f232720a51c787153407b9fb2877739f6e5823cb42280f81f125f3676a"
+  },
+  {
+    "old": "Mozart - Symphonies\\041 - Mozart： Symphony No. 13 in F Major, K. 112： IV. Molto allegro [q_4rjt5UAVg].mp3",
+    "new": "Mozart - Symphonies\\041 - Mozart： Symphony No. 13 in F Major, K. 112： IV. Molto allegro.mp3",
+    "status": "renamed",
+    "sha256": "0d513af11415cce7ef815287789020147f9a152b7e435dd70439d892148c6789"
+  },
+  {
+    "old": "Mozart - Symphonies\\042 - Mozart： Symphony No. 14 in A Major, K. 114： I. Allegro moderato [c_O_lQsESKg].mp3",
+    "new": "Mozart - Symphonies\\042 - Mozart： Symphony No. 14 in A Major, K. 114： I. Allegro moderato.mp3",
+    "status": "renamed",
+    "sha256": "c61c6682c60216de070752fb6ab409b7fb94394c371b7991c358f8b03c4742d4"
+  },
+  {
+    "old": "Mozart - Symphonies\\043 - Mozart： Symphony No. 14 in A Major, K. 114： II. Andante [uHPpCXIwOuM].mp3",
+    "new": "Mozart - Symphonies\\043 - Mozart： Symphony No. 14 in A Major, K. 114： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "307fd87afbea95cf5ae0985fa90c3f29ef993befeefe69763b99fed395e1fa89"
+  },
+  {
+    "old": "Mozart - Symphonies\\044 - Mozart： Symphony No. 14 in A Major, K. 114： III. Menuetto - Trio [kiVTdYC5gqU].mp3",
+    "new": "Mozart - Symphonies\\044 - Mozart： Symphony No. 14 in A Major, K. 114： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "c78303c330942982ae3a74fb741c591d3978b174f257c3e35d9dc8811d1f92f6"
+  },
+  {
+    "old": "Mozart - Symphonies\\045 - Mozart： Symphony No. 14 in A Major, K. 114： IV. Molto allegro [aAA3y5tj8TQ].mp3",
+    "new": "Mozart - Symphonies\\045 - Mozart： Symphony No. 14 in A Major, K. 114： IV. Molto allegro.mp3",
+    "status": "renamed",
+    "sha256": "6e751522f3b2b912c852ce079f95ccb252ea218280f8fced90868ebc5c516d90"
+  },
+  {
+    "old": "Mozart - Symphonies\\046 - Mozart： Symphony No. 15 in G Major, K. 124： I. Allegro [rnsGAcz5p38].mp3",
+    "new": "Mozart - Symphonies\\046 - Mozart： Symphony No. 15 in G Major, K. 124： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "aba3978c6adb85aadf73a9b21837cd0eb5f7e96fdc9f3c8c98bac491e74d28de"
+  },
+  {
+    "old": "Mozart - Symphonies\\047 - Mozart： Symphony No. 15 in G Major, K. 124： II. Andante [g1dVqgIy5rA].mp3",
+    "new": "Mozart - Symphonies\\047 - Mozart： Symphony No. 15 in G Major, K. 124： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "b9e0857ad1848a664c40749b40814f803cfccd6a37dde62f00400e3f33a24c1c"
+  },
+  {
+    "old": "Mozart - Symphonies\\048 - Mozart： Symphony No. 15 in G Major, K. 124： III. Menuetto - Trio [xdwMJhbAxpk].mp3",
+    "new": "Mozart - Symphonies\\048 - Mozart： Symphony No. 15 in G Major, K. 124： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "10ada0ea9dda038b50434138be861e2a7f8331f5d8e69d719da11665c5002a99"
+  },
+  {
+    "old": "Mozart - Symphonies\\049 - Mozart： Symphony No. 15 in G Major, K. 124： IV. Presto [vhzFv7xjv0c].mp3",
+    "new": "Mozart - Symphonies\\049 - Mozart： Symphony No. 15 in G Major, K. 124： IV. Presto.mp3",
+    "status": "renamed",
+    "sha256": "14225f7ade91665be75d5556ea399a1a5de765b9dd24fe71d2bfbd8dd222bc01"
+  },
+  {
+    "old": "Mozart - Symphonies\\050 - Mozart： Symphony No. 16 in C Major, K. 128： I. Allegro maestoso [uoP_PU8IzEk].mp3",
+    "new": "Mozart - Symphonies\\050 - Mozart： Symphony No. 16 in C Major, K. 128： I. Allegro maestoso.mp3",
+    "status": "renamed",
+    "sha256": "cf4f68d3646f3054afc5d37d9b1e9a07b0f644eb6eee9524b2332a5611a264ea"
+  },
+  {
+    "old": "Mozart - Symphonies\\051 - Mozart： Symphony No. 16 in C Major, K. 128： II. Andante grazioso [B5EnEAMNnQ0].mp3",
+    "new": "Mozart - Symphonies\\051 - Mozart： Symphony No. 16 in C Major, K. 128： II. Andante grazioso.mp3",
+    "status": "renamed",
+    "sha256": "d3b92d5c2af7c4f5ff5290929bea6ba590cb87282dfaf9fdee09e63fa210fb3a"
+  },
+  {
+    "old": "Mozart - Symphonies\\052 - Mozart： Symphony No. 16 in C Major, K. 128： III. Rondo. Allegro [kOzL6eCmwRE].mp3",
+    "new": "Mozart - Symphonies\\052 - Mozart： Symphony No. 16 in C Major, K. 128： III. Rondo. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "2113e34d9f0be6d712f301aa3e1cb1e303000adac7d8ab893abe8eb97005db45"
+  },
+  {
+    "old": "Mozart - Symphonies\\053 - Mozart： Symphony No. 17 in G Major, K. 129： I. Allegro [qdVghgntpbk].mp3",
+    "new": "Mozart - Symphonies\\053 - Mozart： Symphony No. 17 in G Major, K. 129： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "ef3b8687dab5655a8a9b2823c88a8051c7189f4cbeba454201030f93f7369853"
+  },
+  {
+    "old": "Mozart - Symphonies\\054 - Mozart： Symphony No. 17 in G Major, K. 129： II. Andante [jOOukPns7Kg].mp3",
+    "new": "Mozart - Symphonies\\054 - Mozart： Symphony No. 17 in G Major, K. 129： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "1fa9da61390d7e595dca5e1fb9b764a055d2761f92dcd424bb4006fee963d60e"
+  },
+  {
+    "old": "Mozart - Symphonies\\055 - Mozart： Symphony No. 17 in G Major, K. 129： III. Allegro [ovJ4vjinnxg].mp3",
+    "new": "Mozart - Symphonies\\055 - Mozart： Symphony No. 17 in G Major, K. 129： III. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "1acc1eaa4eaab7253d395627b249e002d556b37f55a62d7228fa94f4ec4cc24e"
+  },
+  {
+    "old": "Mozart - Symphonies\\056 - Mozart： Symphony No. 18 in F Major, K. 130： I. Allegro [Ie4ER5cA_uk].mp3",
+    "new": "Mozart - Symphonies\\056 - Mozart： Symphony No. 18 in F Major, K. 130： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "4f3fbd00a542a8c0c9aadd1002dfb737b443f4a334ac5ed0696636bd76a1a593"
+  },
+  {
+    "old": "Mozart - Symphonies\\057 - Mozart： Symphony No. 18 in F Major, K. 130： II. Andantino grazioso [dAF6N8jcTlg].mp3",
+    "new": "Mozart - Symphonies\\057 - Mozart： Symphony No. 18 in F Major, K. 130： II. Andantino grazioso.mp3",
+    "status": "renamed",
+    "sha256": "9da5142aacd4a37bc7ad7454e89f8643956b2efa5be83a1b54d27ca3d8ec3cd9"
+  },
+  {
+    "old": "Mozart - Symphonies\\058 - Mozart： Symphony No. 18 in F Major, K. 130： III. Menuetto - Trio [-WC1Xdf9lFA].mp3",
+    "new": "Mozart - Symphonies\\058 - Mozart： Symphony No. 18 in F Major, K. 130： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "21bea18a382ba6a33a2afff33a970adad4b74db7e1ea2b043cdcd8016e31a40f"
+  },
+  {
+    "old": "Mozart - Symphonies\\059 - Mozart： Symphony No. 18 in F Major, K. 130： IV. Molto allegro [Q-iKzEssQ4s].mp3",
+    "new": "Mozart - Symphonies\\059 - Mozart： Symphony No. 18 in F Major, K. 130： IV. Molto allegro.mp3",
+    "status": "renamed",
+    "sha256": "7c3d1eac6ae869e68fde63fca5d4db72bcf3d68b93d7f292edabdd489fba98fa"
+  },
+  {
+    "old": "Mozart - Symphonies\\060 - Mozart： Symphony No. 19 in E-Flat Major, K. 132： I. Allegro [wQ7bJ0QHrkE].mp3",
+    "new": "Mozart - Symphonies\\060 - Mozart： Symphony No. 19 in E-Flat Major, K. 132： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "86d704f8c5e179d057f3e35b616345ab97566db347e2f2f987791d2e7e9691b2"
+  },
+  {
+    "old": "Mozart - Symphonies\\061 - Mozart： Symphony No. 19 in E-Flat Major, K. 132： II. Andante [AqJTbR3Si38].mp3",
+    "new": "Mozart - Symphonies\\061 - Mozart： Symphony No. 19 in E-Flat Major, K. 132： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "e4e39522ff665bf60b1211fd904e3592c7d4f2fea8c1b587a048985121e90853"
+  },
+  {
+    "old": "Mozart - Symphonies\\062 - Mozart： Symphony No. 19 in E-Flat Major, K. 132： II. Andantino grazioso (Alternate) [q_V-hROh-WE].mp3",
+    "new": "Mozart - Symphonies\\062 - Mozart： Symphony No. 19 in E-Flat Major, K. 132： II. Andantino grazioso (Alternate).mp3",
+    "status": "renamed",
+    "sha256": "627d5cb6b11a1487c534a42cb1dd30cf77f5c9f617d3541212f3b2ebf99e16dd"
+  },
+  {
+    "old": "Mozart - Symphonies\\063 - Mozart： Symphony No. 19 in E-Flat Major, K. 132： III. Menuetto - Trio [QAVXFDMkkfs].mp3",
+    "new": "Mozart - Symphonies\\063 - Mozart： Symphony No. 19 in E-Flat Major, K. 132： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "3e2f16756274289463152e37bccf1ecf736e05865e9bf31b22c57eeed182e031"
+  },
+  {
+    "old": "Mozart - Symphonies\\064 - Mozart： Symphony No. 19 in E-Flat Major, K. 132： IV. Allegro [U70VlIXaS-k].mp3",
+    "new": "Mozart - Symphonies\\064 - Mozart： Symphony No. 19 in E-Flat Major, K. 132： IV. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "c71ab5a6c162f5d7c0f104f10b3ce2795186c853b117be2090af3f46c983a8f7"
+  },
+  {
+    "old": "Mozart - Symphonies\\065 - Mozart： Symphony No. 20 in D Major, K. 133： I. Allegro [Vy_abT63UZI].mp3",
+    "new": "Mozart - Symphonies\\065 - Mozart： Symphony No. 20 in D Major, K. 133： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "c53879fb3147ca066717d0543c349fa442bda8ee374090b4b4946b8157750cc0"
+  },
+  {
+    "old": "Mozart - Symphonies\\066 - Mozart： Symphony No. 20 in D Major, K. 133： II. Andante [LOSFhNDqp4Q].mp3",
+    "new": "Mozart - Symphonies\\066 - Mozart： Symphony No. 20 in D Major, K. 133： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "c4d420117deedc88bf38b30499f90d13c2a236658e3fe58cf0908175876285ca"
+  },
+  {
+    "old": "Mozart - Symphonies\\067 - Mozart： Symphony No. 20 in D Major, K. 133： III. Menuetto - Trio [6C45v6l9o6w].mp3",
+    "new": "Mozart - Symphonies\\067 - Mozart： Symphony No. 20 in D Major, K. 133： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "ea9702a8cac262aa4bc900d89584929eb8efa337a09fee37a29e5cc4bc91d78e"
+  },
+  {
+    "old": "Mozart - Symphonies\\068 - Mozart： Symphony No. 20 in D Major, K. 133： IV. Allegro [CdwPIAgUT8Y].mp3",
+    "new": "Mozart - Symphonies\\068 - Mozart： Symphony No. 20 in D Major, K. 133： IV. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "0b13da1520e5259a36c562518c1c0de6ae746552ec71c75cea085532bd8b2cc0"
+  },
+  {
+    "old": "Mozart - Symphonies\\069 - Mozart： Symphony No. 21 in A Major, K. 134： I. Allegro [4hvztRlArRI].mp3",
+    "new": "Mozart - Symphonies\\069 - Mozart： Symphony No. 21 in A Major, K. 134： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "2f4c0fb0fc2663b73b76ee4fd964dc58352157e38b5cbabf06e2a79086213282"
+  },
+  {
+    "old": "Mozart - Symphonies\\070 - Mozart： Symphony No. 21 in A Major, K. 134： II. Andante [JJxplRoJWh4].mp3",
+    "new": "Mozart - Symphonies\\070 - Mozart： Symphony No. 21 in A Major, K. 134： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "4038b304d9b6b725f5e139743185c73fd391ce8884b141f9effdf9775ec5a0b8"
+  },
+  {
+    "old": "Mozart - Symphonies\\071 - Mozart： Symphony No. 21 in A Major, K. 134： III. Menuetto - Trio [MBge3ddm1ik].mp3",
+    "new": "Mozart - Symphonies\\071 - Mozart： Symphony No. 21 in A Major, K. 134： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "33cd4d6529bc801e50296e7508629ff3c44f5a55229a7e8e3898271f0419b1c0"
+  },
+  {
+    "old": "Mozart - Symphonies\\072 - Mozart： Symphony No. 21 in A Major, K. 134： IV. Allegro [tgwBLhJ2oa4].mp3",
+    "new": "Mozart - Symphonies\\072 - Mozart： Symphony No. 21 in A Major, K. 134： IV. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "627d9d52377a59d6ee2ea40e320c94d141c3fb2bc7630eb07152f1ed8b6a12dd"
+  },
+  {
+    "old": "Mozart - Symphonies\\073 - Mozart： Symphony No. 22 in C Major, K. 162： I. Allegro assai [RUUmemruon8].mp3",
+    "new": "Mozart - Symphonies\\073 - Mozart： Symphony No. 22 in C Major, K. 162： I. Allegro assai.mp3",
+    "status": "renamed",
+    "sha256": "803ce1c20b001a9e031bf9215f2c0275da459b83860823bcd19dd21cadaae9f5"
+  },
+  {
+    "old": "Mozart - Symphonies\\074 - Mozart： Symphony No. 22 in C Major, K. 162： II. Andantino grazioso [ueoVBNdJ0Ys].mp3",
+    "new": "Mozart - Symphonies\\074 - Mozart： Symphony No. 22 in C Major, K. 162： II. Andantino grazioso.mp3",
+    "status": "renamed",
+    "sha256": "b3477ec70f0ad9f460b45515323822507dcce0edcabadb807dc473387e8be433"
+  },
+  {
+    "old": "Mozart - Symphonies\\075 - Mozart： Symphony No. 22 in C Major, K. 162： III. Presto assai [BmDSsy2zl0Y].mp3",
+    "new": "Mozart - Symphonies\\075 - Mozart： Symphony No. 22 in C Major, K. 162： III. Presto assai.mp3",
+    "status": "renamed",
+    "sha256": "0eb49eeaf1c55fb95a92664091f1198197d8ceac04274f1bf80b53ac9b1ee799"
+  },
+  {
+    "old": "Mozart - Symphonies\\076 - Mozart： Symphony No. 23 in D Major, K. 181： I. Allegro spiritoso [Q2IPtSgxRtw].mp3",
+    "new": "Mozart - Symphonies\\076 - Mozart： Symphony No. 23 in D Major, K. 181： I. Allegro spiritoso.mp3",
+    "status": "renamed",
+    "sha256": "c81cb8bc0fff3fdd39d1421258ad3da50e0dc7ac913cf7e752c2b0f9c0db1903"
+  },
+  {
+    "old": "Mozart - Symphonies\\077 - Mozart： Symphony No. 23 in D Major, K. 181： II. Andantino grazioso [hCp5JOebNoI].mp3",
+    "new": "Mozart - Symphonies\\077 - Mozart： Symphony No. 23 in D Major, K. 181： II. Andantino grazioso.mp3",
+    "status": "renamed",
+    "sha256": "c9c9d009b7c324da4f36b7f230733924e6f8004374b2dad5e4406c3ebe12f899"
+  },
+  {
+    "old": "Mozart - Symphonies\\078 - Mozart： Symphony No. 23 in D Major, K. 181： III. Presto assai [uFPdAoH4ZtA].mp3",
+    "new": "Mozart - Symphonies\\078 - Mozart： Symphony No. 23 in D Major, K. 181： III. Presto assai.mp3",
+    "status": "renamed",
+    "sha256": "e44b068f844aeb061c82447fa82cf75dc9808a1404b6c672140daf776e6e6f72"
+  },
+  {
+    "old": "Mozart - Symphonies\\079 - Mozart： Symphony No. 24 in B-Flat Major, K. 182： I. Allegro spiritoso [dPo8-H8c2ek].mp3",
+    "new": "Mozart - Symphonies\\079 - Mozart： Symphony No. 24 in B-Flat Major, K. 182： I. Allegro spiritoso.mp3",
+    "status": "renamed",
+    "sha256": "7a039f3d129428ed2f579185cc6b85d4ac61dd60543d54461ee93a1745ccd275"
+  },
+  {
+    "old": "Mozart - Symphonies\\080 - Mozart： Symphony No. 24 in B-Flat Major, K. 182： II. Andantino grazioso [Hls_9geT9Rs].mp3",
+    "new": "Mozart - Symphonies\\080 - Mozart： Symphony No. 24 in B-Flat Major, K. 182： II. Andantino grazioso.mp3",
+    "status": "renamed",
+    "sha256": "88cf67226a6e4e9c8d4a7206c7756b62088865281d240fda37d36c7d64dc9cad"
+  },
+  {
+    "old": "Mozart - Symphonies\\081 - Mozart： Symphony No. 24 in B-Flat Major, K. 182： III. Allegro [gfQqZGu4cas].mp3",
+    "new": "Mozart - Symphonies\\081 - Mozart： Symphony No. 24 in B-Flat Major, K. 182： III. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "8120c64297e3b394a98f895469745f09210a2631ee5561e55669f39ca607a3fc"
+  },
+  {
+    "old": "Mozart - Symphonies\\082 - Mozart： Symphony No. 25 in G Minor, K. 183： I. Allegro con brio [T_sivVzne0A].mp3",
+    "new": "Mozart - Symphonies\\082 - Mozart： Symphony No. 25 in G Minor, K. 183： I. Allegro con brio.mp3",
+    "status": "renamed",
+    "sha256": "b81dc5b2aff67b8499fa8e73a46619e49c944a70594db841ab67a30ab0f6c2a2"
+  },
+  {
+    "old": "Mozart - Symphonies\\083 - Mozart： Symphony No. 25 in G Minor, K. 183： II. Andante [5Gq0-tkz-7o].mp3",
+    "new": "Mozart - Symphonies\\083 - Mozart： Symphony No. 25 in G Minor, K. 183： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "67b314de342504b0f36f5e09b59446c79c1bc2d522b7ab5065cafcff91b669bd"
+  },
+  {
+    "old": "Mozart - Symphonies\\084 - Mozart： Symphony No. 25 in G Minor, K. 183： III. Menuetto - Trio [-fhfaN-F1NI].mp3",
+    "new": "Mozart - Symphonies\\084 - Mozart： Symphony No. 25 in G Minor, K. 183： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "309b323d45736d21d00cb1bbb7f855ed7538c699e0c3b1d05f9e4d4e6c2db004"
+  },
+  {
+    "old": "Mozart - Symphonies\\085 - Mozart： Symphony No. 25 in G Minor, K. 183： IV. Allegro [9Ib6O10gp1I].mp3",
+    "new": "Mozart - Symphonies\\085 - Mozart： Symphony No. 25 in G Minor, K. 183： IV. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "8d999faca2ec92d877ca8824349de2105a7b62b44cfc06a47c5cfe3961eca318"
+  },
+  {
+    "old": "Mozart - Symphonies\\086 - Mozart： Symphony No. 26 in E-Flat Major, K. 184： I. Molto presto [MmumWS_CoyM].mp3",
+    "new": "Mozart - Symphonies\\086 - Mozart： Symphony No. 26 in E-Flat Major, K. 184： I. Molto presto.mp3",
+    "status": "renamed",
+    "sha256": "afb43c665178654b9068e82abb7c2e2c2faa9a7c9a73d8078a80e100f80b5376"
+  },
+  {
+    "old": "Mozart - Symphonies\\087 - Mozart： Symphony No. 26 in E-Flat Major, K. 184： II. Andante [lPfFMcK9wRM].mp3",
+    "new": "Mozart - Symphonies\\087 - Mozart： Symphony No. 26 in E-Flat Major, K. 184： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "f3e73d6dc0210ae8a612ce2cca69f57f7ed942952a56328f7d4b08e0cfad33a0"
+  },
+  {
+    "old": "Mozart - Symphonies\\088 - Mozart： Symphony No. 26 in E-Flat Major, K. 184： III. Allegro [vIPOU7IaVj0].mp3",
+    "new": "Mozart - Symphonies\\088 - Mozart： Symphony No. 26 in E-Flat Major, K. 184： III. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "2fb00beda2fd750142e12cfb7454c36294211db8d4a0394a334e9cd1e83a004e"
+  },
+  {
+    "old": "Mozart - Symphonies\\089 - Mozart： Symphony No. 27 in G Major, K. 199： I. Allegro [QTnSVpmnwMs].mp3",
+    "new": "Mozart - Symphonies\\089 - Mozart： Symphony No. 27 in G Major, K. 199： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "eba3fb955fcef68cb306a74f50e4754baaca9fe5707d89b9401e020d4ea5c67c"
+  },
+  {
+    "old": "Mozart - Symphonies\\090 - Mozart： Symphony No. 27 in G Major, K. 199： II. Andantino grazioso [BxREJeDigzU].mp3",
+    "new": "Mozart - Symphonies\\090 - Mozart： Symphony No. 27 in G Major, K. 199： II. Andantino grazioso.mp3",
+    "status": "renamed",
+    "sha256": "02693350356cd351bc115874940231a0c01af7762b02e64cbd39a7fca7e6be89"
+  },
+  {
+    "old": "Mozart - Symphonies\\091 - Mozart： Symphony No. 27 in G Major, K. 199： III. Presto [dhAnJ04ztSo].mp3",
+    "new": "Mozart - Symphonies\\091 - Mozart： Symphony No. 27 in G Major, K. 199： III. Presto.mp3",
+    "status": "renamed",
+    "sha256": "435a5e60d971e31a09410e754627435da2155148d8e16a0ec06ae5dc72678eb2"
+  },
+  {
+    "old": "Mozart - Symphonies\\092 - Mozart： Symphony No. 28 in C Major, K. 200： I. Allegro spiritoso [cliogWseA20].mp3",
+    "new": "Mozart - Symphonies\\092 - Mozart： Symphony No. 28 in C Major, K. 200： I. Allegro spiritoso.mp3",
+    "status": "renamed",
+    "sha256": "b5872b5485a3c87df05c31e2eb6004500acb17072afe31122ae8b30c693b15f7"
+  },
+  {
+    "old": "Mozart - Symphonies\\093 - Mozart： Symphony No. 28 in C Major, K. 200： II. Andante [V5PgVexV6Yg].mp3",
+    "new": "Mozart - Symphonies\\093 - Mozart： Symphony No. 28 in C Major, K. 200： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "e11e2e10e4ca93ef6664144ca9c02adbd982ed398ce80f0ba32d3de2c370c4bc"
+  },
+  {
+    "old": "Mozart - Symphonies\\094 - Mozart： Symphony No. 28 in C Major, K. 200： III. Menuetto - Trio [rpnRQUPmSLA].mp3",
+    "new": "Mozart - Symphonies\\094 - Mozart： Symphony No. 28 in C Major, K. 200： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "c5fd832f3bed3c6a27768d40f0f8a70264627928e0e3298c32d235946d301de1"
+  },
+  {
+    "old": "Mozart - Symphonies\\095 - Mozart： Symphony No. 28 in C Major, K. 200： IV. Presto [A1rURwRVrC8].mp3",
+    "new": "Mozart - Symphonies\\095 - Mozart： Symphony No. 28 in C Major, K. 200： IV. Presto.mp3",
+    "status": "renamed",
+    "sha256": "33f4c9dbce90c4ac4c591976fba12cbe94e7dc531cb84644c09addf6031ac2eb"
+  },
+  {
+    "old": "Mozart - Symphonies\\096 - Mozart： Symphony No. 29 in A Major, K. 201： I. Allegro moderato [Vk8sDHIqPwU].mp3",
+    "new": "Mozart - Symphonies\\096 - Mozart： Symphony No. 29 in A Major, K. 201： I. Allegro moderato.mp3",
+    "status": "renamed",
+    "sha256": "6ce07ddf0388a350c38fea0f2117e13b0e836296cc084fe562cf330531012919"
+  },
+  {
+    "old": "Mozart - Symphonies\\097 - Mozart： Symphony No. 29 in A Major, K. 201： II. Andante [EcEgsAWEgRs].mp3",
+    "new": "Mozart - Symphonies\\097 - Mozart： Symphony No. 29 in A Major, K. 201： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "8c15b080a615eaec7c5b3d45d583889da208baf4107aa63becd96a25b2311d33"
+  },
+  {
+    "old": "Mozart - Symphonies\\098 - Mozart： Symphony No. 29 in A Major, K. 201： III. Menuetto - Trio [3qsl_kUhg1c].mp3",
+    "new": "Mozart - Symphonies\\098 - Mozart： Symphony No. 29 in A Major, K. 201： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "a073fbd9b5cfc0b991ece87e13f7ce9b9580723a6b66cd92ca885f8875845ced"
+  },
+  {
+    "old": "Mozart - Symphonies\\099 - Mozart： Symphony No. 29 in A Major, K. 201： IV. Allegro con spirito [A5Ytc3-9aEw].mp3",
+    "new": "Mozart - Symphonies\\099 - Mozart： Symphony No. 29 in A Major, K. 201： IV. Allegro con spirito.mp3",
+    "status": "renamed",
+    "sha256": "0ec63fbf8206311839ca860bfb5caade66d56f2860ff710f5ab221b393302ed2"
+  },
+  {
+    "old": "Mozart - Symphonies\\100 - Mozart： Symphony No. 30 in D Major, K. 202： I. Molto allegro [nLogXymAgn4].mp3",
+    "new": "Mozart - Symphonies\\100 - Mozart： Symphony No. 30 in D Major, K. 202： I. Molto allegro.mp3",
+    "status": "renamed",
+    "sha256": "06c21d9e9105c9fda4c4bb40ec9140cbe5e3e15ed999208fcfdc264474c1e65d"
+  },
+  {
+    "old": "Mozart - Symphonies\\101 - Mozart： Symphony No. 30 in D Major, K. 202： II. Andantino con moto [dAzCpzTeDz8].mp3",
+    "new": "Mozart - Symphonies\\101 - Mozart： Symphony No. 30 in D Major, K. 202： II. Andantino con moto.mp3",
+    "status": "renamed",
+    "sha256": "ab2ade0815c9647aade556320ace1e26ef86340da3b3ade41ec4941a19ca073b"
+  },
+  {
+    "old": "Mozart - Symphonies\\102 - Mozart： Symphony No. 30 in D Major, K. 202： III. Menuetto - Trio [bJOSK2gcnkQ].mp3",
+    "new": "Mozart - Symphonies\\102 - Mozart： Symphony No. 30 in D Major, K. 202： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "c7c3bc66a9139b0c13e9ad9c24bccfb91560352dd35685736eb64900e5bed6c7"
+  },
+  {
+    "old": "Mozart - Symphonies\\103 - Mozart： Symphony No. 30 in D Major, K. 202： IV. Presto [vI2FEmY4AMs].mp3",
+    "new": "Mozart - Symphonies\\103 - Mozart： Symphony No. 30 in D Major, K. 202： IV. Presto.mp3",
+    "status": "renamed",
+    "sha256": "84e433ffbad5edbd1298649d7d617d50fb4b03d1bb442a46a20f429ce9ac5359"
+  },
+  {
+    "old": "Mozart - Symphonies\\104 - Mozart： Symphony No. 31 in D Major, K. 297 ＂Paris＂： I. Allegro assai [6EqcmAgnK48].mp3",
+    "new": "Mozart - Symphonies\\104 - Mozart： Symphony No. 31 in D Major, K. 297 “Paris”： I. Allegro assai.mp3",
+    "status": "renamed",
+    "sha256": "24f6cc3304272b76c8eb6f12459222214c91ea340bc6adb42a53d44635db779d"
+  },
+  {
+    "old": "Mozart - Symphonies\\105 - Mozart： Symphony No. 31 in D Major, K. 297 ＂Paris＂： II. Andante [D1WmAPHrlPc].mp3",
+    "new": "Mozart - Symphonies\\105 - Mozart： Symphony No. 31 in D Major, K. 297 “Paris”： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "debf4b72be0f6f42a6b4f88da49007316caf1c8ff727f4acc59d389b673958ea"
+  },
+  {
+    "old": "Mozart - Symphonies\\106 - Mozart： Symphony No. 31 in D Major, K. 297 ＂Paris＂： II. Andante (Alternate) [BgEFvJT_S0o].mp3",
+    "new": "Mozart - Symphonies\\106 - Mozart： Symphony No. 31 in D Major, K. 297 “Paris”： II. Andante (Alternate).mp3",
+    "status": "renamed",
+    "sha256": "ed55e558f418f910374ca1722d162ac0807f03955d95794eac4f9a396cc0b101"
+  },
+  {
+    "old": "Mozart - Symphonies\\107 - Mozart： Symphony No. 31 in D Major, K. 297 ＂Paris＂： III. Allegro [zZvpYKdoOZs].mp3",
+    "new": "Mozart - Symphonies\\107 - Mozart： Symphony No. 31 in D Major, K. 297 “Paris”： III. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "18a0547e570f5e0b8254eea145f800916bc3e53878b1503e19334aba06df00b4"
+  },
+  {
+    "old": "Mozart - Symphonies\\108 - Mozart： Symphony No. 32 in G Major, K. 318： I. Allegro spiritoso [pZNznl8XoVQ].mp3",
+    "new": "Mozart - Symphonies\\108 - Mozart： Symphony No. 32 in G Major, K. 318： I. Allegro spiritoso.mp3",
+    "status": "renamed",
+    "sha256": "49942dcd490a4aa7f4360299bb7c265b0b77232931e1ed63468bc867d3163b4b"
+  },
+  {
+    "old": "Mozart - Symphonies\\109 - Mozart： Symphony No. 32 in G Major, K. 318： II. Andante [Admn75HOWdQ].mp3",
+    "new": "Mozart - Symphonies\\109 - Mozart： Symphony No. 32 in G Major, K. 318： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "4f71b0d356fd469688acf235a4718cadff7c1035fb59a87a438d63bb24aa660c"
+  },
+  {
+    "old": "Mozart - Symphonies\\110 - Mozart： Symphony No. 32 in G Major, K. 318： III. Allegro spiritoso [DjAvJK9wSIk].mp3",
+    "new": "Mozart - Symphonies\\110 - Mozart： Symphony No. 32 in G Major, K. 318： III. Allegro spiritoso.mp3",
+    "status": "renamed",
+    "sha256": "ba3b95a6b85683594e146cc373c152cd43d5018c68bacebeaadf553631b088da"
+  },
+  {
+    "old": "Mozart - Symphonies\\111 - Mozart： Symphony No. 33 in B-Flat Major, K. 319： I. Allegro assai [MuTO8nnqZZY].mp3",
+    "new": "Mozart - Symphonies\\111 - Mozart： Symphony No. 33 in B-Flat Major, K. 319： I. Allegro assai.mp3",
+    "status": "renamed",
+    "sha256": "ce50a79b1a6094117d805ebe610ebe7f15a91ae715f2c8afd85ad40dcc5cdfff"
+  },
+  {
+    "old": "Mozart - Symphonies\\112 - Mozart： Symphony No. 33 in B-Flat Major, K. 319： II. Andante moderato [jjyKRLarsRs].mp3",
+    "new": "Mozart - Symphonies\\112 - Mozart： Symphony No. 33 in B-Flat Major, K. 319： II. Andante moderato.mp3",
+    "status": "renamed",
+    "sha256": "bb9371070cfa936789254d90e60f5da05bc71ba42e9a856621b872dbdba38f2e"
+  },
+  {
+    "old": "Mozart - Symphonies\\113 - Mozart： Symphony No. 33 in B-Flat Major, K. 319： III. Menuet - Trio [ARrfgpuSBLk].mp3",
+    "new": "Mozart - Symphonies\\113 - Mozart： Symphony No. 33 in B-Flat Major, K. 319： III. Menuet - Trio.mp3",
+    "status": "renamed",
+    "sha256": "6bb0d01c60c258a7a08da936cfed90f7f9e99d78f1846bc19da7c0ea206fc770"
+  },
+  {
+    "old": "Mozart - Symphonies\\114 - Mozart： Symphony No. 33 in B-Flat Major, K. 319： IV. Allegro assai [TMGI58oyYRY].mp3",
+    "new": "Mozart - Symphonies\\114 - Mozart： Symphony No. 33 in B-Flat Major, K. 319： IV. Allegro assai.mp3",
+    "status": "renamed",
+    "sha256": "4ae1c37072b2d0f465d09ce32ab84528cf85f0bc7deca5eef559f90ec8dda78d"
+  },
+  {
+    "old": "Mozart - Symphonies\\115 - Mozart： Symphony No. 34 in C Major, K. 338： I. Allegro vivace [8NlFzMaiHFs].mp3",
+    "new": "Mozart - Symphonies\\115 - Mozart： Symphony No. 34 in C Major, K. 338： I. Allegro vivace.mp3",
+    "status": "renamed",
+    "sha256": "97be022473b6ba3856511e1c5e155573cd546978cbdb89bb8b8aec95126fc636"
+  },
+  {
+    "old": "Mozart - Symphonies\\116 - Mozart： Symphony No. 34 in C Major, K. 338： II. Andante di molto [kNNX8c483ZU].mp3",
+    "new": "Mozart - Symphonies\\116 - Mozart： Symphony No. 34 in C Major, K. 338： II. Andante di molto.mp3",
+    "status": "renamed",
+    "sha256": "18815bd8caccc02ddce03ad719abc802e46cb11b219d466140b8354737fde516"
+  },
+  {
+    "old": "Mozart - Symphonies\\117 - Mozart： Symphony No. 34 in C Major, K. 338： III. Allegro vivace [s9q6wVIl7ik].mp3",
+    "new": "Mozart - Symphonies\\117 - Mozart： Symphony No. 34 in C Major, K. 338： III. Allegro vivace.mp3",
+    "status": "renamed",
+    "sha256": "86b0f9d6f58027c7441bc9c54e609625276446597bc4070a7582c80b2e5c2adf"
+  },
+  {
+    "old": "Mozart - Symphonies\\118 - Mozart： Symphony No. 35 in D Major, K. 385 ＂Haffner＂： I. Allegro con spirito [T_XUN6yh6Wc].mp3",
+    "new": "Mozart - Symphonies\\118 - Mozart： Symphony No. 35 in D Major, K. 385 “Haffner”： I. Allegro con spirito.mp3",
+    "status": "renamed",
+    "sha256": "2541aff339e3b804f1d272d91e41abca8663a749f15f3f73571b10858da38674"
+  },
+  {
+    "old": "Mozart - Symphonies\\119 - Mozart： Symphony No. 35 in D Major, K. 385 ＂Haffner＂： II. (Andante) [dsXjZU50Pgw].mp3",
+    "new": "Mozart - Symphonies\\119 - Mozart： Symphony No. 35 in D Major, K. 385 “Haffner”： II. (Andante).mp3",
+    "status": "renamed",
+    "sha256": "27252193ccf731bcdfaa91d6351714e5236452829fe6267e62f241dd9de15c5b"
+  },
+  {
+    "old": "Mozart - Symphonies\\120 - Mozart： Symphony No. 35 in D Major, K. 385 ＂Haffner＂： III. Menuetto - Trio [RUoksv9Vtw0].mp3",
+    "new": "Mozart - Symphonies\\120 - Mozart： Symphony No. 35 in D Major, K. 385 “Haffner”： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "49c8d022ba0d3da61799f39ff03874fa0d95176c776995035b31bd12b258a03a"
+  },
+  {
+    "old": "Mozart - Symphonies\\121 - Mozart： Symphony No. 35 in D Major, K. 385 ＂Haffner＂： IV. Presto [olltz7ax0T0].mp3",
+    "new": "Mozart - Symphonies\\121 - Mozart： Symphony No. 35 in D Major, K. 385 “Haffner”： IV. Presto.mp3",
+    "status": "renamed",
+    "sha256": "dadf7f580724380407397ca6f45a25263237a6f6e7699a04d4a461b932f4c3f8"
+  },
+  {
+    "old": "Mozart - Symphonies\\122 - Mozart： Symphony No. 36 in C Major, K. 425 ＂Linz＂： I. Adagio - Allegro spiritoso [tdEo3fRu6Hw].mp3",
+    "new": "Mozart - Symphonies\\122 - Mozart： Symphony No. 36 in C Major, K. 425 “Linz”： I. Adagio - Allegro spiritoso.mp3",
+    "status": "renamed",
+    "sha256": "8185027b67c321764097d9d5314aba9fdb79d6aaa04cb8ffa693e80d337e4d80"
+  },
+  {
+    "old": "Mozart - Symphonies\\123 - Mozart： Symphony No. 36 in C Major, K. 425 ＂Linz＂： II. Poco adagio [G5o5Clap8mM].mp3",
+    "new": "Mozart - Symphonies\\123 - Mozart： Symphony No. 36 in C Major, K. 425 “Linz”： II. Poco adagio.mp3",
+    "status": "renamed",
+    "sha256": "16772c47fbb9d061c3d44f453b4de784408c1cc125715ae24da4293e29230081"
+  },
+  {
+    "old": "Mozart - Symphonies\\124 - Mozart： Symphony No. 36 in C Major, K. 425 ＂Linz＂： III. Menuetto - Trio [MmMHDaR9DJE].mp3",
+    "new": "Mozart - Symphonies\\124 - Mozart： Symphony No. 36 in C Major, K. 425 “Linz”： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "84129bde7e538e4269e9ef2814a9df756c1d78dfd1c60d21523fb195af975d68"
+  },
+  {
+    "old": "Mozart - Symphonies\\125 - Mozart： Symphony No. 36 in C Major, K. 425 ＂Linz＂： IV. Presto [rhLc0DxYFdg].mp3",
+    "new": "Mozart - Symphonies\\125 - Mozart： Symphony No. 36 in C Major, K. 425 “Linz”： IV. Presto.mp3",
+    "status": "renamed",
+    "sha256": "8b47655b59fb85868d0aae00ffab59b9bd4e64c3d690107316ce88ad5d36b666"
+  },
+  {
+    "old": "Mozart - Symphonies\\126 - Mozart： Symphony No. 38 in D Major, K. 504 ＂Prague＂： I. Adagio - Allegro [iHe64y7SlkI].mp3",
+    "new": "Mozart - Symphonies\\126 - Mozart： Symphony No. 38 in D Major, K. 504 “Prague”： I. Adagio - Allegro.mp3",
+    "status": "renamed",
+    "sha256": "33f101b368cff89f0195fd96faa893eac42d5530c73f9faa286e889b987bf7dd"
+  },
+  {
+    "old": "Mozart - Symphonies\\127 - Mozart： Symphony No. 38 in D Major, K. 504 ＂Prague＂： II. Andante [W4x3saou7-c].mp3",
+    "new": "Mozart - Symphonies\\127 - Mozart： Symphony No. 38 in D Major, K. 504 “Prague”： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "a3fe8d7d59b0c0eb280af7794a479c68ea660bc8e5e9f4dcb3d394d32f7a2e95"
+  },
+  {
+    "old": "Mozart - Symphonies\\128 - Mozart： Symphony No. 38 in D Major, K. 504 ＂Prague＂： III. Presto [medAd6v9NMA].mp3",
+    "new": "Mozart - Symphonies\\128 - Mozart： Symphony No. 38 in D Major, K. 504 “Prague”： III. Presto.mp3",
+    "status": "renamed",
+    "sha256": "7b75c49969b70406840bd270e4f804492b09c1a6bb8bb6b689c7ea23f0f158d6"
+  },
+  {
+    "old": "Mozart - Symphonies\\129 - Mozart： Symphony No. 39 in E-Flat Major, K. 543： I. Adagio - Allegro [YWYScKQhjC8].mp3",
+    "new": "Mozart - Symphonies\\129 - Mozart： Symphony No. 39 in E-Flat Major, K. 543： I. Adagio - Allegro.mp3",
+    "status": "renamed",
+    "sha256": "cfd5902cb780663bc3dbb538b5f12cf06f3b664cca9ae77a4b10c191bf12393e"
+  },
+  {
+    "old": "Mozart - Symphonies\\130 - Mozart： Symphony No. 39 in E-Flat Major, K. 543： II. Andante con moto [xtf4M3xl2Ic].mp3",
+    "new": "Mozart - Symphonies\\130 - Mozart： Symphony No. 39 in E-Flat Major, K. 543： II. Andante con moto.mp3",
+    "status": "renamed",
+    "sha256": "e7f0b066227a2ae71159aaf6c20e26c7d41872ab4eeb7cf5173d664435ccc9cc"
+  },
+  {
+    "old": "Mozart - Symphonies\\131 - Mozart： Symphony No. 39 in E-Flat Major, K. 543： III. Menuetto. Allegretto - Trio [fGlqeuXpxCk].mp3",
+    "new": "Mozart - Symphonies\\131 - Mozart： Symphony No. 39 in E-Flat Major, K. 543： III. Menuetto. Allegretto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "1ccdd30986d1337adb02b3e7fe06c2aae10160de212682e3b0e4e8a57e10ac93"
+  },
+  {
+    "old": "Mozart - Symphonies\\132 - Mozart： Symphony No. 39 in E-Flat Major, K. 543： IV. Finale. Allegro [MkQ3R1vMS8o].mp3",
+    "new": "Mozart - Symphonies\\132 - Mozart： Symphony No. 39 in E-Flat Major, K. 543： IV. Finale. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "35a9358a167242bfef9ec2d0dcc2187b2a105bd0e6efee71f128af8210a70f93"
+  },
+  {
+    "old": "Mozart - Symphonies\\133 - Mozart： Symphony No. 40 in G Minor, K. 550： I. Molto allegro [Mi1fMy3HprY].mp3",
+    "new": "Mozart - Symphonies\\133 - Mozart： Symphony No. 40 in G Minor, K. 550： I. Molto allegro.mp3",
+    "status": "renamed",
+    "sha256": "00efcf620475ad3dd6dec07f7a3c468d1f088cf2f9d6f428d94786892ce155ab"
+  },
+  {
+    "old": "Mozart - Symphonies\\134 - Mozart： Symphony No. 40 in G Minor, K. 550： II. Andante [lNopeWEZzVo].mp3",
+    "new": "Mozart - Symphonies\\134 - Mozart： Symphony No. 40 in G Minor, K. 550： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "ee4e6fb8d74a0c76a935db7cf318f54750242b7da5f1f7762f9591a9152a662b"
+  },
+  {
+    "old": "Mozart - Symphonies\\135 - Mozart： Symphony No. 40 in G Minor, K. 550： III. Menuetto - Trio [xKrlWtmXqVI].mp3",
+    "new": "Mozart - Symphonies\\135 - Mozart： Symphony No. 40 in G Minor, K. 550： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "a77bcbec0592aab46c85df597f581382390c58eae7473e25e9cf6796644aa09b"
+  },
+  {
+    "old": "Mozart - Symphonies\\136 - Mozart： Symphony No. 40 in G Minor, K. 550： IV. Allegro assai [pHm_cZtmI_Q].mp3",
+    "new": "Mozart - Symphonies\\136 - Mozart： Symphony No. 40 in G Minor, K. 550： IV. Allegro assai.mp3",
+    "status": "renamed",
+    "sha256": "2b55dd48275f1f936e8c178ee0f8d30949a1d34f1c22c22e439cb1487efa755f"
+  },
+  {
+    "old": "Mozart - Symphonies\\137 - Mozart： Symphony No. 41 in C Major, K. 551 ＂Jupiter＂： I. Allegro vivace [VxHQOT3RkB8].mp3",
+    "new": "Mozart - Symphonies\\137 - Mozart： Symphony No. 41 in C Major, K. 551 “Jupiter”： I. Allegro vivace.mp3",
+    "status": "renamed",
+    "sha256": "851788e61259834bfeb66c674ab3babfa6edc359774fb84d67d671c9e14a6c17"
+  },
+  {
+    "old": "Mozart - Symphonies\\138 - Mozart： Symphony No. 41 in C Major, K. 551 ＂Jupiter＂： II. Andante cantabile [qSeCDq3wqMs].mp3",
+    "new": "Mozart - Symphonies\\138 - Mozart： Symphony No. 41 in C Major, K. 551 “Jupiter”： II. Andante cantabile.mp3",
+    "status": "renamed",
+    "sha256": "dc0eea0c1d2c07bb30ad40b784fffc5586e339ba236119f382019eb3882f10a8"
+  },
+  {
+    "old": "Mozart - Symphonies\\139 - Mozart： Symphony No. 41 in C Major, K. 551 ＂Jupiter＂： III. Menuetto - Trio [rbUplAx0q9A].mp3",
+    "new": "Mozart - Symphonies\\139 - Mozart： Symphony No. 41 in C Major, K. 551 “Jupiter”： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "00c761e5197e6c18ade6420e4381b70d288f55c0049e0b16ebe6bc19f9e14cbb"
+  },
+  {
+    "old": "Mozart - Symphonies\\140 - Mozart： Symphony No. 41 in C Major, K. 551 ＂Jupiter＂： IV. Molto allegro [8ETHfQ1UgW8].mp3",
+    "new": "Mozart - Symphonies\\140 - Mozart： Symphony No. 41 in C Major, K. 551 “Jupiter”： IV. Molto allegro.mp3",
+    "status": "renamed",
+    "sha256": "002c2c54050a7ec7ddbd8a9f04afb658b262d91a48e2f0fe74015fac8c513c95"
+  },
+  {
+    "old": "Mozart - Symphonies\\141 - Mozart： Symphony No. 42 in F Major, K. 75： I. Allegro [aL_BkT_wPF4].mp3",
+    "new": "Mozart - Symphonies\\141 - Mozart： Symphony No. 42 in F Major, K. 75： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "13bf1972fde253ba151e6984fe33da69813b14ae8190cb637c014ff44e2c6cdf"
+  },
+  {
+    "old": "Mozart - Symphonies\\142 - Mozart： Symphony No. 42 in F Major, K. 75： II. Menuetto - Trio [aHAWSsibLYw].mp3",
+    "new": "Mozart - Symphonies\\142 - Mozart： Symphony No. 42 in F Major, K. 75： II. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "d59aea582d80f2e079c8fd1c3188435685c024c5ce697d28bc574e3cf1a8d635"
+  },
+  {
+    "old": "Mozart - Symphonies\\143 - Mozart： Symphony No. 42 in F Major, K. 75： III. Andantino [S4rKvw3zbaw].mp3",
+    "new": "Mozart - Symphonies\\143 - Mozart： Symphony No. 42 in F Major, K. 75： III. Andantino.mp3",
+    "status": "renamed",
+    "sha256": "36f509a062a621b7d2608d264068116c1520de788d5fa1911140d3347c3668bb"
+  },
+  {
+    "old": "Mozart - Symphonies\\144 - Mozart： Symphony No. 42 in F Major, K. 75： IV. Allegro [YLAeKYgtC3g].mp3",
+    "new": "Mozart - Symphonies\\144 - Mozart： Symphony No. 42 in F Major, K. 75： IV. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "9b218bccdb0206d88b7612d8b35bea0702b780b4f7b4e4d70be86cc07d7ad862"
+  },
+  {
+    "old": "Mozart - Symphonies\\145 - Mozart： Symphony No. 44 in D Major, K. 81： I. Allegro [-h1gC11T3rI].mp3",
+    "new": "Mozart - Symphonies\\145 - Mozart： Symphony No. 44 in D Major, K. 81： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "42554dafa5d48fc8ca236721c8abf1eaafc46e940dc00b4d0c59898a34606fc5"
+  },
+  {
+    "old": "Mozart - Symphonies\\146 - Mozart： Symphony No. 44 in D Major, K. 81： II. Andante [eHrjjPvuH-s].mp3",
+    "new": "Mozart - Symphonies\\146 - Mozart： Symphony No. 44 in D Major, K. 81： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "f4d431be95dea75891e3298a278649effe78f867971d69b41ff6df1256059e33"
+  },
+  {
+    "old": "Mozart - Symphonies\\147 - Mozart： Symphony No. 44 in D Major, K. 81： III. Allegro molto [VGH5-IQyqKc].mp3",
+    "new": "Mozart - Symphonies\\147 - Mozart： Symphony No. 44 in D Major, K. 81： III. Allegro molto.mp3",
+    "status": "renamed",
+    "sha256": "5726c4a7a5a0ffe84f65158f5352fa84308362c8efdd1c64edecae4d0915205a"
+  },
+  {
+    "old": "Mozart - Symphonies\\148 - Mozart： Symphony No. 45 in D Major, K. 95： I. Allegro [POnr7H8ZPA8].mp3",
+    "new": "Mozart - Symphonies\\148 - Mozart： Symphony No. 45 in D Major, K. 95： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "2bf5bc4b2d191a652373ad607f785c738a382bfff056a67a0d0bff3e27a80632"
+  },
+  {
+    "old": "Mozart - Symphonies\\149 - Mozart： Symphony No. 45 in D Major, K. 95： II. Andante [tUyjCd-WxwQ].mp3",
+    "new": "Mozart - Symphonies\\149 - Mozart： Symphony No. 45 in D Major, K. 95： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "bf7fd6bcb04b0c41a93b5a4caf313ea7b6c216212029871347d95f912efaaaf4"
+  },
+  {
+    "old": "Mozart - Symphonies\\150 - Mozart： Symphony No. 45 in D Major, K. 95： III. Menuetto - Trio [OM-GMq2aIPE].mp3",
+    "new": "Mozart - Symphonies\\150 - Mozart： Symphony No. 45 in D Major, K. 95： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "5b3473bb5cb8d0d74e4204ac5a5af1cfb69a30633b829ef6279530a41ece05f4"
+  },
+  {
+    "old": "Mozart - Symphonies\\151 - Mozart： Symphony No. 45 in D Major, K. 95： IV. Allegro [S0rn5fvoAnU].mp3",
+    "new": "Mozart - Symphonies\\151 - Mozart： Symphony No. 45 in D Major, K. 95： IV. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "707682b5034b2487cc89b12a8bf7d4724729f2d279a85d7bdc06dd24cb1eddd3"
+  },
+  {
+    "old": "Mozart - Symphonies\\152 - Mozart： Symphony No. 46 in C Major, K. 96： I. Allegro [KjhazsL9Rgk].mp3",
+    "new": "Mozart - Symphonies\\152 - Mozart： Symphony No. 46 in C Major, K. 96： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "f2d16fb1ce780fc22a06bbb73911ec510afb30578b1612bfa7566ec3a9206663"
+  },
+  {
+    "old": "Mozart - Symphonies\\153 - Mozart： Symphony No. 46 in C Major, K. 96： II. Andante [mLdCVpJWWxs].mp3",
+    "new": "Mozart - Symphonies\\153 - Mozart： Symphony No. 46 in C Major, K. 96： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "140353d3e8cfeb2a820a6c2793fc39f3f57209712e383afc08438b03de920662"
+  },
+  {
+    "old": "Mozart - Symphonies\\154 - Mozart： Symphony No. 46 in C Major, K. 96： III. Menuetto - Trio [MgEPRuQj-po].mp3",
+    "new": "Mozart - Symphonies\\154 - Mozart： Symphony No. 46 in C Major, K. 96： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "0d49da0aaf066f1428c4968b5a8c4456a30f1eb4c9bfef84dbd573c38ad8fb27"
+  },
+  {
+    "old": "Mozart - Symphonies\\155 - Mozart： Symphony No. 46 in C Major, K. 96： IV. Allegro molto [ThDRZoMbZZ0].mp3",
+    "new": "Mozart - Symphonies\\155 - Mozart： Symphony No. 46 in C Major, K. 96： IV. Allegro molto.mp3",
+    "status": "renamed",
+    "sha256": "c2e1f8eea344bf92e3c13f44552dc1a99d8e0978b56148fbf4d9e38eb0aacc11"
+  },
+  {
+    "old": "Mozart - Symphonies\\156 - Mozart： Symphony No. 47 in D Major, K. 97： I. Allegro [AA_98UGD7J0].mp3",
+    "new": "Mozart - Symphonies\\156 - Mozart： Symphony No. 47 in D Major, K. 97： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "af70633f67ed0b13901aef4046a2b45ea12590b9cce9572b4dde9e6dbca3fbdf"
+  },
+  {
+    "old": "Mozart - Symphonies\\157 - Mozart： Symphony No. 47 in D Major, K. 97： II. Andante [-EXqEdZdMt0].mp3",
+    "new": "Mozart - Symphonies\\157 - Mozart： Symphony No. 47 in D Major, K. 97： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "ed8c37a79a069333f5c278b54757d06e11ac33df5286d95ab31d433210f572dc"
+  },
+  {
+    "old": "Mozart - Symphonies\\158 - Mozart： Symphony No. 47 in D Major, K. 97： III. Menuetto - Trio [q9UYa5MvBQk].mp3",
+    "new": "Mozart - Symphonies\\158 - Mozart： Symphony No. 47 in D Major, K. 97： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "0799207141f47025758ef7d4d8c2493a1d11f4d5b9b31ec3398294c54c11215c"
+  },
+  {
+    "old": "Mozart - Symphonies\\159 - Mozart： Symphony No. 47 in D Major, K. 97： IV. Presto [tvlHVgbEBZE].mp3",
+    "new": "Mozart - Symphonies\\159 - Mozart： Symphony No. 47 in D Major, K. 97： IV. Presto.mp3",
+    "status": "renamed",
+    "sha256": "09824b8b62b93f5e3e06daa8aa77ed63d1b92dcabc077c1a49e28bf496f2ae0a"
+  },
+  {
+    "old": "Mozart - Symphonies\\160 - Mozart： Symphony No. 55 in B-Flat Major, K. 45b： I. Allegro [qgU7DXiMyXY].mp3",
+    "new": "Mozart - Symphonies\\160 - Mozart： Symphony No. 55 in B-Flat Major, K. 45b： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "8dd360d251bcb40d74090660500a6812db79d48c8b05d7803ff82305a3c4d01a"
+  },
+  {
+    "old": "Mozart - Symphonies\\161 - Mozart： Symphony No. 55 in B-Flat Major, K. 45b： II. Andante [6sZJ9ILFm3M].mp3",
+    "new": "Mozart - Symphonies\\161 - Mozart： Symphony No. 55 in B-Flat Major, K. 45b： II. Andante.mp3",
+    "status": "renamed",
+    "sha256": "e36055ef6cfa08a0d785e0f8b49a7095c724a000aafa7f7aec94b36d6149ada7"
+  },
+  {
+    "old": "Mozart - Symphonies\\162 - Mozart： Symphony No. 55 in B-Flat Major, K. 45b： III. Menuetto - Trio [pbf5CPvsBXM].mp3",
+    "new": "Mozart - Symphonies\\162 - Mozart： Symphony No. 55 in B-Flat Major, K. 45b： III. Menuetto - Trio.mp3",
+    "status": "renamed",
+    "sha256": "1f27c11dfbd1fd348a5b46de22862b6b971b90e989a89ad9ce85b12c3f9f7746"
+  },
+  {
+    "old": "Mozart - Symphonies\\163 - Mozart： Symphony No. 55 in B-Flat Major, K. 45b： IV. Allegro [pCyAlHF0wN4].mp3",
+    "new": "Mozart - Symphonies\\163 - Mozart： Symphony No. 55 in B-Flat Major, K. 45b： IV. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "93bf0725220f339199ff231e9e12de6ad634e69de01b36ffeb3afde4ddbd9603"
+  },
+  {
+    "old": "Ravel - Chamber Music\\001 - Piano Trio in A Minor, M. 67： I. Modéré [2Bh4-Z7wGfU].mp3",
+    "new": "Ravel - Chamber Music\\001 - Piano Trio in A Minor, M. 67： I. Modéré.mp3",
+    "status": "renamed",
+    "sha256": "ff8539e4a38d1b4fca7aafba04e1c93ca9c6b737496b07ebf61a355097bd3161"
+  },
+  {
+    "old": "Ravel - Chamber Music\\002 - Piano Trio in A Minor, M. 67： II. Pantoum. Assez vif [qILA5CQPQzg].mp3",
+    "new": "Ravel - Chamber Music\\002 - Piano Trio in A Minor, M. 67： II. Pantoum. Assez vif.mp3",
+    "status": "renamed",
+    "sha256": "d92dfa25fd46a1c6f975c24368e78481c3175f18df837ca9d4e8d237c3921838"
+  },
+  {
+    "old": "Ravel - Chamber Music\\004 - Piano Trio in A Minor, M. 67： III. Passacaille. Très large [6VonOmODQSI].mp3",
+    "new": "Ravel - Chamber Music\\004 - Piano Trio in A Minor, M. 67： III. Passacaille. Très large.mp3",
+    "status": "renamed",
+    "sha256": "b5243ab3867e4e2d313c77ade1c20afe88e6372c865b6c5d42f1e590bf103dea"
+  },
+  {
+    "old": "Ravel - Chamber Music\\005 - Piano Trio in A Minor, M. 67： IV. Finale. Animé [QyP5HhTwwyI].mp3",
+    "new": "Ravel - Chamber Music\\005 - Piano Trio in A Minor, M. 67： IV. Finale. Animé.mp3",
+    "status": "renamed",
+    "sha256": "af76933641a682e2e46e7c7ed4d500a883e9392b54540f515f9ab2aadd478a19"
+  },
+  {
+    "old": "Ravel - Chamber Music\\006 - Violin Sonata No. 2 in G Major, M. 77： I. Allegretto [ynis_uMKdfI].mp3",
+    "new": "Ravel - Chamber Music\\006 - Violin Sonata No. 2 in G Major, M. 77： I. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "90e1657458c5af08445429ca86d39c148c7fc97898674bc96b71dee29d6c9a9e"
+  },
+  {
+    "old": "Ravel - Chamber Music\\007 - Violin Sonata No. 2 in G Major, M. 77： II. Blues. Moderato [6KHTMc4qyRU].mp3",
+    "new": "Ravel - Chamber Music\\007 - Violin Sonata No. 2 in G Major, M. 77： II. Blues. Moderato.mp3",
+    "status": "renamed",
+    "sha256": "ab53573200973a13ae42d855a8ad2d37b5398c791f370dc739bda2ad6133efc3"
+  },
+  {
+    "old": "Ravel - Chamber Music\\008 - Violin Sonata No. 2 in G Major, M. 77： III. Perpetuum mobile. Allegro [x5UOoZSecN4].mp3",
+    "new": "Ravel - Chamber Music\\008 - Violin Sonata No. 2 in G Major, M. 77： III. Perpetuum mobile. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "fc8e730e9f51afe98dcdedefce8480d57e76cc0d308e529675d90405f2edeb01"
+  },
+  {
+    "old": "Ravel - Chamber Music\\009 - Sonata for Violin and Cello, M. 73： I. Allegro [fa8f1fK70Q4].mp3",
+    "new": "Ravel - Chamber Music\\009 - Sonata for Violin and Cello, M. 73： I. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "c63bb7afe24895b179f1b9f5a55aae0080d29812bb8758fb317fe506fe069da9"
+  },
+  {
+    "old": "Ravel - Chamber Music\\010 - Sonata for Violin and Cello, M. 73： II. Très vif [4oGbTmpLBSk].mp3",
+    "new": "Ravel - Chamber Music\\010 - Sonata for Violin and Cello, M. 73： II. Très vif.mp3",
+    "status": "renamed",
+    "sha256": "d63fa0c3a8ba533216b712e9261f71877b3857b1608db116407f12297caf4e02"
+  },
+  {
+    "old": "Ravel - Chamber Music\\011 - Sonata for Violin and Cello, M. 73： III. Lent [ppsXgROM3BI].mp3",
+    "new": "Ravel - Chamber Music\\011 - Sonata for Violin and Cello, M. 73： III. Lent.mp3",
+    "status": "renamed",
+    "sha256": "acf73dd3accec54df9cc6c3fa0e8aebde2dfa088100aafb2ec246aa25d585b18"
+  },
+  {
+    "old": "Ravel - Chamber Music\\012 - Sonata for Violin and Cello, M. 73： IV. Vif [_wyvUBXGbss].mp3",
+    "new": "Ravel - Chamber Music\\012 - Sonata for Violin and Cello, M. 73： IV. Vif.mp3",
+    "status": "renamed",
+    "sha256": "02cd5d22fff016b599adacdbe074890392922d077032123ce645ef030ce55f1c"
+  },
+  {
+    "old": "Ravel - Chamber Music\\013 - Violin Sonata No. 1 in A Minor, M. 12 [ObnWv8SKGm0].mp3",
+    "new": "Ravel - Chamber Music\\013 - Violin Sonata No. 1 in A Minor, M. 12.mp3",
+    "status": "renamed",
+    "sha256": "6118fe0d2bad619a887f69ad016816b333ae8fd974f53e7b8ab4723a8a5e3522"
+  },
+  {
+    "old": "Shostakovich - Cello Concerto\\Rostropovich, Shostakovich Cello Concerto no.1 [h23WjKXDe4w].mp3",
+    "new": "Shostakovich - Cello Concerto\\Rostropovich, Shostakovich Cello Concerto no.1.mp3",
+    "status": "renamed",
+    "sha256": "71b9949e3c8476649214ae5e198c4e69d564c3755814f2fb7e9c89ba61682752"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\001 - Shostakovich： String Quartet No. 1 in C Major, Op. 49： I. Moderato [J0rHul6z-_A].mp3",
+    "new": "Shostakovich - String Quartets\\001 - Shostakovich： String Quartet No. 1 in C Major, Op. 49： I. Moderato.mp3",
+    "status": "renamed",
+    "sha256": "2bde6a314cfc50c4d03176f47b0b2a5a5449bbd0aabb9eea36a79f49b97e1ea3"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\002 - Shostakovich： String Quartet No. 1 in C Major, Op. 49： II. Moderato [gW8Qa_OyVew].mp3",
+    "new": "Shostakovich - String Quartets\\002 - Shostakovich： String Quartet No. 1 in C Major, Op. 49： II. Moderato.mp3",
+    "status": "renamed",
+    "sha256": "94da758fb55a1bc390d138c88a420d02f6fbc069010e044a228efae37d94fcb3"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\003 - Shostakovich： String Quartet No. 1 in C Major, Op. 49： III. Allegro molto [JrAhAw5Pa6s].mp3",
+    "new": "Shostakovich - String Quartets\\003 - Shostakovich： String Quartet No. 1 in C Major, Op. 49： III. Allegro molto.mp3",
+    "status": "renamed",
+    "sha256": "11d22a7e35f6c16e2b1ef71fd4072cb2f70eea2050613fdfdc4c68d7b28e622d"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\004 - Shostakovich： String Quartet No. 1 in C Major, Op. 49： IV. Allegro [f-t_gKGBClM].mp3",
+    "new": "Shostakovich - String Quartets\\004 - Shostakovich： String Quartet No. 1 in C Major, Op. 49： IV. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "3448b1d5d1e62efdb78dc38c548adb7e5442bb7cb2ca4790a0e78b0a13c80a33"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\005 - Shostakovich： String Quartet No. 2 in A Major, Op. 68： 1. Overture (Moderato con moto) [chlRYaVxqi0].mp3",
+    "new": "Shostakovich - String Quartets\\005 - Shostakovich： String Quartet No. 2 in A Major, Op. 68： 1. Overture (Moderato con moto).mp3",
+    "status": "renamed",
+    "sha256": "ac1b9f8b5c41b92b995729080c0d48fa59dc028718c00adece37ca888cdc45a1"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\006 - Shostakovich： String Quartet No. 2 in A Major, Op. 68： 2. Recitative & Romance (Adagio) [q5pyRoOqAj8].mp3",
+    "new": "Shostakovich - String Quartets\\006 - Shostakovich： String Quartet No. 2 in A Major, Op. 68： 2. Recitative & Romance (Adagio).mp3",
+    "status": "renamed",
+    "sha256": "d5e1da74ec78464d44d93530dae9bb3902dcf1fd54e384b5526b01ca4c619800"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\007 - Shostakovich： String Quartet No. 2 in A Major, Op. 68： 3. Valse (Allegro) [KzjXREJnLR8].mp3",
+    "new": "Shostakovich - String Quartets\\007 - Shostakovich： String Quartet No. 2 in A Major, Op. 68： 3. Valse (Allegro).mp3",
+    "status": "renamed",
+    "sha256": "912a5d1dec4d87c40b9b00a9d3ed4531cc20cb1bcfe5b2d59ca4b2e0fee478f5"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\008 - Shostakovich： String Quartet No. 2 in A Major, Op. 68： 4. Theme & Variations [mT46JlVjkHo].mp3",
+    "new": "Shostakovich - String Quartets\\008 - Shostakovich： String Quartet No. 2 in A Major, Op. 68： 4. Theme & Variations.mp3",
+    "status": "renamed",
+    "sha256": "3fce0d822e937bbf45308ffc6992bf98d4fabf48de185ffe20521209f3baa0b4"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\009 - Shostakovich： String Quartet No. 3 in F Major, Op. 73： 1. Allegretto [kO7fqpg6SdI].mp3",
+    "new": "Shostakovich - String Quartets\\009 - Shostakovich： String Quartet No. 3 in F Major, Op. 73： 1. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "1de48763fad7b9540f6172cf9bf7359f99097b0c61a0ddc5da90e959e9f7b00b"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\010 - Shostakovich： String Quartet No. 3 in F Major, Op. 73： 2. Moderato con moto [CkB5s8bgw1E].mp3",
+    "new": "Shostakovich - String Quartets\\010 - Shostakovich： String Quartet No. 3 in F Major, Op. 73： 2. Moderato con moto.mp3",
+    "status": "renamed",
+    "sha256": "6f354bd2d633f17dd28d3a6006183a0ccede39cc396b927b5543ee35a7d421bc"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\011 - Shostakovich： String Quartet No. 3 in F Major, Op. 73： 3. Allegro non troppo [e_BXp3bSrsk].mp3",
+    "new": "Shostakovich - String Quartets\\011 - Shostakovich： String Quartet No. 3 in F Major, Op. 73： 3. Allegro non troppo.mp3",
+    "status": "renamed",
+    "sha256": "eeb43ed6b8441081db75459611e2361de04ce0995cf4782161a25e98a14b1092"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\012 - Shostakovich： String Quartet No. 3 in F Major, Op. 73： 4. Adagio [PyLYYigaZmw].mp3",
+    "new": "Shostakovich - String Quartets\\012 - Shostakovich： String Quartet No. 3 in F Major, Op. 73： 4. Adagio.mp3",
+    "status": "renamed",
+    "sha256": "4c2ca1152ec737568c4e3a87a36ba2bc60f2684fae56bfe4434f75bc8d941d41"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\013 - Shostakovich： String Quartet No. 3 in F Major, Op. 73： 5. Moderato [yBXIhgh7Zlw].mp3",
+    "new": "Shostakovich - String Quartets\\013 - Shostakovich： String Quartet No. 3 in F Major, Op. 73： 5. Moderato.mp3",
+    "status": "renamed",
+    "sha256": "45fe98a33be81636fc3de446ab774e3315799fdc27b4f355ffd3c2ff2441b9c4"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\014 - Shostakovich： String Quartet No. 4 in D Major, Op. 83： 1. Allegretto [nn9zLo4TVaU].mp3",
+    "new": "Shostakovich - String Quartets\\014 - Shostakovich： String Quartet No. 4 in D Major, Op. 83： 1. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "d6e7e39a629ec1f250b2f506f34b010e526034f8363b24b3fca804d53a9a13c6"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\015 - Shostakovich： String Quartet No. 4 in D Major, Op. 83： 2. Andantino [NyVSmaaxyco].mp3",
+    "new": "Shostakovich - String Quartets\\015 - Shostakovich： String Quartet No. 4 in D Major, Op. 83： 2. Andantino.mp3",
+    "status": "renamed",
+    "sha256": "1439a905fe815afb81f79b1e19b3b2e2e2347970715ca0305d8fb55a5e8ae0e7"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\016 - Shostakovich： String Quartet No. 4 in D Major, Op. 83： 3. Allegretto [rLq7trRr89k].mp3",
+    "new": "Shostakovich - String Quartets\\016 - Shostakovich： String Quartet No. 4 in D Major, Op. 83： 3. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "3f15c4e3a4e9b16066a2dfa1ca5b720e0e8ba056d4e7c0175af9002c3991cf93"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\017 - Shostakovich： String Quartet No. 4 in D Major, Op. 83： 4. Allegretto [oHXuuV7nl9k].mp3",
+    "new": "Shostakovich - String Quartets\\017 - Shostakovich： String Quartet No. 4 in D Major, Op. 83： 4. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "150fb1138d720b9a704d44b4038d1aa8647592cfb34864b52152efed00a5dc8e"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\018 - Shostakovich： String Quartet No. 5 in B-Flat Major, Op. 92： 1. Allegro non troppo [oUzwKcNlYg0].mp3",
+    "new": "Shostakovich - String Quartets\\018 - Shostakovich： String Quartet No. 5 in B-Flat Major, Op. 92： 1. Allegro non troppo.mp3",
+    "status": "renamed",
+    "sha256": "c202fc029833d8423dae807edb41f5be4161393177c4f64cd9da201af3c058b7"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\019 - Shostakovich： String Quartet No. 5 in B-Flat Major, Op. 92： 2. Andante [YlruUUjxOqA].mp3",
+    "new": "Shostakovich - String Quartets\\019 - Shostakovich： String Quartet No. 5 in B-Flat Major, Op. 92： 2. Andante.mp3",
+    "status": "renamed",
+    "sha256": "914d8530221fe1f98e6edcf1191dad0c58edcc605e719f45a4cd348e098c4d7a"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\020 - Shostakovich： String Quartet No. 5 in B-Flat Major, Op. 92： 3. Moderato [XcLNfXDPbHM].mp3",
+    "new": "Shostakovich - String Quartets\\020 - Shostakovich： String Quartet No. 5 in B-Flat Major, Op. 92： 3. Moderato.mp3",
+    "status": "renamed",
+    "sha256": "c7431eabffd7aab7d95ee94044b0a84fba2ef9899a457a2dd4a69553aa413003"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\021 - Shostakovich： String Quartet No. 6 in G Major, Op. 101： 1. Allegretto [V6FbfydQpMo].mp3",
+    "new": "Shostakovich - String Quartets\\021 - Shostakovich： String Quartet No. 6 in G Major, Op. 101： 1. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "212dd8bdb197ae50f3d1a4fc6892563f3d636f0450e75ec92c53a5172e3f34fb"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\022 - Shostakovich： String Quartet No. 6 in G Major, Op. 101： 2. Moderato con moto [rs_bTniqQCM].mp3",
+    "new": "Shostakovich - String Quartets\\022 - Shostakovich： String Quartet No. 6 in G Major, Op. 101： 2. Moderato con moto.mp3",
+    "status": "renamed",
+    "sha256": "1809aa5feaa3c079df37708f349eb40e82f327f25b0c12b04bcdbeec66168b15"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\023 - Shostakovich： String Quartet No. 6 in G Major, Op. 101： 3. Lento [2PoXFsU4ITA].mp3",
+    "new": "Shostakovich - String Quartets\\023 - Shostakovich： String Quartet No. 6 in G Major, Op. 101： 3. Lento.mp3",
+    "status": "renamed",
+    "sha256": "0312652417efeda6c6381714d6182cf352e72601a8817b6b82e48b5a4ef1f070"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\024 - Shostakovich： String Quartet No. 6 in G Major, Op. 101： 4. Allegretto [hzCNpaBlVb8].mp3",
+    "new": "Shostakovich - String Quartets\\024 - Shostakovich： String Quartet No. 6 in G Major, Op. 101： 4. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "5190b9cc5b788a77e19967b43684a2bb18de41ee6a0e5c977570ae4228ca5968"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\025 - Shostakovich： String Quartet No. 7 in F-Sharp Minor, Op. 108： 1. Allegretto [fEkAcYiWBrA].mp3",
+    "new": "Shostakovich - String Quartets\\025 - Shostakovich： String Quartet No. 7 in F-Sharp Minor, Op. 108： 1. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "2b32fc0d636b3b802de028dfc8e96dbf9f858d404d8d383127e0c847d0e075fa"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\026 - Shostakovich： String Quartet No. 7 in F-Sharp Minor, Op. 108： 2. Lento [T_KOFMGS_6o].mp3",
+    "new": "Shostakovich - String Quartets\\026 - Shostakovich： String Quartet No. 7 in F-Sharp Minor, Op. 108： 2. Lento.mp3",
+    "status": "renamed",
+    "sha256": "ada98a88b4edc0e6766f78a8935a737bc852ea9cad63b23de80a22b54eb42179"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\027 - Shostakovich： String Quartet No. 7 in F-Sharp Minor, Op. 108： 3. Allegro [rspb2aj-xMs].mp3",
+    "new": "Shostakovich - String Quartets\\027 - Shostakovich： String Quartet No. 7 in F-Sharp Minor, Op. 108： 3. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "5f58cdbf07d94296018316e44e6a44c491f79887980bae6b1b6495fe41029eb8"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\028 - Shostakovich： String Quartet No. 8 in C Minor, Op. 110： I. Largo [ctcAUHyn2sM].mp3",
+    "new": "Shostakovich - String Quartets\\028 - Shostakovich： String Quartet No. 8 in C Minor, Op. 110： I. Largo.mp3",
+    "status": "renamed",
+    "sha256": "1869aadcb5130c13df97aa2ffdcae68d5672e4541c77496dee6a1e88d3e4ad7c"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\029 - Shostakovich： String Quartet No. 8 in C Minor, Op. 110： II. Allegro molto [TNjfsx5N16Y].mp3",
+    "new": "Shostakovich - String Quartets\\029 - Shostakovich： String Quartet No. 8 in C Minor, Op. 110： II. Allegro molto.mp3",
+    "status": "renamed",
+    "sha256": "9a070cbbb8d1ffb1c083ecc807c0cda4e054a47b863dd29b4b1c0e629cd4f185"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\030 - Shostakovich： String Quartet No. 8 in C Minor, Op. 110： III. Allegretto [Ek_4l3DqLww].mp3",
+    "new": "Shostakovich - String Quartets\\030 - Shostakovich： String Quartet No. 8 in C Minor, Op. 110： III. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "7e43e23f5a156e0aa17b2b0492b5710e96ac8324831127bcafa13cb6926d4708"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\031 - Shostakovich： String Quartet No. 8 in C Minor, Op. 110： IV. Largo [xuzFL5yTGe0].mp3",
+    "new": "Shostakovich - String Quartets\\031 - Shostakovich： String Quartet No. 8 in C Minor, Op. 110： IV. Largo.mp3",
+    "status": "renamed",
+    "sha256": "d686e403ba495c288ef55576e9c3db3582ffa1e8ba5a87c1f279c8c472cb6051"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\032 - Shostakovich： String Quartet No. 8 in C Minor, Op. 110： V. Largo [5U72OlMsgcU].mp3",
+    "new": "Shostakovich - String Quartets\\032 - Shostakovich： String Quartet No. 8 in C Minor, Op. 110： V. Largo.mp3",
+    "status": "renamed",
+    "sha256": "f7664f7a716dba59e6d89833c9988fb233f56013cb4987ba29343aa06337a269"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\033 - Shostakovich： String Quartet No. 9 in E-Flat Major, Op. 117： 1. Moderato con moto [2agxP5gdup8].mp3",
+    "new": "Shostakovich - String Quartets\\033 - Shostakovich： String Quartet No. 9 in E-Flat Major, Op. 117： 1. Moderato con moto.mp3",
+    "status": "renamed",
+    "sha256": "a1d41c8bdda33ce544eeffd70ec798899f61a1cd83695a73d355471e1520f3cb"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\034 - Shostakovich： String Quartet No. 9 in E-Flat Major, Op. 117： 2. Adagio [1Pk9yF-8QCM].mp3",
+    "new": "Shostakovich - String Quartets\\034 - Shostakovich： String Quartet No. 9 in E-Flat Major, Op. 117： 2. Adagio.mp3",
+    "status": "renamed",
+    "sha256": "78be9431c41b9a696e422973a172200f02a62a388c4e5e1adfe67319e006b376"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\035 - Shostakovich： String Quartet No. 9 in E-Flat Major, Op. 117： 3. Allegretto [24d6YDWHzk4].mp3",
+    "new": "Shostakovich - String Quartets\\035 - Shostakovich： String Quartet No. 9 in E-Flat Major, Op. 117： 3. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "ca2808f21f7d9d26e6c50cf31a303c41076f53f971681f53f4ae76e98c654ddd"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\036 - Shostakovich： String Quartet No. 9 in E-Flat Major, Op. 117： 4. Adagio [WdtslDnToDE].mp3",
+    "new": "Shostakovich - String Quartets\\036 - Shostakovich： String Quartet No. 9 in E-Flat Major, Op. 117： 4. Adagio.mp3",
+    "status": "renamed",
+    "sha256": "94a870f73efd255af202cdf394321ba210f516050ea1fbf426f4051488946035"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\037 - Shostakovich： String Quartet No. 9 in E-Flat Major, Op. 117： 5. Allegro [D0NnVLcwRuQ].mp3",
+    "new": "Shostakovich - String Quartets\\037 - Shostakovich： String Quartet No. 9 in E-Flat Major, Op. 117： 5. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "45d912cb58a5e216cf0c72522b9472da4a13d4cfba95b5367ac23e3b26b3794d"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\038 - Shostakovich： String Quartet No. 10 in A-Flat Major, Op. 118： 1. Andante con moto [hP7XUXXNLw8].mp3",
+    "new": "Shostakovich - String Quartets\\038 - Shostakovich： String Quartet No. 10 in A-Flat Major, Op. 118： 1. Andante con moto.mp3",
+    "status": "renamed",
+    "sha256": "61ed0601a722ae2a1e1da243a737735fea2801b5d04efe4cfd92b2b44daf6393"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\039 - Shostakovich： String Quartet No. 10 in A-Flat Major, Op. 118： 2. Allegretto furioso [PzcGren3nTU].mp3",
+    "new": "Shostakovich - String Quartets\\039 - Shostakovich： String Quartet No. 10 in A-Flat Major, Op. 118： 2. Allegretto furioso.mp3",
+    "status": "renamed",
+    "sha256": "09179d3d3f5fc0701d47f47ce3a8ac02eec0a28043ddaa1d2e2fad266d752f50"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\040 - Shostakovich： String Quartet No. 10 in A-Flat Major, Op. 118： 3. Adagio [Fmwtzss1MWA].mp3",
+    "new": "Shostakovich - String Quartets\\040 - Shostakovich： String Quartet No. 10 in A-Flat Major, Op. 118： 3. Adagio.mp3",
+    "status": "renamed",
+    "sha256": "5721ee5e6be107abc934de3803747980aebe5cb5563e8e8e89265d9d0e7bf3d7"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\041 - Shostakovich： String Quartet No. 10 in A-Flat Major, Op. 118： 4. Allegretto - Andante [zsWVmP2ZbqA].mp3",
+    "new": "Shostakovich - String Quartets\\041 - Shostakovich： String Quartet No. 10 in A-Flat Major, Op. 118： 4. Allegretto - Andante.mp3",
+    "status": "renamed",
+    "sha256": "a04396f1ce825899fa3e74c8d89b2528081db3181a53bc5e1e4de871cc37e56d"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\042 - Shostakovich： String Quartet No. 11 in F Minor, Op. 122： 1. Introduction： Andantino [DzXQ9D3w4JY].mp3",
+    "new": "Shostakovich - String Quartets\\042 - Shostakovich： String Quartet No. 11 in F Minor, Op. 122： 1. Introduction： Andantino.mp3",
+    "status": "renamed",
+    "sha256": "7b45e1b6272a3111a6e8a1c8d0906d2f2495a721559ee27c8b3fd3dbd77179dd"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\043 - Shostakovich： String Quartet No. 11 in F Minor, Op. 122： 2. Scherzo： Allegretto [su_MVjJXleo].mp3",
+    "new": "Shostakovich - String Quartets\\043 - Shostakovich： String Quartet No. 11 in F Minor, Op. 122： 2. Scherzo： Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "cb4203da2ebcb1732b0f6147d13821e1fd572c985e7ad10c1ddddf072ccec120"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\044 - Shostakovich： String Quartet No. 11 in F Minor, Op. 122： 3. Recitative： Adagio [tIeS7KHnXJo].mp3",
+    "new": "Shostakovich - String Quartets\\044 - Shostakovich： String Quartet No. 11 in F Minor, Op. 122： 3. Recitative： Adagio.mp3",
+    "status": "renamed",
+    "sha256": "1040b5ea00f59ae86e95e7cf1b0367de09dc2cf90c1de6dbe55c0b029e3f78f0"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\045 - Shostakovich： String Quartet No. 11 in F Minor, Op. 122： 4. Etude： Allegro [exApXYxNhAE].mp3",
+    "new": "Shostakovich - String Quartets\\045 - Shostakovich： String Quartet No. 11 in F Minor, Op. 122： 4. Etude： Allegro.mp3",
+    "status": "renamed",
+    "sha256": "7b5c2d24c46b58bcfe0c98f620322913babe4f28545e81262f7156f70a153601"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\046 - Shostakovich： String Quartet No. 11 in F Minor, Op. 122： 5. Humoresque： Allegro [6USrNULr3r0].mp3",
+    "new": "Shostakovich - String Quartets\\046 - Shostakovich： String Quartet No. 11 in F Minor, Op. 122： 5. Humoresque： Allegro.mp3",
+    "status": "renamed",
+    "sha256": "50dea6a6f52324d460dadc9f8a4cee057b781d97efe707db87b3ffc6d58577dc"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\047 - Shostakovich： String Quartet No. 11 in F Minor, Op. 122： 6. Elegy： Adagio [eSViy3dGQ_8].mp3",
+    "new": "Shostakovich - String Quartets\\047 - Shostakovich： String Quartet No. 11 in F Minor, Op. 122： 6. Elegy： Adagio.mp3",
+    "status": "renamed",
+    "sha256": "a6f718886381ae5a41e8708e354de2cc1c151ad86dd4f93e07158830a97eddbf"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\048 - Shostakovich： String Quartet No. 11 in F Minor, Op. 122： 7. Finale： Moderato [nAndJ6oeDnY].mp3",
+    "new": "Shostakovich - String Quartets\\048 - Shostakovich： String Quartet No. 11 in F Minor, Op. 122： 7. Finale： Moderato.mp3",
+    "status": "renamed",
+    "sha256": "8c62f4b5a3f3e9d7f6c1a4d7a828e3e005ddfcc421e1dbbdc222a04a4826d305"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\049 - Shostakovich： String Quartet No. 12 in D-Flat Major, Op. 133： 1. Moderato - Allegretto [ooiA2-XYz78].mp3",
+    "new": "Shostakovich - String Quartets\\049 - Shostakovich： String Quartet No. 12 in D-Flat Major, Op. 133： 1. Moderato - Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "d5b99d8e993c02b38524942b11c2a9e8033fbafb3c3aae249c7d777dcbc89592"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\050 - Shostakovich： String Quartet No. 12 in D-Flat Major, Op. 133： 2. Allegretto - Adagio - Moderato... [1YVTLgJUknU].mp3",
+    "new": "Shostakovich - String Quartets\\050 - Shostakovich： String Quartet No. 12 in D-Flat Major, Op. 133： 2. Allegretto - Adagio - Moderato....mp3",
+    "status": "renamed",
+    "sha256": "edc9b01c42c789ed3a898d30cb0b4d74c4dc8602724842b71542ebac11765e93"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\051 - Shostakovich： String Quartet No. 13 in B-Flat Minor Op. 138 [A7UsRFx3zSQ].mp3",
+    "new": "Shostakovich - String Quartets\\051 - Shostakovich： String Quartet No. 13 in B-Flat Minor Op. 138.mp3",
+    "status": "renamed",
+    "sha256": "7fa575e4c8cb3434bf293e2635a3c56ef17bc38dc85da9b446300de2a2142292"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\052 - Shostakovich： String Quartet No. 14 in F-Sharp Major, Op. 142： I. Allegretto [z4I0v4q8HZ0].mp3",
+    "new": "Shostakovich - String Quartets\\052 - Shostakovich： String Quartet No. 14 in F-Sharp Major, Op. 142： I. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "b210953918e8a687314caf6d289771c635d6f3a33596055680b5b07bc43756d4"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\053 - Shostakovich： String Quartet No. 14 in F-Sharp Major, Op. 142： II. Adagio [hPa18euGeFU].mp3",
+    "new": "Shostakovich - String Quartets\\053 - Shostakovich： String Quartet No. 14 in F-Sharp Major, Op. 142： II. Adagio.mp3",
+    "status": "renamed",
+    "sha256": "40fd735f64b13ab69d5c8c4c9fe15e000977b334192d7eec631a50ece924ebba"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\054 - Shostakovich： String Quartet No. 14 in F-Sharp Major, Op. 142： III. Allegretto [oTbHRZL2BRM].mp3",
+    "new": "Shostakovich - String Quartets\\054 - Shostakovich： String Quartet No. 14 in F-Sharp Major, Op. 142： III. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "79e5c2591d5a2e1457c96d0bf4fdf0fa4f54134f4c3511696703ac59a68037ae"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\055 - Shostakovich： String Quartet No. 15 in E-Flat Minor, Op. 144： 1. Elegy [xfPOSXDEPE4].mp3",
+    "new": "Shostakovich - String Quartets\\055 - Shostakovich： String Quartet No. 15 in E-Flat Minor, Op. 144： 1. Elegy.mp3",
+    "status": "renamed",
+    "sha256": "527f34082fb2fd244ed90917e1b92720cb5df28ab2445807828b9aa7539daf7e"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\056 - Shostakovich： String Quartet No. 15 in E-Flat Minor, Op. 144： 2. Serenade [j7tiW4EEm9E].mp3",
+    "new": "Shostakovich - String Quartets\\056 - Shostakovich： String Quartet No. 15 in E-Flat Minor, Op. 144： 2. Serenade.mp3",
+    "status": "renamed",
+    "sha256": "c458497798ceb796bbf796566e36536d524f3d23f75a0f3a412bb0be9390a11a"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\057 - Shostakovich： String Quartet No. 15 in E-Flat Minor, Op. 144： 3. Intermezzo [erBYT52wrFs].mp3",
+    "new": "Shostakovich - String Quartets\\057 - Shostakovich： String Quartet No. 15 in E-Flat Minor, Op. 144： 3. Intermezzo.mp3",
+    "status": "renamed",
+    "sha256": "77e929b4247fe91c65f57fb24546ff7387f9048cc08debed4363c4f8bf35e789"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\058 - Shostakovich： String Quartet No. 15 in E-Flat Minor, Op. 144： 4. Nocturne [ehnZuOG2sXk].mp3",
+    "new": "Shostakovich - String Quartets\\058 - Shostakovich： String Quartet No. 15 in E-Flat Minor, Op. 144： 4. Nocturne.mp3",
+    "status": "renamed",
+    "sha256": "88b0306dd8996bdf9e88ab54723aced470ffc06f9a96e622f6738286b4ef27a8"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\059 - Shostakovich： String Quartet No. 15 in E-Flat Minor, Op. 144： 5. Funeral March [doMouD7lUS8].mp3",
+    "new": "Shostakovich - String Quartets\\059 - Shostakovich： String Quartet No. 15 in E-Flat Minor, Op. 144： 5. Funeral March.mp3",
+    "status": "renamed",
+    "sha256": "0a593d97639074b941a2e11d13f27ba18a8a35a49fef7a357df51db433ab8740"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\060 - Shostakovich： String Quartet No. 15 in E-Flat Minor, Op. 144： 6. Epilogue [MNXTBorZoxo].mp3",
+    "new": "Shostakovich - String Quartets\\060 - Shostakovich： String Quartet No. 15 in E-Flat Minor, Op. 144： 6. Epilogue.mp3",
+    "status": "renamed",
+    "sha256": "a32cb22c16d235ab91088d5bf156f12bb2bc98e915121c95aaa268f161fbd361"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\061 - Shostakovich： Girl Friends Op. 41a - Preludes： 1. Allegretto [OFo-BAaT68s].mp3",
+    "new": "Shostakovich - String Quartets\\061 - Shostakovich： Girl Friends Op. 41a - Preludes： 1. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "4cf8bb387a03f1a8ec5e9a5014390f72070bcb28408e50a3511db12000eba05d"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\062 - Shostakovich： Girl Friends Op. 41a - Preludes： 2. Allegretto [6cFqb2gwL9Y].mp3",
+    "new": "Shostakovich - String Quartets\\062 - Shostakovich： Girl Friends Op. 41a - Preludes： 2. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "b3092c198e20932077887dc9b2e68365a50af0f5406ddaa498cb7f5a6367e2e7"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\063 - Shostakovich： Girl Friends Op. 41a - Preludes： 3. Allegretto moderato [0aOmxS4mAk0].mp3",
+    "new": "Shostakovich - String Quartets\\063 - Shostakovich： Girl Friends Op. 41a - Preludes： 3. Allegretto moderato.mp3",
+    "status": "renamed",
+    "sha256": "3a30ff60fab857fe59db2f9e5dd22500287758fcad92e8564f94f2ce0d476a63"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\064 - Shostakovich： Girl Friends Op. 41a - Preludes： 4. Allegretto [ARh-ppfJHAo].mp3",
+    "new": "Shostakovich - String Quartets\\064 - Shostakovich： Girl Friends Op. 41a - Preludes： 4. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "7a65504fbdcf9af0f82e221709859d94f1ce845216918f72597898446fdfe472"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\065 - Shostakovich： Girl Friends Op. 41a - Preludes： 5. Allegretto [-BSi_r9z95o].mp3",
+    "new": "Shostakovich - String Quartets\\065 - Shostakovich： Girl Friends Op. 41a - Preludes： 5. Allegretto.mp3",
+    "status": "renamed",
+    "sha256": "f485ecf4f35ddb90c553e8d94d9c8743ebf9088cd6f88ab5c4a195d14dcb7c36"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\066 - Shostakovich： Girl Friends Op. 41a - Preludes： 6. Andante [mElDHi7hURs].mp3",
+    "new": "Shostakovich - String Quartets\\066 - Shostakovich： Girl Friends Op. 41a - Preludes： 6. Andante.mp3",
+    "status": "renamed",
+    "sha256": "686f1c1eac2555df3c1ebc19174138dbe61f24997a39afbdbb00cac3b1f5ccef"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\067 - Shostakovich： Girl Friends Op. 41a - Preludes： 7. Allegro [s9HR26WZTFM].mp3",
+    "new": "Shostakovich - String Quartets\\067 - Shostakovich： Girl Friends Op. 41a - Preludes： 7. Allegro.mp3",
+    "status": "renamed",
+    "sha256": "0ae0cad106b41933c18c4eb26210d9ee0f94afba105294414c520c087af51462"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\068 - Shostakovich： Piano Quintet in G Minor, Op. 57： 1. Prelude (Lento) [4ZDI6pSoED0].mp3",
+    "new": "Shostakovich - String Quartets\\068 - Shostakovich： Piano Quintet in G Minor, Op. 57： 1. Prelude (Lento).mp3",
+    "status": "renamed",
+    "sha256": "9c4553f7adf7790a04aa72b6d2197b477f6d72447ef4a2e7a3fa13085a94fc70"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\069 - Shostakovich： Piano Quintet in G Minor, Op. 57： 2. Fugue (Adagio) [xDNqeOMYp6I].mp3",
+    "new": "Shostakovich - String Quartets\\069 - Shostakovich： Piano Quintet in G Minor, Op. 57： 2. Fugue (Adagio).mp3",
+    "status": "renamed",
+    "sha256": "4fc9000f6bd0f812fbee029e79909910d1a3fb5eaf1d95427236b683e8cbd251"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\070 - Shostakovich： Piano Quintet in G Minor, Op. 57： 3. Scherzo (Allegretto) [0jGmbHV1KAk].mp3",
+    "new": "Shostakovich - String Quartets\\070 - Shostakovich： Piano Quintet in G Minor, Op. 57： 3. Scherzo (Allegretto).mp3",
+    "status": "renamed",
+    "sha256": "f24c1d1f92cb0f5590f2f94703b8b1dad1452533d73d59f2acce927184401bc3"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\071 - Shostakovich： Piano Quintet in G Minor, Op. 57： 4. Intermezzo (Lento - Appassionato) [vK4jcxt-Eqs].mp3",
+    "new": "Shostakovich - String Quartets\\071 - Shostakovich： Piano Quintet in G Minor, Op. 57： 4. Intermezzo (Lento - Appassionato).mp3",
+    "status": "renamed",
+    "sha256": "a948ca8ee636ed85398e5b77dbec5809ff07b4c1aab144a8c76b7d8e91d839d4"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\072 - Shostakovich： Piano Quintet in G Minor, Op. 57： 5. Finale (Allegretto) [KK7BAqxc8zM].mp3",
+    "new": "Shostakovich - String Quartets\\072 - Shostakovich： Piano Quintet in G Minor, Op. 57： 5. Finale (Allegretto).mp3",
+    "status": "renamed",
+    "sha256": "133b8c89209325869f786a75003ff3e13f2da6f485dc0aa456c077d47a5eda1b"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\073 - Shostakovich： Unfinished Quartet Movement [d0IrFGYwJVs].mp3",
+    "new": "Shostakovich - String Quartets\\073 - Shostakovich： Unfinished Quartet Movement.mp3",
+    "status": "renamed",
+    "sha256": "c955eae71c8c6a57204649ee9340e2f739176295aad72b9bb8c5cc53eb7453e0"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\074 - Shostakovich： 2 Pieces for String Quartet (1931) ： No. 1, Elegy (Lady Macbeth) [A3tJKkLkxZo].mp3",
+    "new": "Shostakovich - String Quartets\\074 - Shostakovich： 2 Pieces for String Quartet (1931) ： No. 1, Elegy (Lady Macbeth).mp3",
+    "status": "renamed",
+    "sha256": "beb57c7baf5153f284e0d9b4626464f673a9d248af817b8be2a126b39a8c41c2"
+  },
+  {
+    "old": "Shostakovich - String Quartets\\075 - Shostakovich： 2 Pieces for String Quartet (1931) ： No. 2, Polka (The Age of Gold) [VC3aI3V2lvo].mp3",
+    "new": "Shostakovich - String Quartets\\075 - Shostakovich： 2 Pieces for String Quartet (1931) ： No. 2, Polka (The Age of Gold).mp3",
+    "status": "renamed",
+    "sha256": "3d117327c87b242025a148cb289b7d41b28070d2277a9741100596d894f9eb75"
+  },
+  {
+    "old": "Verdi - La Traviata\\001 - Verdi： La traviata, Act I： Prelude [BXN6YLZ6HV4].mp3",
+    "new": "Verdi - La Traviata\\001 - Verdi： La traviata, Act I： Prelude.mp3",
+    "status": "renamed",
+    "sha256": "155e6258bb757a1ffbf4aa63391427e77d56ad7ac3fbc3ea6370af9384743be2"
+  },
+  {
+    "old": "Verdi - La Traviata\\002 - Verdi： La traviata, Act I： Dell'invito trascorsa è già l'ora [gQUh7DetF1k].mp3",
+    "new": "Verdi - La Traviata\\002 - Verdi： La traviata, Act I： Dell'invito trascorsa è già l'ora.mp3",
+    "status": "renamed",
+    "sha256": "10b1078ff03a388f3b32fa9d525dd94d3409dad9d3c7809b60e5f6199ac8045b"
+  },
+  {
+    "old": "Verdi - La Traviata\\003 - Verdi： La traviata, Act I： Libiamo ne' lieti calici ＂Brindisi＂ [YU2awVi9SHs].mp3",
+    "new": "Verdi - La Traviata\\003 - Verdi： La traviata, Act I： Libiamo ne' lieti calici “Brindisi”.mp3",
+    "status": "renamed",
+    "sha256": "bacfea5bc2378888540fb4cc7b943f5a5b65966dcbad78c60950f6e4ad0aeb79"
+  },
+  {
+    "old": "Verdi - La Traviata\\004 - Verdi： La traviata, Act I： Che è ciò？ [FZFYtfoIMVA].mp3",
+    "new": "Verdi - La Traviata\\004 - Verdi： La traviata, Act I： Che è ciò？.mp3",
+    "status": "renamed",
+    "sha256": "d91d8b77eec34c1efcecc327341fd35e3d0e9a253780edfd82e9bdcf20cf3887"
+  },
+  {
+    "old": "Verdi - La Traviata\\005 - Verdi： La traviata, Act I： Un dì felice, eterea – Si ridesta in ciel l'aurora [_W80zQVvk3w].mp3",
+    "new": "Verdi - La Traviata\\005 - Verdi： La traviata, Act I： Un dì felice, eterea – Si ridesta in ciel l'aurora.mp3",
+    "status": "renamed",
+    "sha256": "dcb54bbb782b7b09e21165bb3eeb203cb31bd9597839d90a08ee59d837487691"
+  },
+  {
+    "old": "Verdi - La Traviata\\006 - Verdi： La traviata, Act I： E strano! – Ah, fors'è lui [jkKgnCXpvtI].mp3",
+    "new": "Verdi - La Traviata\\006 - Verdi： La traviata, Act I： E strano! – Ah, fors'è lui.mp3",
+    "status": "renamed",
+    "sha256": "a4bbc240f83ce0b364982888940559fcd49c934a73daf128e19b376b8b546c12"
+  },
+  {
+    "old": "Verdi - La Traviata\\007 - Verdi： La traviata, Act I： Follie! Follie! – Sempre libera ＂Cabaletta＂ [kg0MUuqrYik].mp3",
+    "new": "Verdi - La Traviata\\007 - Verdi： La traviata, Act I： Follie! Follie! – Sempre libera “Cabaletta”.mp3",
+    "status": "renamed",
+    "sha256": "e27ffe4b50e1fd9c17cdfc8173ea4c4c9c9ad4a37dc8702f43453ba88eec3d7b"
+  },
+  {
+    "old": "Verdi - La Traviata\\008 - Verdi： La traviata, Act II： Lunge da lei [tX8-hLEdeiQ].mp3",
+    "new": "Verdi - La Traviata\\008 - Verdi： La traviata, Act II： Lunge da lei.mp3",
+    "status": "renamed",
+    "sha256": "da5d59d0d97024ae033b651181bf86ef0c46f383c447012e71413d7e347f7ecc"
+  },
+  {
+    "old": "Verdi - La Traviata\\009 - Verdi： La traviata, Act II： Aria. De' miei bollenti spiriti – Recit. Annina, donde vieni？ [duiArDA7DAU].mp3",
+    "new": "Verdi - La Traviata\\009 - Verdi： La traviata, Act II： Aria. De' miei bollenti spiriti – Recit. Annina, donde vieni？.mp3",
+    "status": "renamed",
+    "sha256": "3d16ada4f1766f6a1a24d041ec310db98f9e216a67173b78884af3fddac76091"
+  },
+  {
+    "old": "Verdi - La Traviata\\010 - Verdi： La traviata, Act II： O mio rimorso! – Alfredo？ [iP5GkuMNp0Q].mp3",
+    "new": "Verdi - La Traviata\\010 - Verdi： La traviata, Act II： O mio rimorso! – Alfredo？.mp3",
+    "status": "renamed",
+    "sha256": "e7264927fb6a47597869c45aaa2bfc84c39649bc3ff7099e1808c41aea09912c"
+  },
+  {
+    "old": "Verdi - La Traviata\\011 - Verdi： La traviata, Act II： Pura, siccome un angelo – Non sapete – un dì, quando le veneri [Ul3q2doXu1o].mp3",
+    "new": "Verdi - La Traviata\\011 - Verdi： La traviata, Act II： Pura, siccome un angelo – Non sapete – un dì, quando le veneri.mp3",
+    "status": "renamed",
+    "sha256": "dff0450ab2a8ec389dfa76dd7fd3deb84e6337917f74a4d9e9e0cc6f8af8e0ba"
+  },
+  {
+    "old": "Verdi - La Traviata\\012 - Verdi： La traviata, Act II： Dite alla giovine – Non amarlo ditegli [9VWGRRgnQDo].mp3",
+    "new": "Verdi - La Traviata\\012 - Verdi： La traviata, Act II： Dite alla giovine – Non amarlo ditegli.mp3",
+    "status": "renamed",
+    "sha256": "1e0e0727d5bfc74713c0d3f60a78241a0f5c86229937310d764461250a49ab00"
+  },
+  {
+    "old": "Verdi - La Traviata\\013 - Verdi： La traviata, Act II： Dammi tu forza, o ciel! – Ah, vive sol quel core [5FEwIHUUQEM].mp3",
+    "new": "Verdi - La Traviata\\013 - Verdi： La traviata, Act II： Dammi tu forza, o ciel! – Ah, vive sol quel core.mp3",
+    "status": "renamed",
+    "sha256": "3712d3629f280ac7b8820aa10cd9d68e2823428e5d153a0d493d79d8efa2d970"
+  },
+  {
+    "old": "Verdi - La Traviata\\014 - Verdi： La traviata, Act II： Aria. Di Provenza il mar – Recit. Né risponde d'un padre [qv9T_dGkyHg].mp3",
+    "new": "Verdi - La Traviata\\014 - Verdi： La traviata, Act II： Aria. Di Provenza il mar – Recit. Né risponde d'un padre.mp3",
+    "status": "renamed",
+    "sha256": "cc32f0bfcbc52b0d8d9a9d7412eb1a0bec1699807f76770b3047dcfefbfaf908"
+  },
+  {
+    "old": "Verdi - La Traviata\\015 - Verdi： La traviata, Act II： No, non udrai rimproveri [GsWZHL1gyxk].mp3",
+    "new": "Verdi - La Traviata\\015 - Verdi： La traviata, Act II： No, non udrai rimproveri.mp3",
+    "status": "renamed",
+    "sha256": "db7b1c61a632954b2a57138a20772021916cc3f8c14ee2c56d4116a6dd5128d2"
+  },
+  {
+    "old": "Verdi - La Traviata\\016 - Verdi： La traviata, Act II： Avrem lieta – Di Madride [4Tgu4LLRw0M].mp3",
+    "new": "Verdi - La Traviata\\016 - Verdi： La traviata, Act II： Avrem lieta – Di Madride.mp3",
+    "status": "renamed",
+    "sha256": "f6464d0e45e6a5178f03cbb522256d2b93af6bcb8040163340a3d2bb69d58cf9"
+  },
+  {
+    "old": "Verdi - La Traviata\\017 - Verdi： La traviata, Act II： Alfredo! Voi – Or tutti a me – Ogni suo aver [kGSsBsLTA1I].mp3",
+    "new": "Verdi - La Traviata\\017 - Verdi： La traviata, Act II： Alfredo! Voi – Or tutti a me – Ogni suo aver.mp3",
+    "status": "renamed",
+    "sha256": "5b6c91378e846a3310ab02a6ee4dc49d2e32effdbd2677043e4becc5d7144f5a"
+  },
+  {
+    "old": "Verdi - La Traviata\\018 - Verdi： La traviata, Act II： Di sprezzo degno – Alfredo, di questo core [7Vwmr9DnSGA].mp3",
+    "new": "Verdi - La Traviata\\018 - Verdi： La traviata, Act II： Di sprezzo degno – Alfredo, di questo core.mp3",
+    "status": "renamed",
+    "sha256": "23c47d1a9c691e4fbe307d47635bed018463240852979dfd22d6a3ffb60bfccb"
+  },
+  {
+    "old": "Verdi - La Traviata\\019 - Verdi： La traviata, Act III： Prelude – Annina？ Comandate？ [Nko3CYzsigg].mp3",
+    "new": "Verdi - La Traviata\\019 - Verdi： La traviata, Act III： Prelude – Annina？ Comandate？.mp3",
+    "status": "renamed",
+    "sha256": "0b49e22c4eb97a1d0675fd2c43c41f7da1d7052dc174cbaf505678c45a639e12"
+  },
+  {
+    "old": "Verdi - La Traviata\\020 - Verdi： La traviata, Act III： Tenesta la promessa – Addio del passato ＂Letter Scene＂ [mH-mUbmSu4I].mp3",
+    "new": "Verdi - La Traviata\\020 - Verdi： La traviata, Act III： Tenesta la promessa – Addio del passato “Letter Scene”.mp3",
+    "status": "renamed",
+    "sha256": "362cd664ca13b492f498ea9cbc79b19530e3a3939f0dac3329f52c792a8a1ea1"
+  },
+  {
+    "old": "Verdi - La Traviata\\021 - Verdi： La traviata, Act III： Largo a quadrupede [-qYJtafgwzE].mp3",
+    "new": "Verdi - La Traviata\\021 - Verdi： La traviata, Act III： Largo a quadrupede.mp3",
+    "status": "renamed",
+    "sha256": "65a4c82f04137d607ff124183dc85ad023fecbb7e79bfcce9d587650624cb1dc"
+  },
+  {
+    "old": "Verdi - La Traviata\\022 - Verdi： La traviata, Act III： Signora – Che t'accadde？ [bLPrUslgrds].mp3",
+    "new": "Verdi - La Traviata\\022 - Verdi： La traviata, Act III： Signora – Che t'accadde？.mp3",
+    "status": "renamed",
+    "sha256": "61a53231caa1b431e7b96b4246d6cf861c587399ea5f242f5e6fac3aff139d08"
+  },
+  {
+    "old": "Verdi - La Traviata\\023 - Verdi： La traviata, Act III： Parigi, o cara – Ah! Gran Dio! [npxI_2uE494].mp3",
+    "new": "Verdi - La Traviata\\023 - Verdi： La traviata, Act III： Parigi, o cara – Ah! Gran Dio!.mp3",
+    "status": "renamed",
+    "sha256": "4b0f1480a46bce21c4d42c7f2522c4984cccf430df6c3151a5548911ef91d1bf"
+  },
+  {
+    "old": "Verdi - La Traviata\\024 - Verdi： La traviata, Act III： Ah, Violetta! – Prendi, quest'è l'immagine – Se una pudica... [EkcSNPhx3ck].mp3",
+    "new": "Verdi - La Traviata\\024 - Verdi： La traviata, Act III： Ah, Violetta! – Prendi, quest'è l'immagine – Se una pudica....mp3",
+    "status": "renamed",
+    "sha256": "e9d9586af90867c7650b4c5ebcd11c2c56e9d5bbbc92b76fa6bdbe06709c17bd"
+  },
+  {
+    "old": "Ysaye - Solo Violin Sonatas\\001 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 1 in G Minor： I. Grave [Mz71f4cCNSA].mp3",
+    "new": "Ysaye - Solo Violin Sonatas\\001 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 1 in G Minor： I. Grave.mp3",
+    "status": "renamed",
+    "sha256": "762ffb85a109d328d66ddb7bcc520c70409a74c5d14811e1934b36c2afdeb890"
+  },
+  {
+    "old": "Ysaye - Solo Violin Sonatas\\002 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 1 in G Minor： II. Fugato [5uq7im6Nqww].mp3",
+    "new": "Ysaye - Solo Violin Sonatas\\002 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 1 in G Minor： II. Fugato.mp3",
+    "status": "renamed",
+    "sha256": "8f118d4ad4446fc8fc548e8ed9752e9f8848e06789e7f4efb82a855e008340f1"
+  },
+  {
+    "old": "Ysaye - Solo Violin Sonatas\\003 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 1 in G Minor： III. Allegretto poco scherzoso [XxVIAzQwSPk].mp3",
+    "new": "Ysaye - Solo Violin Sonatas\\003 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 1 in G Minor： III. Allegretto poco scherzoso.mp3",
+    "status": "renamed",
+    "sha256": "c69603103fbe3153e0ecdf47c872d35d906a39b9e0e013fb2065057729eb1cf9"
+  },
+  {
+    "old": "Ysaye - Solo Violin Sonatas\\004 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 1 in G Minor： IV. Finale con brio [qtSJBISh4dc].mp3",
+    "new": "Ysaye - Solo Violin Sonatas\\004 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 1 in G Minor： IV. Finale con brio.mp3",
+    "status": "renamed",
+    "sha256": "c8334de2bb585acdca1fe8bd1991bcf69e2d7b72585498b3087813fc000efb00"
+  },
+  {
+    "old": "Ysaye - Solo Violin Sonatas\\005 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 2 in A Minor： I. Obsession. Prèlude [K3Ks4ejd2cY].mp3",
+    "new": "Ysaye - Solo Violin Sonatas\\005 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 2 in A Minor： I. Obsession. Prèlude.mp3",
+    "status": "renamed",
+    "sha256": "068f9e614f6bd628f8260d0bea9837183206673f1900a060ffa110514e543c38"
+  },
+  {
+    "old": "Ysaye - Solo Violin Sonatas\\006 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 2 in A Minor： II. Malinconia [NxoE1lmS_Pw].mp3",
+    "new": "Ysaye - Solo Violin Sonatas\\006 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 2 in A Minor： II. Malinconia.mp3",
+    "status": "renamed",
+    "sha256": "0b89d387a7f027b99a98c9abea347f5a15221ce26d03368bba536c72be62c643"
+  },
+  {
+    "old": "Ysaye - Solo Violin Sonatas\\007 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 2 in A Minor： III. Danse des Ombres.... [H-5d2dvdoQM].mp3",
+    "new": "Ysaye - Solo Violin Sonatas\\007 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 2 in A Minor： III. Danse des Ombres.....mp3",
+    "status": "renamed",
+    "sha256": "f546e38969ae06a813f7af39581a6fc9f8ab9672aa7af71c64da616839e6da0e"
+  },
+  {
+    "old": "Ysaye - Solo Violin Sonatas\\008 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 2 in A Minor： IV. Les furies [1DCnaUaqJ8A].mp3",
+    "new": "Ysaye - Solo Violin Sonatas\\008 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 2 in A Minor： IV. Les furies.mp3",
+    "status": "renamed",
+    "sha256": "8b22831144d12ceadb8e47412f1dbac4f2303263a712c39a40c15d5bc68eeb71"
+  },
+  {
+    "old": "Ysaye - Solo Violin Sonatas\\009 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27： Sonata No. 3 in D Minor ＂Ballade＂ [flBfxbexYbg].mp3",
+    "new": "Ysaye - Solo Violin Sonatas\\009 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27： Sonata No. 3 in D Minor “Ballade”.mp3",
+    "status": "renamed",
+    "sha256": "12791760b59d6845eab93d8790c2be3635b375b924cea140877ceef830f0ec69"
+  },
+  {
+    "old": "Ysaye - Solo Violin Sonatas\\010 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 4 in E Minor： I. Allemande [sfQ5MKMe12o].mp3",
+    "new": "Ysaye - Solo Violin Sonatas\\010 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 4 in E Minor： I. Allemande.mp3",
+    "status": "renamed",
+    "sha256": "a643d8e964b581ce70af212a1dd8059758ae5a9b7cc934b99d992719a31b4044"
+  },
+  {
+    "old": "Ysaye - Solo Violin Sonatas\\011 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 4 in E Minor： II. Sarabande [BicQSRmzwv8].mp3",
+    "new": "Ysaye - Solo Violin Sonatas\\011 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 4 in E Minor： II. Sarabande.mp3",
+    "status": "renamed",
+    "sha256": "2df5b885ae121905b474a711c2a78d9097ab160eb277281a0cfd5a7db3c291fc"
+  },
+  {
+    "old": "Ysaye - Solo Violin Sonatas\\012 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 4 in E Minor： III. Finale [yjAWKh4W19k].mp3",
+    "new": "Ysaye - Solo Violin Sonatas\\012 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 4 in E Minor： III. Finale.mp3",
+    "status": "renamed",
+    "sha256": "b3ca15ff11ad8e57661d12436f453bdb845892b92add4208ee06d8e68e9a442e"
+  },
+  {
+    "old": "Ysaye - Solo Violin Sonatas\\013 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 5 in G Major： I. L'Aurore [P8pcA42XDFE].mp3",
+    "new": "Ysaye - Solo Violin Sonatas\\013 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 5 in G Major： I. L'Aurore.mp3",
+    "status": "renamed",
+    "sha256": "c234ecd354aadac42d5b7d04506df01b4d700653fc284f0d1abb396c9b2ee794"
+  },
+  {
+    "old": "Ysaye - Solo Violin Sonatas\\014 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 5 in G Major： II. Danse rustique [Y6JfVI1Czps].mp3",
+    "new": "Ysaye - Solo Violin Sonatas\\014 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27 ⧸ Sonata No. 5 in G Major： II. Danse rustique.mp3",
+    "status": "renamed",
+    "sha256": "adc06e22590b254a5abfa57c27fc9ccff4074e16c5f29e23998816d2f4ee9082"
+  },
+  {
+    "old": "Ysaye - Solo Violin Sonatas\\015 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27： Sonata No. 6 in E Major [QBSSTKo60Qs].mp3",
+    "new": "Ysaye - Solo Violin Sonatas\\015 - Ysaÿe： 6 Sonatas for Violin Solo, Op. 27： Sonata No. 6 in E Major.mp3",
+    "status": "renamed",
+    "sha256": "e879930d483cdc80a76d939072a66bc59455c6b8b63dc1727813119cbfa50805"
+  }
+]

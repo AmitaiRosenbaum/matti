@@ -1,0 +1,28 @@
+# Individual video links download only that video, even when they contain &list=.
+# Playlist links download the whole playlist. Blank lines and # comments are allowed.
+https://www.youtube.com/watch?v=3sur4BmjQt8
+https://www.youtube.com/watch?v=oIv_Y2RPQ_A
+https://www.youtube.com/watch?v=JN_Vyg_wURY
+https://www.youtube.com/watch?v=NM4e606yFJg
+https://www.youtube.com/playlist?list=PL1dfVf_Yq5rGGTKx4Fi5PwX5TfPBXNP8p
+https://www.youtube.com/watch?v=m7k9UMcHbr0
+https://www.youtube.com/watch?v=bYg6aMDQ_TA
+https://www.youtube.com/watch?v=27C4pfRsf9g
+https://www.youtube.com/watch?v=7F1ET2XHQfk
+https://www.youtube.com/watch?v=l9CZykYZkOQ
+https://www.youtube.com/watch?v=co-TFLbaZAE
+https://www.youtube.com/watch?v=DgFemuNxBrk
+https://www.youtube.com/watch?v=To4SWGZkEPk
+https://www.youtube.com/watch?v=YXt0Nw8xWh0
+https://www.youtube.com/watch?v=uvY8fdgezLQ
+https://www.youtube.com/watch?v=4oj_2Lmb23A
+https://www.youtube.com/watch?v=wBFeeOt_SGY
+https://www.youtube.com/watch?v=OGfeHYyzVtY
+https://www.youtube.com/watch?v=1PRZ-akAYxU
+https://www.youtube.com/playlist?list=PLa1rC97wRkZjjHrjU7EijTPrnERnVlmLY
+https://www.youtube.com/watch?v=m7zBm_Tnf9M
+https://www.youtube.com/playlist?list=PLO09Th4dLYVmuYzhOCFHpftUs1TiBTczS
+https://www.youtube.com/watch?v=YuBeBjqKSGQ&list=PLOwSo8kHs4XT4Hx7OufxbXJLestNUWg7F&index=1
+https://www.youtube.com/watch?v=noHQXogDsA0&list=PLOwSo8kHs4XT4Hx7OufxbXJLestNUWg7F&index=18
+https://www.youtube.com/watch?v=gMY3Ou9L5xE&list=PLOwSo8kHs4XT4Hx7OufxbXJLestNUWg7F&index=28
+https://www.youtube.com/watch?v=Sf-tjXevlyQ&list=PLOwSo8kHs4XT4Hx7OufxbXJLestNUWg7F&index=30

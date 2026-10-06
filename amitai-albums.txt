@@ -1,0 +1,76 @@
+# playlist number|album artist|album
+1|Elis Regina; Antônio Carlos Jobim|Elis & Tom
+2|Milton Nascimento; Lô Borges|Clube da Esquina
+3|Chico Buarque|Construção
+4|João Gilberto|João Gilberto (1973)
+5|Stan Getz; João Gilberto|Getz/Gilberto
+6|João Gilberto|Amoroso
+7|Cartola|Cartola (1976)
+8|Edu Lobo|Cantiga de Longe
+9|Milton Nascimento|Minas
+10|Caetano Veloso|Muito — Dentro da Estrela Azulada
+11|מתי כספי|מתי כספי (1974)
+12|אריק איינשטיין; יוני רכטר|משירי אברהם חלפי
+13|אריק איינשטיין; שם טוב לוי|פסק זמן
+14|יוני רכטר|התכוונות
+15|שם טוב לוי|התעוררות
+16|אלון עדר ולהקה|משתלבים בנוף
+17|דניאלה ספקטור|כל הדברים היפים באמת
+18|דניאלה ספקטור|בהתחלה
+19|רונה קינן|עיניים זרות
+20|שלומי שבן|עיר (Deluxe Edition)
+21|Dudu Tassa & The Kuwaitis|Dudu Tassa & The Kuwaitis
+22|אלג'יר|מנועים קדימה
+23|נועם רותם|עזרה בדרך
+24|מתי כספי|מתי כספי (1976)
+25|מתי כספי|צד א' צד ב'
+26|מתי כספי|צד ג' צד ד'
+27|אריק איינשטיין; שלום חנוך|שבלול
+28|אריק איינשטיין; שלום חנוך|פלסטלינה
+29|אריק איינשטיין|בדשא אצל אביגדור
+30|אריק איינשטיין|סע לאט
+31|אביב גפן|זה רק אור הירח
+32|אביב גפן|עכשיו מעונן
+33|אביב גפן|המכתב
+34|אביתר בנאי|אביתר בנאי
+35|אביתר בנאי|עומד על נייר
+36|אביתר בנאי|לילה כיום יאיר
+37|Chico Buarque|Meus Caros Amigos
+38|Chico Buarque|Chico Buarque (1978)
+39|Elis Regina|Elis (1972)
+40|Elis Regina|Falso Brilhante
+41|Antônio Carlos Jobim|Wave
+42|Antônio Carlos Jobim|Stone Flower
+43|Antônio Carlos Jobim|Matita Perê
+44|João Gilberto|Chega de Saudade
+45|Vinícius de Moraes; Toquinho; Marília Medalha|Como Dizia o Poeta...
+46|Vinícius de Moraes; Toquinho|Vinícius & Toquinho (1974)
+47|Toquinho|Aquarela
+48|Chico César|Aos Vivos
+49|Chico César|Cuscuz Clã
+50|Chico César|Mama Mundi
+51|Chick Corea|Return to Forever
+52|Baden Powell; Vinícius de Moraes|Os Afro-Sambas
+53|Dorival Caymmi|Caymmi e Seu Violão
+54|Paulinho da Viola|A Dança da Solidão
+55|Jorge Drexler|Eco
+56|Nick Drake|Pink Moon
+57|Tim Bernardes|Mil Coisas Invisíveis
+58|Kings of Convenience|Quiet Is the New Loud
+59|José González|Veneer
+60|Elliott Smith|Either/Or
+61|Leonard Cohen|Songs of Leonard Cohen
+62|Silvio Rodríguez|Al Final de Este Viaje...
+63|Bala Desejo|Sim Sim Sim
+64|שלום חנוך|אדם בתוך עצמו
+65|מאיר אריאל|שירי חג ומועד ונופל
+66|יהודית רביץ|באה מאהבה
+67|שלמה גרוניך|למה לא סיפרת לי!?
+68|ברי סחרוף|סימנים של חולשה
+69|שי צברי|שחרית
+70|Geva Alon|Get Closer
+71|Tamar Eisenman|Gymnasium
+72|João Bosco|Caça a Raposa
+73|João Bosco|Galos de Briga
+74|João Bosco|Linha de Passe
+75|João Bosco|Comissão de Frente
