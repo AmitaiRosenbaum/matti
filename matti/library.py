@@ -2,6 +2,7 @@
 from collections import Counter
 import json
 from mutagen.id3 import ID3
+from .tracks import iter_mp3
 
 
 def status(library):
@@ -10,7 +11,7 @@ def status(library):
     path = library / 'lyrics-state.json'
     state = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
     coverage = Counter()
-    for song in sorted(library.rglob('*.mp3')):
+    for song in sorted(iter_mp3(library)):
         if not song.resolve().is_relative_to(library.resolve()):
             raise ValueError(f'MP3 resolves outside library: {song}')
         try:

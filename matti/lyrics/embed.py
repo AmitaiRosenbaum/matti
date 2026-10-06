@@ -7,6 +7,7 @@ import shutil
 
 from mutagen.id3 import ID3, USLT
 from matti.audio import audio_hash
+from matti.tracks import iter_mp3
 
 from matti.paths import workspace
 ROOT = workspace()
@@ -53,7 +54,7 @@ def main(argv=None):
     backup = (args.backup_dir or library / '.matti' / 'backups') / ('lyrics-' + datetime.now().strftime('%Y%m%d-%H%M%S-%f'))
     records = []
     errors = 0
-    for path in sorted(library.rglob('*.mp3')):
+    for path in sorted(iter_mp3(library)):
         txt = path.with_suffix('.txt')
         if not txt.is_file():
             continue

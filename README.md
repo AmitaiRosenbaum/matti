@@ -46,6 +46,7 @@ New lyric embedding backups are under `LIBRARY/.matti/backups`.
 | `matti download` | Download only; supports `--refresh`, `--collection`, `--dry-run` |
 | `matti lyrics` | Fetch lyrics for an existing library; supports `--only-unresolved`, `--retry-missing`, `--no-web`, `--no-embed` |
 | `matti embed` | Preview embedding matching TXT files; use `--apply` to write |
+| `matti albums` | Preview album title/folder normalization; use `--apply` to write |
 | `matti status` | Inspect lyric coverage offline |
 
 Use `matti COMMAND --help` for stage options. `--library PATH` overrides the library
@@ -70,6 +71,28 @@ Unknown config keys and invalid values are rejected. Each library has independen
 checkpoints, cache, and SQLite stage history in `.matti/runs.sqlite3`.
 
 ## Behavior and safety
+
+Downloads automatically standardize album names before the lyrics stage, including
+when downloads are already complete. Single-album folders use `Album Artist - Album Title`;
+tags contain the album title alone. Upload labels such as “Full Album” are removed,
+accents and original languages are retained, and edition labels and disambiguating
+years are preserved. Windows-forbidden filename characters use fullwidth equivalents
+(for example `Either/Or` becomes `Either／Or` in its folder name).
+Mixed-album playlists retain their separate album tags and collection folders.
+
+To standardize an existing library without downloading or fetching lyrics:
+
+```powershell
+matti --config profiles/amitai.toml albums
+matti --config profiles/amitai.toml albums --apply
+```
+
+Album changes back up affected MP3s and state files under `.matti/backups/albums-*`.
+Verification protects audio, artwork, lyrics, and other tags. Failures roll back
+tag writes, folder renames, and checkpoints. `playlist-folders.json` and lyric-state
+paths migrate with the folders; `album-policy.json` retains canonical album names
+by playlist URL so subsequent downloads use them. Internal backups are excluded
+from all library scans.
 
 Downloads reject titles containing `Unreleased`, case-insensitively. Completed
 collections are skipped locally; `--refresh` checks for new playlist additions

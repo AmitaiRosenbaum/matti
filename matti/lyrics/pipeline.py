@@ -17,6 +17,7 @@ ROOT = workspace()
 import requests
 from mutagen.mp3 import MP3
 from matti.lyrics.embed import main as embed_main
+from matti.tracks import iter_mp3
 from .matching import normal, similar, identity, title_variants
 from .matching import plain_from_lrc, valid_plain, valid_lrc, duration_matches
 from matti.state import atomic_json
@@ -112,7 +113,7 @@ def main(argv=None):
     state = json.loads(state_path.read_text(encoding='utf-8')) if state_path.exists() else {}
     client = Client(library / '.lyrics-cache', retry=args.retry_missing)
     tracks, skipped = [], Counter()
-    for path in sorted(library.rglob('*.mp3')):
+    for path in sorted(iter_mp3(library)):
         if not path.resolve().is_relative_to(library):
             raise ValueError(f'MP3 resolves outside library: {path}')
         if path.with_suffix('.lrc').is_file():
@@ -188,7 +189,7 @@ def main(argv=None):
                'coverage': dict(Counter('synced' if p.with_suffix('.lrc').exists() else
                    'plain' if p.with_suffix('.txt').exists() or MP3(p).tags.getall('USLT') else
                    'instrumental' if state.get(str(p.relative_to(library)), {}).get('status') == 'instrumental' else
-                   'missing' for p in library.rglob('*.mp3')))}
+                   'missing' for p in iter_mp3(library)))}
     atomic_json(library / 'lyrics-report.json', summary)
     print(json.dumps(summary, ensure_ascii=True, indent=2), flush=True)
     if not args.no_embed:

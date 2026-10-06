@@ -6,6 +6,8 @@
 `matti.lyrics.providers` contains source adapters; `matching` validates candidate identity,
 text and timing; `http` owns HTTP cache, deduplication, throttling and host backoff.
 `matti.lyrics.embed` owns reversible tag writes; `matti.audio` verifies MP3 payloads.
+`matti.albums` owns album normalization, transactional folder/tag changes, and path
+migrations. `matti.tracks` scans active media while excluding internal backups.
 `matti.library` provides read-only coverage. `matti.state` provides atomic JSON writes.
 `matti.ledger` stores stage execution history in SQLite. `matti.legacy` isolates curated,
 project-specific maintenance from the generic workflow.
@@ -37,6 +39,7 @@ CLI write stages acquire an OS-managed library lock, released on exit or crash.
 HTTP concurrency is bounded within the lyrics stage. Compatibility scripts and direct
 module calls bypass the CLI lock and should not run concurrently on the same library.
 A stopped run can have an unfinished SQLite entry; per-stage checkpoints control resume.
-MP3 is the supported format. Source tags are currently the downloaded/display tags;
+MP3 is the supported format. Album normalization stores the original changed title
+in `TXXX:SOURCE_ALBUM`. Source tags otherwise remain the downloaded/display tags;
 separate immutable source metadata, a unified track database, and GUI APIs remain future
 extensions. No generic metadata rewriting is enabled until its rules are configurable.

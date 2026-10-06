@@ -108,6 +108,7 @@ def build_command(item, output, ffmpeg=None, runtime=None, simulate=False):
         template = str(output / 'Songs').replace('%', '%%') + f'/{item["input_index"]:03d} - %(title).120B.%(ext)s'
     elif item.get('kind') == 'playlist':
         template = str(output / 'Playlists').replace('%', '%%') + f'/{item["input_index"]:03d} - %(playlist_title,playlist|Playlist).80B/%(playlist_index)03d - %(title).120B.%(ext)s'
+    if item.get('kind') != 'video':
         folder_map = output / 'playlist-folders.json'
         if folder_map.exists():
             relative = json.loads(folder_map.read_text(encoding='utf-8')).get(item['url'])
@@ -115,7 +116,8 @@ def build_command(item, output, ffmpeg=None, runtime=None, simulate=False):
                 destination = (output / relative).resolve()
                 if not destination.is_relative_to(output.resolve()):
                     raise ValueError('Playlist folder must be inside the output directory')
-                template = str(destination).replace('%', '%%') + '/%(playlist_index)03d - %(title).120B.%(ext)s'
+                number = '%(playlist_index)03d - ' if item.get('kind') == 'playlist' else '%(playlist_index&{:03d} - |)s'
+                template = str(destination).replace('%', '%%') + '/' + number + '%(title).120B.%(ext)s'
     command = [sys.executable, "-m", "yt_dlp", "--ignore-config",
                "--no-playlist" if item.get('kind') == 'video' else "--yes-playlist",
                "--ignore-errors",
@@ -233,6 +235,38 @@ def run_lyrics(output):
                            '--library', str(output)]).returncode
 
 
+def register_album_sources(output, items):
+    """Capture first-download folders so their canonical paths can be reused."""
+    from .state import atomic_json
+    path = output / 'playlist-folders.json'
+    mapping = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
+    original = dict(mapping)
+    for item in items:
+        if item.get('kind') == 'video' or item['url'] in mapping:
+            continue
+        if item.get('kind') == 'playlist':
+            parent = output / 'Playlists'
+            candidates = [p for p in parent.glob(f'{item["input_index"]:03d} - *') if p.is_dir()]
+        else:
+            folder = output / item['name']
+            candidates = [folder] if folder.is_dir() else []
+        if len(candidates) == 1:
+            folder = candidates[0]
+            if not folder.resolve().is_relative_to(output.resolve()):
+                raise ValueError('Album folder resolves outside output')
+            mapping[item['url']] = folder.relative_to(output).as_posix()
+    if mapping != original:
+        atomic_json(path, mapping)
+
+
+def run_albums(output, items=()):
+    """Normalize downloaded albums before lyrics; also repair existing libraries."""
+    if output.is_dir():
+        from .albums import standardize
+        register_album_sources(output, items)
+        standardize(output, apply=True)
+
+
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     source = parser.add_mutually_exclusive_group()
@@ -261,6 +295,7 @@ def main(argv=None):
         output = (args.output or (ROOT / 'downloads' / args.links.stem if args.links else ROOT / 'classical_music')).expanduser().resolve()
         fetch_lyrics = (args.lyrics if args.lyrics is not None else
                         bool(args.links and args.links.stem == 'amitai-songs'))
+        source_items = list(items)
         completed = completed_collections(output)
         if not (args.list or args.check or args.simulate or args.refresh):
             total = len(items)
@@ -268,6 +303,8 @@ def main(argv=None):
             print(f'Skipping {total - len(items)} completed collections; {len(items)} pending.')
             if not items:
                 print('Nothing to download. Use --refresh to check playlists for additions.')
+                if not args.dry_run:
+                    run_albums(output, source_items)
                 return run_lyrics(output) if fetch_lyrics and not args.dry_run else 0
         if args.list or args.dry_run:
             for item in items:
@@ -306,6 +343,8 @@ def main(argv=None):
             logger.info("%s finished: %s collections completed without reported errors; "
                         "%s collections completed with one or more errors",
                         "Simulation" if args.simulate else "Run", len(items) - failed, failed)
+            if not args.simulate:
+                run_albums(output, source_items)
             lyrics_code = run_lyrics(output) if fetch_lyrics and not args.simulate else 0
             return 1 if failed else lyrics_code
         except KeyboardInterrupt:

@@ -21,6 +21,7 @@ def project(args):
 def execute(command, config, extra):
     from . import download
     from .lyrics import pipeline, embed
+    from . import albums
     from .ledger import record
 
     def option_path(option):
@@ -65,15 +66,15 @@ def execute(command, config, extra):
             return code or lyric_code
         return code
     action = downloading if command == 'download' else lyrics if command == 'lyrics' else (
-        lambda: embed.main(['--library', str(config.library)] + extra))
-    if any(flag in extra for flag in ('--help', '-h', '--dry-run', '--list', '--check', '--simulate')) or (command == 'embed' and '--apply' not in extra):
+        lambda: (albums if command == 'albums' else embed).main(['--library', str(config.library)] + extra))
+    if any(flag in extra for flag in ('--help', '-h', '--dry-run', '--list', '--check', '--simulate')) or (command in ('embed', 'albums') and '--apply' not in extra):
         return action()
     # Overrides determine where stage state and history are written.
     destination = config.library
     for option in ('--library', '--output'):
         if option in extra:
             destination = option_path(option)
-    if command in ('lyrics', 'embed') and not destination.is_dir():
+    if command in ('lyrics', 'embed', 'albums') and not destination.is_dir():
         raise ValueError(f'Library does not exist: {destination}')
     with record(destination, command) as outcome:
         outcome['code'] = action()
@@ -95,7 +96,8 @@ def main(argv=None):
     status = subs.add_parser('status', help='Report library coverage without networking')
     status.add_argument('--library', type=Path)
     for name, help_text in [('run', 'Download then acquire and embed lyrics'), ('download', 'Download/resume sources'),
-                            ('lyrics', 'Acquire synced or plain lyrics'), ('embed', 'Embed local TXT lyrics; preview by default')]:
+                            ('lyrics', 'Acquire synced or plain lyrics'), ('embed', 'Embed local TXT lyrics; preview by default'),
+                            ('albums', 'Standardize album tags and folders; preview by default')]:
         subs.add_parser(name, help=help_text, add_help=False)
     args, extra = parser.parse_known_args(argv)
     try:
