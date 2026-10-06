@@ -191,6 +191,20 @@ class DownloaderTests(unittest.TestCase):
             self.assertEqual(music.preflight('custom/bin'), ('custom/bin', 'deno'))
             run.assert_not_called()
 
+    def test_lyrics_run_when_amitai_downloads_are_already_complete(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            with patch('music.pending_collections', return_value=[]), \
+                    patch('music.run_lyrics', return_value=0) as lyrics, \
+                    patch('music.preflight') as preflight:
+                self.assertEqual(music.main(['--links', str(music.ROOT / 'amitai-songs.txt'),
+                                             '--output', tmp]), 0)
+                lyrics.assert_called_once_with(Path(tmp).resolve())
+                preflight.assert_not_called()
+                lyrics.reset_mock()
+                self.assertEqual(music.main(['--links', str(music.ROOT / 'amitai-songs.txt'),
+                                             '--output', tmp, '--no-lyrics']), 0)
+                lyrics.assert_not_called()
+
 
 if __name__ == '__main__':
     unittest.main()

@@ -4,3 +4,4 @@ classical_music/
 *.part
 metadata-backups/
 downloads/
+.lyrics-deps/

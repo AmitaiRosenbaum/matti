@@ -226,6 +226,12 @@ def pending_collections(items, output, completed):
     return pending
 
 
+def run_lyrics(output):
+    """Run the resumable lyrics stage, including when downloads were skipped."""
+    return subprocess.run([sys.executable, str(ROOT / 'fetch_lyrics.py'),
+                           '--library', str(output)]).returncode
+
+
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     source = parser.add_mutually_exclusive_group()
@@ -235,6 +241,10 @@ def main(argv=None):
     parser.add_argument("--collection", action="append", default=[], help="Name substring; repeat to select more")
     parser.add_argument("--ffmpeg-location", default=os.environ.get("FFMPEG_LOCATION"))
     parser.add_argument('--refresh', action='store_true', help='Recheck completed collections for new playlist items; retain video archive')
+    lyrics = parser.add_mutually_exclusive_group()
+    lyrics.add_argument('--lyrics', dest='lyrics', action='store_true', default=None,
+                        help='Fetch synced/plain lyrics after downloads (automatic for amitai-songs)')
+    lyrics.add_argument('--no-lyrics', dest='lyrics', action='store_false', help='Skip lyrics post-processing')
     mode = parser.add_mutually_exclusive_group()
     mode.add_argument("--list", action="store_true", help="List collections offline")
     mode.add_argument("--dry-run", action="store_true", help="Print commands offline without writing files")
@@ -248,6 +258,8 @@ def main(argv=None):
             if not items:
                 raise ValueError("No collections match --collection")
         output = (args.output or (ROOT / 'downloads' / args.links.stem if args.links else ROOT / 'classical_music')).expanduser().resolve()
+        fetch_lyrics = (args.lyrics if args.lyrics is not None else
+                        bool(args.links and args.links.stem == 'amitai-songs'))
         completed = completed_collections(output)
         if not (args.list or args.check or args.simulate or args.refresh):
             total = len(items)
@@ -255,7 +267,7 @@ def main(argv=None):
             print(f'Skipping {total - len(items)} completed collections; {len(items)} pending.')
             if not items:
                 print('Nothing to download. Use --refresh to check playlists for additions.')
-                return 0
+                return run_lyrics(output) if fetch_lyrics and not args.dry_run else 0
         if args.list or args.dry_run:
             for item in items:
                 print(f'{item["name"]}\n  {item["url"]}')
@@ -293,7 +305,8 @@ def main(argv=None):
             logger.info("%s finished: %s collections completed without reported errors; "
                         "%s collections completed with one or more errors",
                         "Simulation" if args.simulate else "Run", len(items) - failed, failed)
-            return 1 if failed else 0
+            lyrics_code = run_lyrics(output) if fetch_lyrics and not args.simulate else 0
+            return 1 if failed else lyrics_code
         except KeyboardInterrupt:
             logger.info("Stopped. Rerun the script later; downloaded.txt allows completed videos to be skipped and outstanding work to resume.")
             return 130

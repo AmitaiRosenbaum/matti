@@ -139,6 +139,45 @@ Implementation reference: [yt-dlp documentation](https://github.com/yt-dlp/yt-dl
 
 ### Plain-text lyrics for Musicolet
 
+The `amitai-songs` pipeline now fetches lyrics automatically after downloads,
+including reruns that skip every completed playlist:
+
+```powershell
+python music.py --links amitai-songs.txt
+python fetch_lyrics.py
+```
+
+`fetch_lyrics.py` defaults to `downloads/amitai-songs`. It searches LRCLIB,
+then lrcmux (multiple upstream providers), then Tab4U for Hebrew songs or
+Vagalume for other artists. Finally it tries automated web search and known
+lyric-page extractors. No manual searches are required. Google HTML search can
+return no usable results; optionally set `BRAVE_SEARCH_API_KEY` for the Brave
+Search API instead. No API key is needed for the other stages.
+
+Same-name `.lrc` files are saved only for matching artists/titles, sufficiently
+close recording durations and valid, increasing timestamps. Lyrics from a
+different-length recording fall back to plain text. This checks metadata, not
+the timing against the actual vocals. Existing `.lrc`, `.txt` and embedded
+lyrics are preserved. New plain lyrics are saved as UTF-8 `.txt` and embedded
+with verified MP3 backups. Instrumental matches are recorded rather than given
+fake lyrics. Sources and results are recorded in `lyrics-state.json` and
+`lyrics-report.json` inside the library. HTTP responses are cached for 30 days;
+recently checked covered tracks are skipped for 7 days; errors and unresolved
+tracks remain eligible (cached responses avoid repeated searches). Requests have timeouts and
+per-host delays, with a circuit breaker for repeated provider failures.
+
+```powershell
+python fetch_lyrics.py --retry-missing
+python fetch_lyrics.py --only-unresolved
+python fetch_lyrics.py --library "D:\Music\My Project"
+python fetch_lyrics.py --limit 20 --no-embed
+python music.py --links amitai-songs.txt --no-lyrics
+```
+
+Use `--lyrics` to enable this stage for other downloader projects; offline
+`--list`, `--dry-run`, `--check` and `--simulate` never fetch lyrics. Provider
+coverage and availability vary; unresolved tracks remain in the report.
+
 ```powershell
 python embed_txt_lyrics.py
 python embed_txt_lyrics.py --apply

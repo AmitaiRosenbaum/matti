@@ -9,7 +9,7 @@ import re
 import shutil
 import unicodedata
 
-from mutagen.id3 import ID3, Frames, TXXX
+from mutagen.id3 import ID3, Frames, TXXX, SYLT
 from clean_metadata import audio_hash
 from music import load_links
 
@@ -22,7 +22,13 @@ def normalize(tags):
         if hasattr(frame, 'encoding'):
             frame.encoding = 1  # UTF-16, explicitly marked with a byte-order mark
         if hasattr(frame, 'text'):
-            frame.text = [unicodedata.normalize('NFC', str(s)) for s in frame.text]
+            if isinstance(frame, SYLT):
+                frame.text = [(unicodedata.normalize('NFC', text), timestamp)
+                              for text, timestamp in frame.text]
+            elif isinstance(frame.text, str):
+                frame.text = unicodedata.normalize('NFC', frame.text)
+            else:
+                frame.text = [unicodedata.normalize('NFC', str(s)) for s in frame.text]
         if hasattr(frame, 'desc'):
             frame.desc = unicodedata.normalize('NFC', frame.desc)
         if hasattr(frame, 'sub_frames'):
